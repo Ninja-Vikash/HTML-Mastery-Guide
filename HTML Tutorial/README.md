@@ -16,6 +16,7 @@ This repo basically created for Beginner's Information.
 &lt/html&gt
 </pre>
 Above code called as <u>Boiler Plate</u>.
+<br>
 2. All the elements within <> called as <b>TAGS</b>
 most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
 But there are few tags which are self-closed tag : <br>
