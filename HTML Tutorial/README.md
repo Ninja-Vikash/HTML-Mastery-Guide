@@ -27,8 +27,7 @@ Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 </pre>
 is Parent container.
 <pre>
-&lthead&gt  &lt/head&gt
-
+&lthead&gt  &lt/head&gt <br>
 &ltbody&gt  &lt/body&gt
 </pre>
 are child of HTML Tag.
