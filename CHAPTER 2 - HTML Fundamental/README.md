@@ -1,5 +1,7 @@
 # CHAPTER : 2
 ### FUNDAMENTALS OF HTML
+HTML Tags information
+<hr>
 1. HTMl is Not case sensitive.
 <pre>
 &lthtml&gt = &lttHTM&gt
@@ -7,7 +9,7 @@
 &lthead&gt = &ltHEAD&gt
 &ltbody&gt = &ltBODY&gt
 </pre>
-
+<br>
 2. Basic Tags :
 For Simple content writing-
 <pre>&ltp&gtThis is a paragraph tag&lt/p&gt</pre>
@@ -21,7 +23,7 @@ For Headings-
 &lth5&gtHeading 5&lt/h5&gt
 &lth6&gtHeading 6&lt/h6&gt
 </pre>
-
+<br>
 3. Text Formatting Tags :
 <pre>
 &ltb&gtBold&lt/b&gt
