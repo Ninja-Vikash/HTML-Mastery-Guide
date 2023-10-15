@@ -14,16 +14,16 @@ For Simple content writing-
 <pre>&ltpre&gtThis is a pre tag&ltpre&gt</pre>
 For Headings-
 <pre>
-<pre>&lth1&gtHeading 1&lth1&gt</pre>
+&lth1&gtHeading 1&lth1&gt
 <h1>Heading 1</h1>
-<pre>&lth2&gtHeading 2&lth2&gt</pre>
+&lth2&gtHeading 2&lth2&gt
 <h1>Heading 2</h1>
-<pre>&lth3&gtHeading 3&lth3&gt</pre>
+&lth3&gtHeading 3&lth3&gt
 <h1>Heading 3</h1>
-<pre>&lth4&gtHeading 4&lth4&gt</pre>
+&lth4&gtHeading 4&lth4&gt
 <h1>Heading 4</h1>
-<pre>&lth5&gtHeading 5&lth5&gt</pre>
+&lth5&gtHeading 5&lth5&gt
 <h1>Heading 5</h1>
-<pre>&lth6&gtHeading 6&lth6&gt</pre>
+&lth6&gtHeading 6&lth6&gt
 <h1>Heading 6</h1>
 </pre>
