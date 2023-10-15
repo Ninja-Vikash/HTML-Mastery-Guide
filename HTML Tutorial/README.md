@@ -18,6 +18,11 @@ This repo basically created for Beginner's Information.
 
 2. All the elements within <> called as <b>TAGS</b>
 <pre>
-&lthtml&gt
+&lthtml&gt  &lt/html&gt  
 </pre>
-is Parent Container.<br>Inside all the things are child of HTML Tag. And it contains <head> and <body> tag.
+is Parent container.
+<pre>
+&head&gt  &lt/head&gt
+&body&gt  &lt/body&gt
+</pre>
+are child of HTML Tag.
