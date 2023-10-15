@@ -20,4 +20,4 @@ This repo basically created for Beginner's Information.
 <pre>
 &lthtml&gt
 </pre>
-is Parent Container.<br>Inside all the things are child of HTML Tag. And it contains &lthead&gt and &ltbody&gt tag.
+is Parent Container.<br>Inside all the things are child of HTML Tag. And it contains <head> and <body> tag.
