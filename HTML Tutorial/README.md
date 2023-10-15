@@ -21,7 +21,7 @@ Above code called as <u>Boiler Plate</u>.
 most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
 But there are few tags which are self-closed tag : <br>
 Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
-3. Overview of Boiler plate :
+3. Overview of Boiler plate-
 <pre>
 &lthtml&gt  &lt/html&gt  
 </pre>
@@ -45,3 +45,7 @@ used to name of Webpage show on Browser tab-bar.
 &ltbody&gt
 </pre>
 is also a container which is used by user to fetch data which is reflected on Browser's main screen.
+<pre>
+4. Comments are written as-
+&lt!-- your code will be here --&gt
+</pre>
