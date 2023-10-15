@@ -1,4 +1,4 @@
-## CHAPTER : 1
+# CHAPTER : 1
 ### INTRODUCTION OF HTML
 This repo basically created for Beginner's Information.
 <hr>
@@ -21,7 +21,7 @@ Above code called as <u>Boiler Plate</u>.
 most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
 But there are few tags which are self-closed tag : <br>
 Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
-3. Overview of all tags :
+3. Overview of Boiler plate :
 <pre>
 &lthtml&gt  &lt/html&gt  
 </pre>
@@ -38,3 +38,11 @@ are child of HTML Tag.
 contains special infomartion about webpage.
 These are generally for browser to use.
 also this are self closing tag.
+<pre>
+&lttitle&gt
+</pre>
+used to name of Webpage show on Browser tab-bar.
+<pre>
+&ltbody&gt
+</pre>
+is also a container which is used by user to fetch data which is reflected on Browser's main screen.
