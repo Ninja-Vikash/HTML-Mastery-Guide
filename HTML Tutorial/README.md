@@ -12,6 +12,6 @@ This repo basically created for Beginner's Information.
     &ltmeta name="viewport" content="width=device-width, initial-scale=1.0" /&gt
     &lttitle>Document&lt/title&gt
   &lt/head&gt
-  &ltbody&gt
-  &lt/body&gt
+  &ltbody&gt &lt/body&gt
+&lt/html&gt
 </pre>
