@@ -47,5 +47,5 @@ used to name of Webpage show on Browser tab-bar.
 is also a container which is used by user to fetch data which is reflected on Browser's main screen.
 <pre>
 4. Comments are written as-
-&lt!-- your code will be here --&gt
+&lt!-- COMMENT --&gt
 </pre>
