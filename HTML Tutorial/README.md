@@ -13,7 +13,4 @@ This repo basically created for Beginner's Information.
     &lttitle>Document&lt/title&gt
   &lt/head&gt
   &ltbody&gt
-    
-  &lt/body&gt
-&lt/html&gt
 </pre>
