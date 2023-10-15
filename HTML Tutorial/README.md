@@ -44,8 +44,8 @@ used to name of Webpage show on Browser tab-bar.
 <pre>
 &ltbody&gt
 </pre>
-is also a container which is used by user to fetch data which is reflected on Browser's main screen.
-<pre>
+is also a container which is used by user to fetch data which is reflected on Browser's main screen. <br>
 4. Comments are written as-
+<pre>
 &lt!-- COMMENT --&gt
 </pre>
