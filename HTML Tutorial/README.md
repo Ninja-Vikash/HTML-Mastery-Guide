@@ -15,14 +15,27 @@ This repo basically created for Beginner's Information.
   &ltbody&gt &lt/body&gt
 &lt/html&gt
 </pre>
+Above code called as <u>Boiler Plate</u>.
 
 2. All the elements within <> called as <b>TAGS</b>
+most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
+But there are few tags which are self-closed tag : <br>
+Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
+
+3. Overview of all tags :
 <pre>
 &lthtml&gt  &lt/html&gt  
 </pre>
 is Parent container.
 <pre>
-&head&gt  &lt/head&gt
-&body&gt  &lt/body&gt
+&lthead&gt  &lt/head&gt
+
+&ltbody&gt  &lt/body&gt
 </pre>
 are child of HTML Tag.
+<pre>
+&ltmeta&gt
+</pre>
+contains special infomartion about webpage.
+These are generally for browser to use.
+also this are self closing tag.
