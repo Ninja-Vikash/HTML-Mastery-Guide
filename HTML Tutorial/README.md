@@ -2,7 +2,6 @@
 ### INTRODUCTION OF HTML
 This repo basically created for Beginner's Information.
 <hr>
-
 1. How to create a HTML document. <br>
    Using below syntax-
 <pre>
@@ -17,12 +16,10 @@ This repo basically created for Beginner's Information.
 &lt/html&gt
 </pre>
 Above code called as <u>Boiler Plate</u>.
-
 2. All the elements within <> called as <b>TAGS</b>
 most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
 But there are few tags which are self-closed tag : <br>
 Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
-
 3. Overview of all tags :
 <pre>
 &lthtml&gt  &lt/html&gt  
