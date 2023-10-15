@@ -15,3 +15,9 @@ This repo basically created for Beginner's Information.
   &ltbody&gt &lt/body&gt
 &lt/html&gt
 </pre>
+
+2. All the elements within <> called as <b>TAGS</b>
+<pre>
+&lthtml&gt
+</pre>
+is Parent Container.<br>Inside all the things are child of HTML Tag. And it contains &lthead&gt and &ltbody&gt tag.
