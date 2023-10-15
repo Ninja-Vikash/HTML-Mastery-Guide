@@ -10,20 +10,31 @@
 
 2. Basic Tags :
 For Simple content writing-
-<pre>&ltp&gtThis is a paragraph tag&ltp&gt</pre>
-<pre>&ltpre&gtThis is a pre tag&ltpre&gt</pre>
+<pre>&ltp&gtThis is a paragraph tag&lt/p&gt</pre>
+<pre>&ltpre&gtThis is a pre tag&lt/pre&gt</pre>
 For Headings-
 <pre>
-&lth1&gtHeading 1&lth1&gt
-<h1>Heading 1</h1>
-&lth2&gtHeading 2&lth2&gt
-<h1>Heading 2</h1>
-&lth3&gtHeading 3&lth3&gt
-<h1>Heading 3</h1>
-&lth4&gtHeading 4&lth4&gt
-<h1>Heading 4</h1>
-&lth5&gtHeading 5&lth5&gt
-<h1>Heading 5</h1>
-&lth6&gtHeading 6&lth6&gt
-<h1>Heading 6</h1>
+&lth1&gtHeading 1&lt/h1&gt
+&lth2&gtHeading 2&lt/h2&gt
+&lth3&gtHeading 3&lt/h3&gt
+&lth4&gtHeading 4&lt/h4&gt
+&lth5&gtHeading 5&lt/h5&gt
+&lth6&gtHeading 6&lt/h6&gt
+</pre>
+
+3. Text Formatting Tags :
+<pre>
+&ltb&gtBold&lt/b&gt
+&lti&gtItalic&lt/i&gt
+&ltu&gtUnderline&lt/u&gt
+</pre>
+
+<pre>
+&ltbig&gtI am Big&lt/big&gt
+&ltsmall&gtI am Small&lt/small&gt
+</pre>
+
+<pre>
+&ltsup&gtI am Superscript&lt/sup&gt
+&ltsub&gtI am Subscript&lt/sub&gt
 </pre>
