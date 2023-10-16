@@ -22,8 +22,8 @@ and so on...
 Arrangement of Semantic tags-
 <pre>
 &ltbody&gt
-    &ltheader><!--Heading of the page-->&lt/header&gt
-    &ltmain><!--Your content will be here-->&lt/main&gt
-    &ltfooter><!--Footer-->&lt/footer&gt
+    &ltheader>&lt!--Heading of the page--&gt&lt/header&gt
+    &ltmain>&lt!--Your content will be here--&gt&lt/main&gt
+    &ltfooter>&lt!--Footer--&gt&lt/footer&gt
 &lt/body&gt
 </pre>
