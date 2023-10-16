@@ -3,6 +3,7 @@
 Use of HTML attributes
 <hr>
 1. Attributes are use to provide some additional details to HTML tag.
+<br>
 2. Tags with including attributes-
 <pre> &lthtml lang="en"&gt </pre> 
 lang is attribute which tells to the browser this code are written in english.
