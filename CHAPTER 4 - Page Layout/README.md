@@ -3,6 +3,7 @@
 Layouting of tags.
 <hr>
 1. Tags are divided into two categories.
+<br>
 (A) Semantic tag
 <pre>
 &ltheader&gt
