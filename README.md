@@ -1,2 +1,4 @@
 # HTML 
-Here is evrything I know.
+### INFORMATION HTML BASICS
+
+Through this repo, I'm presenting basic knowledge on HTML
