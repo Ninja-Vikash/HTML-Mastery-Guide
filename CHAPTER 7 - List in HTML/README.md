@@ -21,7 +21,7 @@ Types of HTML-List
 3. Third Item                       c. Third Item                      III. Third Item
 4. Fourth Item                      d. Fourth Item                     IV. Fourth Item
 </pre>
-we can list style type with using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
+we can change list style type with using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
 
 2. Unordered List
 <pre>
@@ -34,6 +34,6 @@ we can list style type with using CSS property. - Numbers, Alphabets(small & cap
                                     &ltli&gtFourth Item&lt/li&gt
                                 &lt/ul&gt
 </pre>
-we can list style type with using CSS property. - Bullet, Circle, Disk, Square.
+we can change list style type with using CSS property. - Bullet, Circle, Disk, Square.
 
 3. Descripted List
