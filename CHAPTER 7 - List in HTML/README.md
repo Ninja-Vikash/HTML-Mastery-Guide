@@ -56,6 +56,6 @@ we can change list style type with using CSS property. - Bullet, Circle, Disk, S
       &ltdd&gtLorem ipsum dolor sit amet consectetur adipisicing.&lt/dd&gt
     &lt/dl&gt
 </pre>
-This is rarely used list type and used for informative lists.
+This is rarely used list type and used for informative lists. <br>
 
-Note : For list Border style We need to checkout CSS.s
+Note : For list Border style We need to checkout CSS.
