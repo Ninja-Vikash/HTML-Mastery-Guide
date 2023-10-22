@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables in HTML</title>
+    <style>
+      table,
+      tr,
+      th,
+      td {
+        border-collapse: collapse;
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- -----------For Table's Discription---------- -->
+    <caption>
+      Marks of Student
+    </caption>
+    <table>
+      <thead>
+        <tr>
+          <th>Student Name</th>
+          <th>Obtained Marks</th>
+          <th>Result Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Akash Sharma</td>
+          <td>322</td>
+          <td>1st Division</td>
+        </tr>
+        <tr>
+          <td>Vijay Thakur</td>
+          <td>298</td>
+          <td>2nd Division</td>
+        </tr>
+        <tr>
+          <td>Anand Kumar</td>
+          <td>301</td>
+          <td>1st Division</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr />
+    <!-- -------------------------- for merging cells -------------------------- -->
+    <table>
+      <thead>
+        <!-- colspan used to merge columns -->
+        <tr>
+          <th>Student Name</th>
+          <th colspan="2">Result Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <!-- rowspan used to merge rows -->
+          <td>Akash Sharma</td>
+          <td>322</td>
+          <td rowspan="2">1st Division</td>
+        </tr>
+        <tr>
+          <td>Anand Kumar</td>
+          <td>301</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
