@@ -1,5 +1,4 @@
 # CHAPTER : 8
-
 ### Table in HTML
 
 <hr>
@@ -29,3 +28,5 @@ For expanding cells or merge cells we use
 &ltth rowspan="2"&gt for merging two cell in row
 &ltth colspan="2"&gt for merging two cell in column
 </pre>
+
+Note : For better understanding I used some simple CSS to make it clear.

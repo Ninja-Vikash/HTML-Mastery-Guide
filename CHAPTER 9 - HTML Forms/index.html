@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms in HTML</title>
+  </head>
+  <body>
+    <form action="">
+      <header>
+        <h1>ADMISSION FORM OF XYZ UNIVERSITY</h1>
+      </header>
+
+      <main>
+        <h3>STUDENT INFORMATION</h3>
+        <!-------------------------------- Inputs Tags ------------------------------------>
+        <label for="fname">FIRST NAME :</label>
+        <input
+          type="text"
+          name="fname"
+          id="fname"
+          placeholder="enter first name"
+          required
+        />
+
+        <label for="lname">LAST NAME :</label>
+        <input
+          type="text"
+          name="lname"
+          id="lname"
+          placeholder="enter last name"
+        />
+
+        <br />
+        <label for="email">EMAIL :</label>
+        <input type="email" name="email" id="email" />
+
+        <label for="number">NUMBER</label>
+        <input type="number" name="number" id="number" />
+        <br />
+
+        <fieldset>
+          <legend>GENDER</legend>
+          <label for="male">MALE</label>
+          <input type="radio" name="gender" id="male" />
+
+          <label for="female">FEMALE</label>
+          <input type="radio" name="gender" id="female" />
+
+          <label for="other">OTHER</label>
+          <input type="radio" name="gender" id="other" />
+        </fieldset>
+
+        <fieldset>
+          <legend>SUBJECTS</legend>
+          <label for="phy">PHYSICS</label>
+          <input type="checkbox" name="phy" id="phy" checked />
+          <label for="che">CHEMISTRY</label>
+          <input type="checkbox" name="che" id="che" checked />
+          <label for="mat">MATHEMATICS</label>
+          <input type="checkbox" name="mat" id="mat" checked />
+          <br />
+          <label for="cms">COMPUTER SCIENCE</label>
+          <input type="checkbox" name="cms" id="cms" />
+          <label for="hna">HINDI</label>
+          <input type="checkbox" name="hna" id="hna" />
+          <label for="ena">ENGLISH</label>
+          <input type="checkbox" name="ena" id="ena" />
+        </fieldset>
+      </main>
+    </form>
+  </body>
+</html>
