@@ -20,7 +20,7 @@ We can divide table data into sections.
 After creating a table We want to show a heading to describe about the component of the table.
 
 <pre>
-&ltcaption&gt
+&ltcaption&gt are used to show information like heading of the table
 </pre>
 
 For expanding cells or merge cells we use
