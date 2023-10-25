@@ -1,6 +1,6 @@
 # CHAPTER : 1
 ### INTRODUCTION OF HTML
-This repo basically created for Beginner's Information.
+This repo basically created for Beginner's Information.<br>
 <b>HTML</b> : Hypertext Markup Language<br>
 HTML is the code that is used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags.
 <hr>

@@ -7,21 +7,47 @@ Through this repository, I'm publishing a repo, where I cover the basics of HTML
 
 <table>
 <tr>
-    <th>CHAPTER NO.</th>
-    <th>DIRECT LINK.</th>
+    <th>NO.</th>
+    <th>LINK.</th>
+</tr>
+<tr>
+    <td>CHAPTER 0</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Visual Code Studio Setup</a></td>
 </tr>
 <tr>
     <td>CHAPTER 1</td>
-    <td>CHAPTER 1</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial" target=""_blank>Introduction</a></td> 
 </tr>
-0 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Visual Code Studio Setup</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial" target=""_blank>Introduction</a>
-2 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental" target="_blank">Fundamentals</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes" target="_blank">Attributes</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout" target="_blank">Page Layout</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag" target="_blank">Anchor Tag</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline | Block Elements</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%207%20-%20List%20in%20HTML" target="_blank">Lists</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%208%20-%20Table%20in%20HTML" target="_blank">Table</a>
-1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms" target="_blank">Forms</a>
+<tr>
+    <td>CHAPTER 2</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental" target="_blank">Fundamentals</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 3</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes" target="_blank">Attributes</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 4</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout" target="_blank">Page Layout</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 5</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag" target="_blank">Anchor Tag</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 6</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline | Block Elements</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 7</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%207%20-%20List%20in%20HTML" target="_blank">Lists in HTML</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 8</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%208%20-%20Table%20in%20HTML" target="_blank">Table in HTML</a></td> 
+</tr>
+<tr>
+    <td>CHAPTER 9</td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms" target="_blank">Forms in HTML</a></td> 
+</tr>
 </table>
