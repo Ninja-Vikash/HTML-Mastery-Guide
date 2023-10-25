@@ -2,8 +2,8 @@
 ### Getting started with HTML
 
 Through this repository, I'm publishing a repo, where I cover the basics of HTML. Explore all the basic features of HTML covered in various chapters. This will be very helpful. <br>
-Topics Available: <br>
-1. Introduction
+<b>Topics Available</b> : <br>
+1. Introduction<a href=""></a>
 2. Fundamentals
 3. Attributes
 4. Page Layout

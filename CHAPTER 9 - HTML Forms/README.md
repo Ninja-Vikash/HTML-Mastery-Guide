@@ -22,8 +22,7 @@ As per the above example placeholder="enter first name" says to user enter here 
 There are so many input types are used in HTML forms.
 
 <pre>
-&ltinput type="text"&gt for Text Information Adding in form.<br>
-eg. Name, Father's Name, Mother's Name etc.
+&ltinput type="text"&gt for Text Information Adding in form.<br>eg. Name, Father's Name, Mother's Name etc.
 &ltinput type="number"&gt for Number Information Adding in form.<br>
 eg. Phone Numbers
 &ltinput type="email"&gt for Email of the user Adding in form.<br>
