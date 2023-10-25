@@ -1,4 +1,4 @@
-# CHAPTER: 6
+# CHAPTER 6
 ### INLINE & BLOCK ELEMENTS
 1. Inline tags :
 <pre>
