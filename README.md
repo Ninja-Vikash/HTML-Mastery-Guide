@@ -12,7 +12,7 @@ Through this repository, I'm publishing a repo, where I cover the basics of HTML
 </tr>
 <tr>
     <td>CHAPTER 0</td>
-    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Visual Code Studio Setup</a></td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Setup</a></td>
 </tr>
 <tr>
     <td>CHAPTER 1</td>
