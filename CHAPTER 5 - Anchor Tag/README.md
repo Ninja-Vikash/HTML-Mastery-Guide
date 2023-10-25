@@ -1,4 +1,4 @@
-# CHAPTER: 5
+# CHAPTER 5
 ### MORE INFORMATION ABOUT ANCHOR TAG
 <hr>
 Here is some information related to the anchor tag.
