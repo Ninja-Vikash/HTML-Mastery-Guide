@@ -8,7 +8,7 @@
 5. We will go with Visual Studio Code text-editor. This is Absolutely Free Code editor Application Provided by Microsoft.
 <hr>
 
-<u>Installation of Visual Studio Code</u>
-Step 1 : Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer and so on.
-Step 2 : Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.
+<b>Installation of Visual Studio Code</b><br>
+Step 1 : Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer and so on.<br>
+Step 2 : Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
 Step 3 : Start Installing.
