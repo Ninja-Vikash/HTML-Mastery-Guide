@@ -9,5 +9,7 @@
 <hr>
 
 <u>Installation of Visual Studio Code</u>
-Step 1 : Open your browser eg. Chrome, Safari, Brave, Firebox, Internet Explorer and so on.
-Step 2 : Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/">Download</a> link.
+Step 1 : Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer and so on.
+Step 2 : Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank"
+>Download</a> link.
+Step 3 : Start Installing.
