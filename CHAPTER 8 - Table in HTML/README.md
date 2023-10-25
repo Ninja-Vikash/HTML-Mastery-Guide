@@ -1,8 +1,8 @@
-# CHAPTER : 8
+# CHAPTER: 8
 ### Table in HTML
 
 <hr>
-Tables are used to represent real life table data. <br>
+Tables are used to represent real-life table data. <br>
 <pre>
 &lttr&gt Used to display table row 
 &lttd&gt Used to display table data
@@ -12,21 +12,21 @@ Tables are used to represent real life table data. <br>
 We can divide table data into sections.
 
 <pre>
-&ltthead&gt Used to deploy header part of the table
+&ltthead&gt Used to deploy the header part of the table
 &lttbody&gt Usde to deploy information part of the table
 </pre>
 
-After creating a table We want to show a heading to describe about the component of the table.
+After creating a table We want to show a heading to describe the component of the table.
 
 <pre>
-&ltcaption&gt are used to show information like heading of the table
+&ltcaption&gt are used to show information like the heading of the table
 </pre>
 
-For expanding cells or merge cells we use
+For expanding cells or merging cells we use
 
 <pre>
-&ltth rowspan="2"&gt for merging two cell in row
-&ltth colspan="2"&gt for merging two cell in column
+&ltth rowspan="2"&gt for merging two cells in a row
+&ltth colspan="2"&gt for merging two cells in column
 </pre>
 
-Note : For better understanding I used some simple CSS to make it clear.
+Note: For better understanding, I used some simple CSS to make it clear.
