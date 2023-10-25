@@ -1,4 +1,4 @@
-# CHAPTER : 2
+# CHAPTER 2
 ### FUNDAMENTALS OF HTML
 HTML Tags information
 <hr>
