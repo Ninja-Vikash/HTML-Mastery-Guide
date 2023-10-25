@@ -1,4 +1,4 @@
-# CHAPTER : 4
+# CHAPTER 4
 
 ### Page layout techniques.
 
@@ -33,7 +33,7 @@ Arrangement of Semantic tags-
 &lt/body&gt
 </pre>
 
-Main is divided into more semantic tags. As below-
+The Main is divided into more semantic tags. As below-
 
 <pre>
 &ltmain&gt
@@ -76,4 +76,4 @@ Main is divided into more semantic tags. As below-
 </pre>
 <br>
 
-You can see a example of semantic layout--> portfolio.html
+You can see an example of semantic layout--> portfolio.html
