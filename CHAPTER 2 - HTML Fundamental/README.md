@@ -2,7 +2,7 @@
 ### FUNDAMENTALS OF HTML
 HTML Tags information
 <hr>
-1. HTMl is Not case sensitive.
+1. HTMl is Not case-sensitive.
 <pre>
 &lthtml&gt = &lttHTM&gt
 &ltp&gt = &ltP&gt
