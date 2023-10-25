@@ -1,6 +1,7 @@
 # HTML For Beginners
 
-### Getting started with HTML
+### Getting started with HTML![htmlLogo](https://github.com/Ninja-Vikash/HTML/assets/146564586/600f9178-f346-497c-9a16-8c94ca6aa64d)
+
 
 Through this repository, I'm publishing a repo, where I cover the basics of HTML. Explore all the basic features of HTML covered in various chapters. This will be very helpful. <br>
 <b>Topics Available</b> : <br>
