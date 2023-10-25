@@ -1,7 +1,7 @@
-# CHAPTER : 7
+# CHAPTER: 7
 ### Lists in HTML
 <hr>
-Lists are used to represent real life data.
+Lists are used to represent real-life data.
 <br>
 Types of HTML-List
 
@@ -21,7 +21,7 @@ Types of HTML-List
 3. Third Item                       c. Third Item                      III. Third Item
 4. Fourth Item                      d. Fourth Item                     IV. Fourth Item
 </pre>
-we can change list style type with using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
+we can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
 
 2. Unordered List
 <pre>
@@ -34,21 +34,21 @@ we can change list style type with using CSS property. - Numbers, Alphabets(smal
                                     &ltli&gtFourth Item&lt/li&gt
                                 &lt/ul&gt
 </pre>
-we can change list style type with using CSS property. - Bullet, Circle, Disk, Square.
+we can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
 3. Descripted List
 <pre>
 &ltdl&gt
       &ltdt&gtHow to make : Tea&lt/dt&gt
-      &ltdd&gtTake a small container which is used to make tea.&lt/dd&gt
+      &ltdd&gtTake a small container that is used to make tea.&lt/dd&gt
       &ltdd&gt
-        Consume a limited amount of water according to how many peoples want to
+        Consume a limited amount of water according to how many people want to
         take the tea. suppose 3 people
       &lt/dd&gt
       &ltdd&gtFor 3 people we need to use 1 litre of water.&lt/dd&gt
       &ltdd&gtuse 2 full spoon tea leaf.&lt/dd&gt
       &ltdd&gtuse 2+1/2 spoon sugar.&lt/dd&gt
-      &ltdd&gtBoil it atleast 12 minutes.&lt/dd&gt
+      &ltdd&gtBoil it at least 12 minutes.&lt/dd&gt
       &ltdt&gtHow to make : maggie&lt/dt&gt
       &ltdd&gtLorem ipsum dolor sit amet consectetur adipisicing.&lt/dd&gt
       &ltdd&gtLorem ipsum dolor sit amet.&lt/dd&gt
@@ -56,6 +56,6 @@ we can change list style type with using CSS property. - Bullet, Circle, Disk, S
       &ltdd&gtLorem ipsum dolor sit amet consectetur adipisicing.&lt/dd&gt
     &lt/dl&gt
 </pre>
-This is rarely used list type and used for informative lists. <br>
+This is a rarely used list type and is used for informative lists. <br>
 
-Note : For list Border style We need to checkout CSS.
+Note: For the list Border style We need to checkout CSS.
