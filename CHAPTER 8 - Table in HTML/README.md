@@ -1,4 +1,4 @@
-# CHAPTER: 8
+# CHAPTER 8
 ### Table in HTML
 
 <hr>
