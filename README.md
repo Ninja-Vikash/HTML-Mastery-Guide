@@ -2,7 +2,7 @@
 
 ### Getting started with HTML
 
-Through this repository, I'm publishing a repo, where I cover the basics of HTML. Explore all the basic features of HTML covered in various chapters. This will be very helpful. <br>
+This is a wonderful repository for **HTML learning!**, Where I have covered the basics of HTML. Explore all the basic features of HTML covered in various chapters. This will be very helpful. <br>
 <b>Topics Available</b> : <br>
 
 <table>
