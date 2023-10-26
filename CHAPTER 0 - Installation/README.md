@@ -7,13 +7,13 @@
 
 ![notepad](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/notepad-view.png) <br>
 But it has some limitations.. like no auto-complete, no syntax suggestions, no extensions to use, and no applicable themes.<br>
-4. For advanced HTML code writing we used some code editors like Notepad ++, Sublime Text, Froala, and Visual Studio Code(VS Code)<br>
+4. For advanced HTML code writing we used some code editors like **Notepad ++**, **Sublime Text**, **Froala**, and **Visual Studio Code**(VS Code)<br>
 5. We will go with Visual Studio Code text editor. This is a Free Code editor Application Provided by Microsoft. And supports many programming languages eg: HTML, CSS, JavaScript, Python, C, C++, C#, Sass(Advanced CSS), and so on.
 
 ![Supported Languages](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Supported%20Languages.png)
 <hr>
 
-<b>Installation of Visual Studio Code</b><br>
+**Installation of Visual Studio Code**<br>
 Step 1: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<be>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 Step 2: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
@@ -25,5 +25,5 @@ Step 4: Installing Process.
 ![Process3](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option2.png) <br>
 ![Process4](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option3.png) <br>
 ![Process5](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option4.png) <br>
-Step 4: Run VS Code and start coding.
+Step 4: Run Visual Studio Code and start coding.
 ![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
