@@ -1,5 +1,7 @@
 # CHAPTER 1
 ### INTRODUCTION OF HTML
+
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 <b>HTML</b> : Hypertext Markup Language<br>
 HTML is the code that is used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags.
 <hr>
