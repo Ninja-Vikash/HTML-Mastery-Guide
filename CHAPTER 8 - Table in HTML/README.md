@@ -1,5 +1,6 @@
 # CHAPTER 8
 ### Table in HTML
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 <hr>
 Tables are used to represent real-life table data. <br>
