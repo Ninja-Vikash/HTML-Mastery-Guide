@@ -1,8 +1,9 @@
 # CHAPTER 4
-
 ### Page layout techniques.
 
-Layouting of tags.
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+
+**Layouting of tags**.
 
 <hr>
 1. Tags are divided into two categories.
