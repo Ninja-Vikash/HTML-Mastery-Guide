@@ -1,5 +1,6 @@
 # CHAPTER 6
 ### INLINE & BLOCK ELEMENTS
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 1. Inline tags :
 <pre>
 &lta&gt                   &ltbutton&gt              &ltinput&gt               &ltoutput&gt                  &ltstrong&gt
