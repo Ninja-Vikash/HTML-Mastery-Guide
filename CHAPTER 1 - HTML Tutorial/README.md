@@ -18,8 +18,8 @@ HTML is the code that is used to structure a web page and its content. And the c
   &ltbody&gt &lt/body&gt
 &lt/html&gt
 </pre>
-The above code is called the <u>Boiler Plate</u>. <br>
-We can write it with the emmet abbreviation [**!** + **enter**] | **html5** + **enter** <br>
+The above code is called the **Boiler Plate**. <br>
+We can write it with the emmet abbreviation **!** + **enter** | **html5** + **enter** <br>
 Both methods are useful for deploying boilerplate.
 <br>
 2. All the elements within <> called as <b>TAGS</b>
