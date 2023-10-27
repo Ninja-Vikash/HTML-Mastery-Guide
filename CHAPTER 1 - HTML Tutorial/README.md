@@ -18,7 +18,8 @@ HTML is the code that is used to structure a web page and its content. And the c
   &ltbody&gt &lt/body&gt
 &lt/html&gt
 </pre>
-The above code is called as <u>Boiler Plate</u>.
+The above code is called the <u>Boiler Plate</u>. We can write it with the emmet abbreviation [!] + enter
+<button name="button" onclick="http://www.google.com">Click me</button>
 <br>
 2. All the elements within <> called as <b>TAGS</b>
 most of the element are closed with two tags like <u>opening tag</u> context <u>closing tag</u> <br>
@@ -47,7 +48,7 @@ used to name of page shown on the Browser tab bar.
 <pre>
 &ltbody&gt
 </pre>
-is also a container that is used by the user to fetch data which is reflected on Browser's main screen. <br>
+is also a container that the user uses to fetch data which is reflected on Browser's main screen. <br>
 4. Comments are written as
 <pre>
 &lt!-- COMMENT --&gt
