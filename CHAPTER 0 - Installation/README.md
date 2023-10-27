@@ -5,7 +5,6 @@
 2. There are so many options to write HTML code.<br>
 3. We can write our code in Notepad, For simple HTML code writing Notepad is great if you learn the basic structure of HTML.
 
-<img src="../../Assets/HTML Assets/HTML.png">
 ![notepad](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/notepad-view.png) <br>
 But it has some limitations.. like no auto-complete, no syntax suggestions, no extensions to use, and no applicable themes.<br>
 4. For advanced HTML code writing we used some code editors like **Notepad ++**, **Sublime Text**, **Froala**, and **Visual Studio Code**(VS Code)<br>
