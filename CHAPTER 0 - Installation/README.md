@@ -14,16 +14,16 @@ But it has some limitations.. like no auto-complete, no syntax suggestions, no e
 <hr>
 
 **Installation of Visual Studio Code**<br>
-Step 1: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<be>
+**Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
-Step 2: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
-Step 3: Start Download.
+**Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
+**Step 3**: Start Download.
 ![start download](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Setup.png) <br>
-Step 4: Installing Process.
+**Step 4**: Installing Process.
 ![Process1](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option.png) <br>
 ![Process2](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option1.png) <br>
 ![Process3](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option2.png) <br>
 ![Process4](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option3.png) <br>
 ![Process5](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option4.png) <br>
-Step 4: Run Visual Studio Code and start coding.
+**Step 5**: Run Visual Studio Code and start coding.
 ![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
