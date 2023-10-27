@@ -1,5 +1,7 @@
 # CHAPTER 3
 ### HTML important attributes
+
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 Use of HTML attributes
 <hr>
 1. Attributes are used to provide some additional details to the HTML tag.

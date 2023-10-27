@@ -1,5 +1,7 @@
 # CHAPTER 2
 ### FUNDAMENTALS OF HTML
+
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 HTML Tags information
 <hr>
 1. HTMl is Not case-sensitive.

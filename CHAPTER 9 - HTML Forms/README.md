@@ -1,8 +1,6 @@
 # CHAPTER 9
-
 ### Forms in HTML
-
-<hr>
+![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 To create forms we use &ltform&gt tag <br>
 Forms are used to input data from users and send it to the server. <br>
