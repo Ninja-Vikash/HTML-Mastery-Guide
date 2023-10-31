@@ -7,8 +7,8 @@ This is a wonderful repository for **HTML learning!** Where I have covered the b
 
 <table>
 <tr>
-    <th>NO.</th>
-    <th>LINK.</th>
+    <th>CHAPTER</th>
+    <th>CLICK TO </th>
 </tr>
 <tr>
     <td>CHAPTER 0</td>
