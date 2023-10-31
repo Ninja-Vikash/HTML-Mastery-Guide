@@ -12,7 +12,7 @@ This is a wonderful repository for **HTML learning!** Where I have covered the b
 </tr>
 <tr>
     <td>CHAPTER 0</td>
-    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Setup</a></td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a></td>
 </tr>
 <tr>
     <td>CHAPTER 1</td>
