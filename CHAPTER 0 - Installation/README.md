@@ -28,5 +28,3 @@ But it has some limitations.. like no auto-complete, no syntax suggestions, no e
 **Step 5**: Run Visual Studio Code and start coding.
 ![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
 
-
-![Video Preview](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/SetupVideo.mp4)
