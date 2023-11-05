@@ -36,7 +36,7 @@ This is a wonderful repository for **HTML learning!** Where I have covered the b
 </tr>
 <tr>
     <td>CHAPTER 6</td>
-    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline | Block Elements</a></td> 
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline & Block</a></td> 
 </tr>
 <tr>
     <td>CHAPTER 7</td>
