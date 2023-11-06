@@ -38,18 +38,17 @@ Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 
 <pre>
 &lthtml&gt
--------Everything inside the html tag is the part of HTML--------
+  -------Everything inside the html tag is the part of HTML--------
 &lt/html&gt  
 </pre>
 &ltHTML&gt is the parent container.
-
 <pre>
 &lthead&gt
--------Contains the meta data, title, link and other useful tags which is not render on browser's screen--------
+  -------Contains the meta data, title, link and other useful tags which is not render on browser's screen--------
 &lt/head&gt
 
 &ltbody&gt
--------Contains the main data and reflect to the browser's screen--------
+  -------Contains the main data and reflect to the browser's screen--------
 &lt/body&gt
 </pre>
 &lthead&gt and &ltbody&gt are children tags of HTML tag.
@@ -64,7 +63,7 @@ Example : <p>&ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 &lttitle&gt is used to give name to the Webpage, When we search through the Internet. It shown on the browser's tab bar.
 <pre>
 &ltbody&gt
---------All the data which is reflected on browser's screen---------
+  --------All the data which is reflected on browser's screen---------
 &lt/body&gt
 </pre>
 &ltbody&gt is also a container used to add data which is reflected on browser's main screen. <br>
