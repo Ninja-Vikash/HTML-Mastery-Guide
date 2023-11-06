@@ -25,7 +25,7 @@
 &lt/html&gt
 </pre>
 <p>The above code is called the <b>Boiler Plate</b>. <br>
-We can write it with the emmet abbreviation <b>!</b> + <b>enter</b> | <b>html5</b> + <b>enter</b> <br>
+We can write it with the emmet abbreviation ==<b>!</b> + <b>enter</b>== | ==<b>html5</b> + <b>enter</b>== <br>
 Both methods are useful for deploying boilerplate.</p>
 <br>
 <li>All the elements within angular brackets <> called as <b>Tags</b></li>
