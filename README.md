@@ -1,5 +1,8 @@
 # HTML For Beginners
 ![logo](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+## Learn HTML from "ZERO" to "HERO"
+<hr>
+
 ### Getting started with HTML
 
 This is a wonderful repository for **HTML learners!** Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
