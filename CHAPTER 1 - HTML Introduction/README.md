@@ -10,7 +10,7 @@
 
 <ol>
 <li>How to create an HTML document.</li>
- syntax&darr
+ syntax-
 <pre>
 &lt!DOCTYPE html&gt
 &lthtml lang="en"&gt
@@ -24,7 +24,7 @@
   &lt/body&gt
 &lt/html&gt
 </pre>
-<p>The above &uarr code is called the <b>Boiler Plate</b>. <br>
+<p>The above code is called the <b>Boiler Plate</b>. <br>
 :bulb: <b>Tip:</b>  We can write it with the help of emmet abbreviation <b>!</b> + <b>enter</b> | <b>html5</b> + <b>enter</b> <br>
 Both methods are useful for deploying boilerplate.</p>
 <br>
