@@ -7,12 +7,12 @@ This is a wonderful repository for **HTML learners!** Where I have covered the b
 
 <table>
 <tr>
-    <th>NO.</th>
-    <th>LINK.</th>
+    <th>CHAPTER</th>
+    <th>REDIRECT LINK!</th>
 </tr>
 <tr>
     <td>CHAPTER 0</td>
-    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Setup</a></td>
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a></td>
 </tr>
 <tr>
     <td>CHAPTER 1</td>
@@ -36,7 +36,7 @@ This is a wonderful repository for **HTML learners!** Where I have covered the b
 </tr>
 <tr>
     <td>CHAPTER 6</td>
-    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline | Block Elements</a></td> 
+    <td><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags" target="_blank">Inline & Block</a></td> 
 </tr>
 <tr>
     <td>CHAPTER 7</td>
