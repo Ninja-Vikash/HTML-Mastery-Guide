@@ -3,7 +3,7 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20introduction.png)
 <b>HTML</b> : Hypertext Markup Language<br>
-HTML is the code that is used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags.
+HTML is the code that is used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags. It is often assisted by technologies such as Cascading Style Sheets and Scripting languages such as Javascript.
 <hr>
 1. How to create an HTML document. <br>
    Using the below syntax-
