@@ -1,6 +1,6 @@
 # HTML For Beginners
 ![logo](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-## Learn HTML from "ZERO" to "HERO"
+## ✈️ Learn HTML from "ZERO" to "HERO"
 <hr>
 
 ### Getting started with HTML
