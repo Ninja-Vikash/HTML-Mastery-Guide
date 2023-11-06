@@ -2,8 +2,8 @@
 ![logo](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 ### Getting started with HTML
 
-This is a wonderful repository for **HTML learning!** Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are separated into different chapters.<br>
-**Chapters Available** : <br>
+This is a wonderful repository for **HTML learners!** Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
+**CHAPTERS** : <br>
 
 <table>
 <tr>
