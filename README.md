@@ -5,7 +5,7 @@
 
 ### Getting started with HTML
 
-This is a wonderful repository for **HTML learners!** Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
+This is a wonderful repository for **HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
 **CHAPTERS** : <br>
 
 <table>
