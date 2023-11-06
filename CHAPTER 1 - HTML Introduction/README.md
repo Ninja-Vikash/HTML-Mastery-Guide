@@ -17,7 +17,9 @@ HTML is the code that is used to structure a web page and its content. And the c
     &ltmeta name="viewport" content="width=device-width, initial-scale=1.0" /&gt
     &lttitle&gtDocument&lt/title&gt
   &lt/head&gt
-  &ltbody&gt &lt/body&gt
+  &ltbody&gt
+      ------Your code will be here!------
+  &lt/body&gt
 &lt/html&gt
 </pre>
 The above code is called the <b>Boiler Plate</b>. <br>
