@@ -5,9 +5,9 @@
 
 **Layouting of tags**.
 <ol>
-1. Tags are divided into two categories.
-<br>
-(A) Semantic tag
+<li>Tags are divided into two categories.</li>
+<ul>
+<li>Semantic tag</li>
 <pre>
 &ltheader&gt
 &ltmain&gt
@@ -15,14 +15,13 @@
 </pre>
 and so on...
 
-(B) Non-semantic tag
-
+<li>Non-semantic tag</li>
 <pre>
 &ltspan&gt
 &ltdiv&gt
 &ltsection&gt
 </pre>
-
+</ul>
 Arrangement of Semantic tags-
 
 <pre>
