@@ -2,14 +2,15 @@
 ### INLINE & BLOCK ELEMENTS
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 1. Inline tags :
-
-|&lta&gt               |    &ltbutton&gt          |    &ltinput&gt           |    &ltoutput&gt              |    &ltstrong&gt     |
-|&ltabbr&gt            |    &ltcite&gt            |    &ltkbd&gt             |    &ltq&gt                   |    &ltsub&gt        |
-|&ltacronym&gt         |    &ltcode&gt            |    &ltlabel&gt           |    &ltsamp&gt                |    &ltsup&gt        |
-|&ltb&gt               |    &ltdfn&gt             |    &ltmap&gt             |    &ltscript&gt              |    &lttextarea&gt   | 
-|&ltbdo&gt             |    &ltem&gt              |    &ltobject&gt          |    &ltselect&gt              |   &lttime&gt        |
-|&ltbig&gt             |    &lti&gt               |    &lttt&gt              |    &ltsmall&gt               | 
-|&ltbr&gt              |    &ltimg&gt             |    &ltvar&gt             |    &ltspan&gt                |
+| Inline Tags           | Inline tags              | Inline tags              | Inline tags                  | Inline tags         |
+| :----                 | :----                    | :----                    | :----                        | :----               |
+| &lta&gt               |    &ltbutton&gt          |    &ltinput&gt           |    &ltoutput&gt              |    &ltstrong&gt     |
+| &ltabbr&gt            |    &ltcite&gt            |    &ltkbd&gt             |    &ltq&gt                   |    &ltsub&gt        |
+| &ltacronym&gt         |    &ltcode&gt            |    &ltlabel&gt           |    &ltsamp&gt                |    &ltsup&gt        |
+| &ltb&gt               |    &ltdfn&gt             |    &ltmap&gt             |    &ltscript&gt              |    &lttextarea&gt   | 
+| &ltbdo&gt             |    &ltem&gt              |    &ltobject&gt          |    &ltselect&gt              |   &lttime&gt        |
+| &ltbig&gt             |    &lti&gt               |    &lttt&gt              |    &ltsmall&gt               |                     |
+| &ltbr&gt              |    &ltimg&gt             |    &ltvar&gt             |    &ltspan&gt                |                     |
 
 
 2. Block tags :
