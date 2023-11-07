@@ -8,8 +8,9 @@
 This is a wonderful repository for **HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
 **CHAPTERS** : <br>
 
-|    CHAPTER    |    Description    |    Redirect Link    |
-|    :----:     |    :----:         |    :----:           |
+|        Chapter        |                Description                |        Redirect Link        |
+|    :----:             |                  :----:                   |            :----:           |
+|    Chapter: 1         | Installation of Visual Studio Code Editor |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a>|
 <table>
 <tr>
     <th>CHAPTER</th>
