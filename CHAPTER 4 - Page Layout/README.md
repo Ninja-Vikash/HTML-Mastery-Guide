@@ -36,21 +36,21 @@ The Main is divided into more semantic tags. As below-
 <pre>
 &ltmain&gt
       &ltsection&gt
-        &lth2>About</h2&gt
+        &lth2&gtAbout&lt/h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos            commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
         &lt/p&gt
       &lt/section&gt
 
       &ltsection&gt
-        &lth2>Read More</h2&gt
+        &lth2&gtRead More&lt/h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos            commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
         &lt/p&gt
       &lt/section&gt
 
       &ltsection&gt
-        &lth2>Contact</h2&gt
+        &lth2&gtContact&lt/h2&gt
         &ltp&gt
           Phone : +1234567890
           Email : abc@gmail.com
@@ -59,7 +59,7 @@ The Main is divided into more semantic tags. As below-
 
       &ltarticle&gt
         &lth4&gt
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum,<br> delectus, asperiores dolorum eligendi excepturi! Sapiente, facilis et?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima                 quos commodi blanditiis illum est repudiandae possimus sit animi eum,<br> delectus, asperiores dolorum eligendi excepturi!                     Sapiente, facilis et?
         &lt/h4&gt
       &lt/article&gt
 
