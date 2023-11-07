@@ -4,8 +4,7 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 **Layouting of tags**.
-
-<hr>
+<ol>
 1. Tags are divided into two categories.
 <br>
 (A) Semantic tag
@@ -62,7 +61,7 @@ The Main is divided into more semantic tags. As below-
 
       &ltarticle&gt
         &lth4&gt
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi excepturi! Sapiente, facilis et?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, \n saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi excepturi! Sapiente, facilis et?
         &lt/h4&gt
       &lt/article&gt
 
@@ -78,3 +77,4 @@ The Main is divided into more semantic tags. As below-
 <br>
 
 You can see an example of semantic layout--> portfolio.html
+</ol>
