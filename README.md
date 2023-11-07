@@ -9,9 +9,10 @@ This is a wonderful repository for **HTML learners!** <br>Where I have covered t
 **CHAPTERS** : <br>
 
 |        Chapter        |                Description                |        Redirect Link        |
-|    :----:             |                  :----                   |            :----:           |
-|    Chapter: 1         | Installation of Visual Studio Code Editor |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a>|
-|                       | and download link                         |                             |
+|    :----:             |                  :----                    |            :----:           |
+|    Chapter: 0         | Installation of Visual Studio Code Editor and download link |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a>|
+|    Chapter: 1         | What is HTML?, and Boilerplate            |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial" target=""_blank>Introduction</a>|
+|    Chapter: 2         | Introduction of HTML tags and their use   |
 <table>
 <tr>
     <th>CHAPTER</th>
