@@ -8,15 +8,16 @@
 This is a wonderful repository for **HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are contributed into different chapters.<br>
 **CHAPTERS** : <br>
 
-|        Chapter        |                Description                |        Redirect Link        |
+|        Chapter        |                Description                |        Redirect Link🔗        |
 |    :----:             |                  :----                    |            :----:           |
-|    Chapter: 0         | Installation of Visual Studio Code Editor and download link |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation" target="_blank">Installation</a>|
-|    Chapter: 1         | What is HTML?, and Boilerplate            |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial" target=""_blank>Introduction</a>|
-|    Chapter: 2         | Introduction of HTML tags and their use   |
+|    Chapter: 0         | Installation of Visual Studio Code Editor and download link |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation</a>|
+|    Chapter: 1         | What is HTML?, and Boilerplate            |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial">Introduction</a>|
+|    Chapter: 2         | Introduction of HTML tags and their use   |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">Fundamental</a>|
+|    Chapter: 3         | Attributes and their role in HTML tags    |<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">Attributes</a>|
 <table>
 <tr>
     <th>CHAPTER</th>
-    <th>REDIRECT LINK!🔗</th>
+    <th>REDIRECT LINK!</th>
 </tr>
 <tr>
     <td>CHAPTER 0</td>
