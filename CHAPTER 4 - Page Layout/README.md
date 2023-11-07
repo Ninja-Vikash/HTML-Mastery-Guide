@@ -45,7 +45,7 @@ The Main is divided into more semantic tags. As below-
       &ltsection&gt
         &lth2&gtRead More&lt/h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos            commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
         &lt/p&gt
       &lt/section&gt
 
@@ -58,9 +58,9 @@ The Main is divided into more semantic tags. As below-
       &lt/section&gt
 
       &ltarticle&gt
-        &lth4&gt
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima                 quos commodi blanditiis illum est repudiandae possimus sit animi eum,<br> delectus, asperiores dolorum eligendi excepturi!                     Sapiente, facilis et?
-        &lt/h4&gt
+        &ltp&gt
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
+        &lt/p&gt
       &lt/article&gt
 
       &ltaside&gt
