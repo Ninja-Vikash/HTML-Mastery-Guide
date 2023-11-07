@@ -11,7 +11,7 @@ This is a wonderful repository for **HTML learners!** <br>Where I have covered t
 <table>
 <tr>
     <th>CHAPTER</th>
-    <th>REDIRECT LINK!</th>
+    <th>REDIRECT LINK!🔗</th>
 </tr>
 <tr>
     <td>CHAPTER 0</td>
