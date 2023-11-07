@@ -38,7 +38,7 @@ The Main is divided into more semantic tags. As below-
       &ltsection&gt
         &lth2&gtAbout&lt/h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
         &lt/p&gt
       &lt/section&gt
 
