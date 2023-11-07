@@ -1,9 +1,9 @@
 # CHAPTER 6
 ### INLINE & BLOCK ELEMENTS
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-1. Inline tags :
+1. Inline tags :<br>
 | Inline Tags           | Inline tags              | Inline tags              | Inline tags                  | Inline tags         |
-| :----                 | :----                    | :----                    | :----                        | :----               |
+|       :----           |         :----            |         :----            |         :----                | :----               |
 | &lta&gt               |    &ltbutton&gt          |    &ltinput&gt           |    &ltoutput&gt              |    &ltstrong&gt     |
 | &ltabbr&gt            |    &ltcite&gt            |    &ltkbd&gt             |    &ltq&gt                   |    &ltsub&gt        |
 | &ltacronym&gt         |    &ltcode&gt            |    &ltlabel&gt           |    &ltsamp&gt                |    &ltsup&gt        |
