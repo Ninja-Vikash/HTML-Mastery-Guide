@@ -22,8 +22,7 @@ and so on...
 &ltsection&gt
 </pre>
 </ul>
-Arrangement of Semantic tags-
-
+<li>Arrangement of Semantic tags-</li>
 <pre>
 &ltbody&gt
     &ltheader>&lt!--Heading of the page--&gt&lt/header&gt
@@ -39,28 +38,28 @@ The Main is divided into more semantic tags. As below-
       &ltsection&gt
         &lth2>About</h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
         &lt/p&gt
       &lt/section&gt
 
       &ltsection&gt
         &lth2>Read More</h2&gt
         &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus<br> sit animi eum, delectus, asperiores dolorum eligendi 
         &lt/p&gt
       &lt/section&gt
 
       &ltsection&gt
         &lth2>Contact</h2&gt
         &ltp&gt
-          Phone : +1234567890 <br>
+          Phone : +1234567890
           Email : abc@gmail.com
         &lt/p&gt
       &lt/section&gt
 
       &ltarticle&gt
         &lth4&gt
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, \n saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi excepturi! Sapiente, facilis et?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam,<br> saepe reprehenderit quia minima quos commodi blanditiis illum est repudiandae possimus sit animi eum,<br> delectus, asperiores dolorum eligendi excepturi! Sapiente, facilis et?
         &lt/h4&gt
       &lt/article&gt
 
