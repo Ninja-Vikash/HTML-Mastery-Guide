@@ -28,11 +28,11 @@ For Simple content writing-
 <br>
 <li>Text Formatting Tags :</li>
 <pre>
-&ltb&gtI am Bold&lt/b&gt                  <b>I am Bold</b>
-&lti&gtI am Italic&lt/i&gt                <i>I am Italic</i>
-&ltu&gtI am Underline&lt/u&gt             <u>I am Underline</u>
+|&ltb&gtI am Bold&lt/b&gt      |            <b>I am Bold</b>|
+|&lti&gtI am Italic&lt/i&gt    |            <i>I am Italic</i>|
+|&ltu&gtI am Underline&lt/u&gt |
 </pre>
-<p>💡<b>Tip:</b> &ltstrong&gt tag is similar to the &ltb&gt tag </p>
+<p>💡<b>Tip:</b> &ltstrong&gt tag is similar to the &ltb&gt tag and &ltem&gt tag is similar to the &lti&gt tag</p>
 <pre>
 &ltbig&gtI am Big&lt/big&gt
 &ltsmall&gtI am Small&lt/small&gt
