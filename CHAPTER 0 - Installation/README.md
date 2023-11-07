@@ -1,5 +1,5 @@
-# 🔴CHAPTER 0
-### 🔴Where to write HTML
+# CHAPTER 0
+### ▶️Where to write HTML
 <hr>
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
 2. There are so many options to write HTML code.<br>
