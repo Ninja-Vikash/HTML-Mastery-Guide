@@ -25,7 +25,6 @@ For Simple content writing-
 &lth6&gtHeading 6&lt/h6&gt
 </pre>
 <p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
-<br>
 <li>Text Formatting Tags :</li>
 <pre>
 &ltb&gtI am Bold&lt/b&gt                  
