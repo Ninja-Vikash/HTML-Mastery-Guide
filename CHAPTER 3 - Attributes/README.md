@@ -19,5 +19,5 @@ Use of HTML attributes
 <li>Tags without attributes but we can add attributes to give them some additional details to the HTML tag.</li>
 <pre> &ltimg src="img.jpeg" alt="Book image" height="200px"&gt </pre>
 💡<b>Tip:</b> We use only height or width on images to constant their aspect ratio.
-<span>We will learn about more attributes of tags in further chapters.</span>
+<span>We will learn about more attributes of tags in further chapters. like style attribute for inline styling, type attribute for input tags</span>
 </ol>
