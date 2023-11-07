@@ -71,7 +71,7 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 &lt/body&gt
 </pre>
 <p>&ltbody&gt Adding data to the container will reflect on the browser's main screen.</p>
-4. Comments are written as
+<li>Comments are written as</li>
 <pre>
 &lt!-- Your comment is here --&gt
 </pre>
