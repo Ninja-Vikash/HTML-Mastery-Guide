@@ -26,13 +26,13 @@ HTML is the code used to structure a web page and its content. And the component
 &lt/html&gt
 </pre>
 <p>The above code is called the <b>Boiler Plate</b>. <br>
-> :bulb: <b>Tip:</b>  We can write it with the help of emmet abbreviation-! + enter | html5 + enter <br>
+:bulb:<b>Tip:</b>  We can write it with the help of emmet abbreviation-! + enter | html5 + enter <br>
 Both methods are useful for deploying boilerplate.</p>
-<br>
+
 <li>All the elements within angular brackets <> called as <b>Tags</b></li>
 <p>Most of the element are closed with two tags like &ltopening tag&gt context &lt/closing tag&gt <br>
-Also, there are a few tags that are self-closed tag.</p>
-<p>Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
+Also, there are a few tags that are self-closed tag.<br>
+Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 <li>Overview of Boilerplate-</li>
 <pre>
 &lt!DOCTYPE html&gt
