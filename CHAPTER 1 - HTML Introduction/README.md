@@ -5,7 +5,7 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20introduction.png)
 
-<p>**HTML** : Hypertext Markup Language<br>
+<p><b>HTML</b> : Hypertext Markup Language<br>
 HTML is the code used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags. It is often assisted by technologies such as Cascading Style Sheets and Scripting languages such as Javascript.</p>
 <hr>
 
