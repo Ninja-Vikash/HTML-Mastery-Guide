@@ -27,7 +27,7 @@ HTML is the code used to structure a web page and its content. And the component
 </pre>
 <p>The above code is called the <b>Boiler Plate</b>. <br>
 :bulb:<b>Tip:</b>  We can write it with the help of emmet abbreviation-! + enter | html5 + enter <br>
-Both methods are useful for deploying boilerplate.</p>
+Both methods manual and automated, are effective in deploying boilerplate.</p>
 
 <li>All the elements within angular brackets <> called as <b>Tags</b></li>
 <p>Most of the element are closed with two tags like &ltopening tag&gt context &lt/closing tag&gt <br>
@@ -67,10 +67,10 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 <p>&lttitle&gt is used to give the name to the Webpage When we search the Internet. It is shown on the browser's tab bar.</p>
 <pre>
 &ltbody&gt
-  --------All the data is reflected on the browser's screen---------
+  --------The browser's screen displays all the data accurately.---------
 &lt/body&gt
 </pre>
-<p>&ltbody&gt is also a container used to add data which is reflected on the browser's main screen. </p>
+<p>&ltbody&gt Adding data to the container will reflect on the browser's main screen.</p>
 4. Comments are written as
 <pre>
 &lt!-- Your comment is here --&gt
