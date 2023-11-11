@@ -76,3 +76,9 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 &lt!-- Your comment is here --&gt
 </pre>
 </ol>
+
+<p>
+  <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">⬅Back</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">Next➡</a>
+</p>
