@@ -53,7 +53,7 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 &lt/head&gt
 <br>
 &ltbody&gt
--------Contains the main data and reflects on the browser's screen--------
+  -------Contains the main data and reflects on the browser's screen--------
 &lt/body&gt
 
 </pre>
