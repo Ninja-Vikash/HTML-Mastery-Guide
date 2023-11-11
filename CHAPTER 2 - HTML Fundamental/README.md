@@ -24,6 +24,7 @@ For Simple content writing-
 &lth5&gtHeading 5&lt/h5&gt
 &lth6&gtHeading 6&lt/h6&gt
 </pre>
+  ![Heading Preview](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 <p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
 <li>Text Formatting Tags :</li>
 <pre>
