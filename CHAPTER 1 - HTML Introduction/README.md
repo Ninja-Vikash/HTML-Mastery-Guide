@@ -47,7 +47,9 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 <p>&ltHTML&gt is the parent container.</p>
 <pre>
 &lthead&gt
-  -------Contains the metadata, title, link, and other useful tags which are not rendered on the browser's screen--------
+  -------Contains the metadata--------
+  -------Contains title & link--------
+  -------Contains useful tags which are not rendered on the browser's screen--------
 &lt/head&gt
 <br>
 &ltbody&gt
