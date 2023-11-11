@@ -6,7 +6,7 @@ HTML Tags information
 <ol>
 <li>HTMl is Not case-sensitive.</li>
 <pre>
-&lthtml&gt = &lttHTM&gt
+&lthtml&gt = &ltHTML&gt
 &ltp&gt = &ltP&gt
 &lthead&gt = &ltHEAD&gt
 &ltbody&gt = &ltBODY&gt
