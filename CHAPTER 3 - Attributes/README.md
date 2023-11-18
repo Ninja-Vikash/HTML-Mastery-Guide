@@ -1,5 +1,5 @@
 # CHAPTER 3
-### HTML important attributes
+### HTML attributes
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 Use of HTML attributes
