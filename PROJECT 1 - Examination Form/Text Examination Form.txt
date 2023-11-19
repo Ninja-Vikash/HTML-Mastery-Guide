@@ -1,0 +1,22 @@
+================ HEADING =================
+SEMESTER EXAMINATION FORM
+XYZ UNIVERSITY
+
+================ STUDENT DETAILS ===============
+1. NAME : input[text]
+2. PARENT NAME : input[text]
+3. GENDER : input[radio]
+4. DATE OF BIRTH : input[date]
+5. SELECT SEMESTER : select[option]
+6. REGISTRATION NO. : input[number]
+7. SUBJECTS : input[checkbox]
+Core Subjects - Mathematics | Physics | Chemistry | Biology
+Core Languages - English | Hindi
+Additional - Computer | Economics
+8. AADHAR NO. input[number]
+
+================ AGREE ===============
+Agree Terms and condition
+
+================ INTERACTION =================
+RESET   NEXT
