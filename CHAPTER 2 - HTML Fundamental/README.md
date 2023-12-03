@@ -1,4 +1,4 @@
-# CHAPTER 2
+# CHAPTER 2 - FUNDAMENTALS
 ### FUNDAMENTALS OF HTML
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20fundamentals.png)
