@@ -1,4 +1,4 @@
-# CHAPTER 1
+# CHAPTER 1 - INTRODUCTION
 
 ### INTRODUCTION OF HTML
 <p>Did you know that HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
