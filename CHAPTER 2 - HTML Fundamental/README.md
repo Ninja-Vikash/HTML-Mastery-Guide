@@ -3,19 +3,22 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20fundamentals.png)
 HTML Tags information
-<ol>
-<li>HTML is Not case-sensitive.</li>
+
+1. HTML is not case-sensitive
 <pre>
 &lthtml&gt = &ltHTML&gt
 &ltp&gt = &ltP&gt
 &lthead&gt = &ltHEAD&gt
 &ltbody&gt = &ltBODY&gt
 </pre>
-<li>Basic Tags :</li>
-For Simple content writing-
+
+2. What is an HTML element?
+   <p>An HTML element is defined by a start tag, some content, and an end tag</p>
+3. Basic Tags-
+ <p>For Simple content writing-</p>
 <pre>&ltp&gt-----This is a paragraph tag----&lt/p&gt</pre>
 <pre>&ltpre&gt---This is a pre tag---&lt/pre&gt</pre>
-<li>For Headings-</li>
+4. For Headings-
 <pre>
 &lth1&gtHeading 1&lt/h1&gt
 &lth2&gtHeading 2&lt/h2&gt
@@ -28,7 +31,7 @@ For Simple content writing-
 ![Heading](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 
 <p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
-<li>Text Formatting Tags :</li>
+5. Text Formatting Tags-
 <pre>
 &ltb&gtI am Bold&lt/b&gt                  
 &lti&gtI am Italic&lt/i&gt                
