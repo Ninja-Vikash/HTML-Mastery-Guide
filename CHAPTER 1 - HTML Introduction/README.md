@@ -11,7 +11,7 @@ HTML is the code used to structure a web page and its content. And the component
 
 <ol>
 <li>How to create an HTML document.</li>
- syntax-
+ Simple syntax-
 <pre>
 &lt!DOCTYPE html&gt
 &lthtml lang="en"&gt
