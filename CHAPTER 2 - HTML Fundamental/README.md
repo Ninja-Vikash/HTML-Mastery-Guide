@@ -14,10 +14,12 @@ HTML Tags information
 
 2. What is an HTML element?
    <p>An HTML element is defined by a start tag, some content, and an end tag</p>
+   
 3. Basic Tags-
  <p>For Simple content writing-</p>
 <pre>&ltp&gt-----This is a paragraph tag----&lt/p&gt</pre>
 <pre>&ltpre&gt---This is a pre tag---&lt/pre&gt</pre>
+
 4. For Headings-
 <pre>
 &lth1&gtHeading 1&lt/h1&gt
@@ -31,6 +33,7 @@ HTML Tags information
 ![Heading](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 
 <p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
+
 5. Text Formatting Tags-
 <pre>
 &ltb&gtI am Bold&lt/b&gt                  
