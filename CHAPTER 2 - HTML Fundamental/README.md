@@ -4,7 +4,7 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20fundamentals.png)
 HTML Tags information
 <ol>
-<li>HTMl is Not case-sensitive.</li>
+<li>HTML is Not case-sensitive.</li>
 <pre>
 &lthtml&gt = &ltHTML&gt
 &ltp&gt = &ltP&gt
