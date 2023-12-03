@@ -33,7 +33,7 @@ Both methods manual and automated, are effective in deploying boilerplate.</p>
 <p>Most of the element are closed with two tags like &ltopening tag&gt context &lt/closing tag&gt <br>
 Also, there are a few tags that are self-closed tag.<br>
 Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
-<li>Overview of Boilerplate-</li>
+<li>Boilerplate Explained-</li>
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
