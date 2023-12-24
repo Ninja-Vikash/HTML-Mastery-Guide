@@ -28,4 +28,9 @@ eg. email address
 &ltinput type="radio"&gt for choose one option from them.<br>
 eg. Gender, stream of study in college, etc.
 &ltinput type="checkbox"&gt fot selecting multiple options.
+&ltinput type="submit" value="submit"&gt for submitting data to server.
+</pre>
+
+<pre>
+&ltbutton&gtClick&lt/button&gt used to create buttons for user interaction.
 </pre>
