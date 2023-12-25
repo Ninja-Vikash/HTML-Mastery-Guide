@@ -1,10 +1,10 @@
 # CHAPTER 2
-## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" width="30px" />
+## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-HTML Tags information
+### HTML Tags information
 
-1. HTML is not case-sensitive
+1. **HTML is not case-sensitive**
 <pre>
 &lthtml&gt = &ltHTML&gt
 &ltp&gt = &ltP&gt
@@ -12,15 +12,15 @@ HTML Tags information
 &ltbody&gt = &ltBODY&gt
 </pre>
 
-2. What is an HTML element?
+2. **What is an HTML element?**
    <p>An HTML element is defined by a start tag, some content, and an end tag</p>
    
-3. Basic Tags-
- <p>For Simple content writing-</p>
+3. **Basic Tags-**
+<p>For Simple content writing-</p>
 <pre>&ltp&gt-----This is a paragraph tag----&lt/p&gt</pre>
 <pre>&ltpre&gt---This is a pre tag---&lt/pre&gt</pre>
 
-4. For Headings-
+4. **For Headings-**
 <pre>
 &lth1&gtHeading 1&lt/h1&gt
 &lth2&gtHeading 2&lt/h2&gt
@@ -34,7 +34,7 @@ HTML Tags information
 
 <p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
 
-5. Text Formatting Tags-
+5. **Text Formatting Tags-**
 <pre>
 &ltb&gtI am Bold&lt/b&gt                  
 &lti&gtI am Italic&lt/i&gt                
