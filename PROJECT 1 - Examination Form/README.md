@@ -1,4 +1,5 @@
-## PROJECT 1 - EXAMINATION FORM
+## PROJECT
+### Examination form
 
 **Here is the basic structure of the examination form**
 <p>
