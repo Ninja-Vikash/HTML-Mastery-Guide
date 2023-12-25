@@ -25,6 +25,10 @@
 # Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
 **Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<br>
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/firefox.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/edge.png" width="30px"/>
 <br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
@@ -41,8 +45,7 @@
 Create the first HTML document and name it **index.html**
 
 ### Where to run or execute HTML?
-We don't need to worry about it because HTML runs on every internet browser. Such as 
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" height="14px" />
+We don't need to worry about it because HTML runs on every internet browser.
 There are two ways to open your HTML document on the browser's screen. <br>
  1. Directly through the folder  **Just double click on index.html**
  2. By Extension like **Live Server**
