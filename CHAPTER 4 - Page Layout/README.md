@@ -3,9 +3,9 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-**Layouting of tags**.
+### Layouting of tags
 
-1.**Tags are divided into two categories**
+1. **Tags are divided into two categories** <br>
  A. **Semantic tag**
 <pre>
 &ltheader&gt
