@@ -10,8 +10,9 @@ HTML is the code used to structure a web page and its content. And the component
 <hr>
 
 <ol>
-<li>How to create an HTML document.</li>
- Simple syntax-
+ 
+### How to create an HTML document-
+The most common syntax of any webpage below
 <pre>
 &lt!DOCTYPE html&gt
 &lthtml lang="en"&gt
@@ -25,15 +26,18 @@ HTML is the code used to structure a web page and its content. And the component
   &lt/body&gt
 &lt/html&gt
 </pre>
-<p>The above code is called the <b>Boiler Plate</b>. <br>
-:bulb:<b>Tip:</b>  We can write it with the help of emmet abbreviation-! + enter | html5 + enter <br>
-Both methods manual and automated, are effective in deploying boilerplate.</p>
+<br>
 
-<li>All the elements within angular brackets <> called as <b>Tags</b></li>
-<p>Most of the element are closed with two tags like &ltopening tag&gt context &lt/closing tag&gt <br>
+The above code is called the **Boiler Plate** <br>
+:bulb:<b>Tip:</b>  We can write it with the help of emmet abbreviation-! + enter | html5 + enter <br>
+Both methods manual and automated, are effective in deploying boilerplate <br>
+
+### All the elements within angular brackets <> called as 'Tags'
+Most of the elements are closed with two tags like &ltopening tag&gt context &lt/closing tag&gt <br>
 Also, there are a few tags that are self-closed tag.<br>
-Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
-<li>Boilerplate Explained-</li>
+Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..
+
+### Boilerplate explained below
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
@@ -73,7 +77,8 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 &lt/body&gt
 </pre>
 <p>&ltbody&gt Adding data to the container will reflect on the browser's main screen.</p>
-<li>Comments are written as</li>
+
+### Comments are written as below 
 <pre>
 &lt!-- Your comment is here --&gt
 </pre>
