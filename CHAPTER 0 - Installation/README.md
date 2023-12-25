@@ -17,6 +17,7 @@
  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cLogo.png" height="50px"/>
  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cppLogo.png" height="50px"/>
  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/c%23Logo.png" height="50px"/>
+ <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/sassLogo.png" height="50px"/>
 </p>
 
 <hr>
