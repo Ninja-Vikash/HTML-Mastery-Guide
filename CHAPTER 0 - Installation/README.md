@@ -41,10 +41,18 @@ Create the first HTML document and name it **index.html**
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser.
 There are two ways to open you HTML document on browser's screen. <br>
- 1. Direct through the HTML icon on folder
- 2. By Extension
+ 1. Directly through the folder  **Just double click on index.html**
+ 2. By Extension like **Live Server**
 
-### Useful VS Code Extensions
+### From where we can download extensions on VS Code?
+We can directly download extension on VS code from side bar as
+![extension icon](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Extension%20Icon.png)
+
+### Useful VS Code Extensions-
+1. Live Server
+![]()
+2. Prettier
+3. Auto rename tag
 
 
 <p>
