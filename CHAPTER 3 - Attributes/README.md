@@ -1,5 +1,5 @@
 # CHAPTER 3
-### HTML attributes
+## <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> HTML attributes
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 Use of HTML attributes
@@ -22,3 +22,7 @@ Use of HTML attributes
   💡<b>Tip:</b> Attributes usually come in name/value pairs like name="value"<br>
 <span>We will learn about more attributes of tags in further chapters. like style attribute for inline styling, type attribute for input tags</span>
 </ol>
+
+### Notable
+&ltimg src="URL" /&gt is a self-closing tag used to display Images on a screen. <br>
+&ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
