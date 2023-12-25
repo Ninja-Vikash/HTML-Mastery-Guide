@@ -8,10 +8,8 @@
 <p><b>HTML</b> : Hypertext Markup Language<br>
 HTML is the code used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags. It is often assisted by technologies such as Cascading Style Sheets and Scripting languages such as Javascript.</p>
 <hr>
-
-<ol>
  
-### How to create an HTML document-
+### How to create an HTML document?
 The most common syntax of any webpage below
 <pre>
 &lt!DOCTYPE html&gt
@@ -82,7 +80,6 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..
 <pre>
 &lt!-- Your comment is here --&gt
 </pre>
-</ol>
 
 <p>
   <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">
