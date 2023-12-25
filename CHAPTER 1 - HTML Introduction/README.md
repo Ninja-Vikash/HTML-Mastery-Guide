@@ -1,6 +1,6 @@
 # CHAPTER 1 - INTRODUCTION
 
-### INTRODUCTION OF HTML
+## INTRODUCTION OF HTML
 <p>Did you know that HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML%20introduction.png)
