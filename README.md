@@ -22,6 +22,6 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 
 <p><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">
   
-  ![next](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png)width="20px"
+  ![next](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png){width=20px}
   
 </a></p>
