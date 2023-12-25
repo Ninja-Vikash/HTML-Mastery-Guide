@@ -30,6 +30,6 @@
 &ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
 </pre>
 
-<a href="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png">
+<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">
   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
 </a>
