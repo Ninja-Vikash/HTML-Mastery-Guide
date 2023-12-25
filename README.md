@@ -20,4 +20,6 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 ### 8 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%208%20-%20Table%20in%20HTML">What is a Table in HTML, What is its role in HTML?</a>
 ### 9 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms">Learn about various input types and HTML Forms components</a>
 
-<p><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Start➡️</a></p>
+<p><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">
+  ![next](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png)
+</a></p>
