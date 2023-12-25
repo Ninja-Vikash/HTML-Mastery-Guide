@@ -1,4 +1,4 @@
-# <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/htmlLogo.png" height="30px"/> HTML For Beginners
+# <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="30px"/> HTML For Beginners
 ![logo](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 ## ✈️ Learn HTML from "ZERO" to "HERO"
 <hr>
