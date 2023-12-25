@@ -21,7 +21,7 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 ### 9 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms">Learn about various input types and HTML Forms components</a>
 
 <p><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">
-  
+  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" width="30px"/>
   ![next](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png){height :"20px"}
   
 </a></p>
