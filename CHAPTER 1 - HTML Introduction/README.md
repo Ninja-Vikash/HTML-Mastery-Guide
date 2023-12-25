@@ -1,4 +1,4 @@
-# CHAPTER 1 - INTRODUCTION
+# CHAPTER 1
 
 ## Introduction of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 <p> <b>Did you know</b> that HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
