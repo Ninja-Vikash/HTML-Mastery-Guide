@@ -1,5 +1,5 @@
 # CHAPTER 7
-### Lists in HTML
+## Lists in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 <hr>
 Lists are used to represent real-life data.
@@ -8,7 +8,7 @@ Types of HTML-List
 
 1. Ordered List
 <pre>
-                                       Ordered List &ltol&gt
+                                      Ordered List &ltol&gt
 
                                 &ltol&gt
                                     &ltli&gtFirst Item&lt/li&gt
@@ -59,4 +59,4 @@ we can change the list style type by using CSS property. - Bullet, Circle, Disk,
 </pre>
 This is a rarely used list type and is used for informative lists. <br>
 
-Note: For the list Border style We need to check out CSS.
+**Note**: For the list Border style We need to check out CSS.
