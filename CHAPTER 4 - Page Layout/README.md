@@ -6,7 +6,7 @@
 ### Layouting of tags
 
 1. **Tags are divided into two categories** <br>
- A. **Semantic tag**
+**Semantic tag**
 <pre>
 &ltheader&gt
 &ltmain&gt
@@ -14,7 +14,7 @@
 </pre>
 and so on...
 
- B. **Non-semantic tag**
+**Non-semantic tag**
 <pre>
 &ltspan&gt
 &ltdiv&gt
