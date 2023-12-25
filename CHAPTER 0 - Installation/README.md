@@ -10,13 +10,7 @@
 4. For advanced HTML code writing we used some code editors like **Notepad ++**, **Sublime Text**, **Froala**, and **Visual Studio Code**(VS &nbsp; Code)<br>
 5. We will go with Visual Studio Code text editor. This is a Free Code editor Application Provided by Microsoft. And supports many programming languages eg: HTML, CSS, JavaScript, Python, C, C++, C#, Sass(Advanced CSS), and so on.
 <p>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/jsLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cppLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/sassLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cLogo.png" height="30px"/>
-<img src"https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/c%23Logo.png" height="30px"/>
+<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/c%23Logo.png" height="30px"/>
 </p>
 
 <hr>
