@@ -1,5 +1,5 @@
 # CHAPTER 8
-### Table in HTML
+## Table in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 <hr>
@@ -10,7 +10,7 @@ Tables are used to represent real-life table data. <br>
 &ltth&gt Used to display table header
 </pre>
 
-We can divide table data into sections.
+**We can divide table data into sections.**
 
 <pre>
 &ltthead&gt Used to deploy the header part of the table
@@ -30,4 +30,4 @@ For expanding cells or merging cells we use
 &ltth colspan="2"&gt for merging two cells in column
 </pre>
 
-Note: For better understanding, I used some simple CSS to make it clear.
+**Note** : For better understanding, I used some simple CSS to make it clear.
