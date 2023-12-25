@@ -12,7 +12,7 @@
 <p>
  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="50px"/>
   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="50px"/>
-  <img src"
+ <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/jsLogo.png" height="50px"/>
  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/c%23Logo.png" height="50px"/>
 </p>
 
