@@ -1,5 +1,5 @@
-# CHAPTER 2 - FUNDAMENTALS
-### FUNDAMENTALS OF HTML
+# CHAPTER 2
+## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" width="30px" />
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 HTML Tags information
