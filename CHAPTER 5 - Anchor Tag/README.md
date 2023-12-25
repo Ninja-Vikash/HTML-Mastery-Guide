@@ -1,5 +1,5 @@
 # CHAPTER 5
-### 🔴 MORE INFORMATION ABOUT ANCHOR TAG
+### 🔴 More information about anchor tag
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 <hr>
 Here is some information related to the anchor tag.
