@@ -48,8 +48,9 @@ There are two ways to open you HTML document on browser's screen. <br>
 We can directly download extension on VS code from side bar as
 ![extension icon](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Extension%20Icon.png)
 
-### Useful VS Code Extensions-
-1. Live Server
+## Useful VS Code Extensions-
+
+### <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
 ![live server](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/live%20server.png)
 2. Prettier
 3. Auto rename tag
