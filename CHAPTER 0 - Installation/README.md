@@ -24,10 +24,10 @@
 
 # Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
 **Step 1**: Open your browser like | eg. Chrome, Safari, Brave, Firebox, Internet Explorer <br><br>
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/>
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/>
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/>
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/firefox.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/firefox.png" width="30px"/> &nbsp;&nbsp;
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/edge.png" width="30px"/>
 <br> <br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
