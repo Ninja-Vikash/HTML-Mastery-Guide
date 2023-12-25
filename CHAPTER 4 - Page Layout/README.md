@@ -4,10 +4,9 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 **Layouting of tags**.
-<ol>
-<li>Tags are divided into two categories.</li>
-<ul>
-<li>Semantic tag</li>
+
+1.**Tags are divided into two categories**
+ A. **Semantic tag**
 <pre>
 &ltheader&gt
 &ltmain&gt
@@ -15,14 +14,14 @@
 </pre>
 and so on...
 
-<li>Non-semantic tag</li>
+ B. **Non-semantic tag**
 <pre>
 &ltspan&gt
 &ltdiv&gt
 &ltsection&gt
 </pre>
-</ul>
-<li>Arrangement of Semantic tags-</li>
+
+2. **Arrangement of Semantic tags**
 <pre>
 &ltbody&gt
     &ltheader>&lt!--Heading of the page--&gt&lt/header&gt
@@ -74,5 +73,5 @@ The Main is divided into more semantic tags. As below-
 </pre>
 <br>
 
-You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">portfolio.html</a>
+You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">*portfolio.html*</a>
 </ol>
