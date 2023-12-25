@@ -40,8 +40,9 @@ Create the first HTML document and name it **index.html**
 
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser.
-There are many ways to show you HTML document on browser's screen.
- 1 Direct through the HTML icon on folder
+There are two ways to open you HTML document on browser's screen. <br>
+ 1. Direct through the HTML icon on folder
+ 2. By Extension
 
 ### Useful VS Code Extensions
 
