@@ -29,3 +29,7 @@
 &ltimg src="URL" /&gt is a self-closing tag used to display Images on a screen. <br>
 &ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
 </pre>
+
+<a href="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png">
+  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
+</a>
