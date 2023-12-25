@@ -8,7 +8,7 @@
 This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are distributed into different chapters.<br>
 <hr>
 
-**CHAPTERS** :
+**CHAPTERS** : <br>
 •<b> <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code</a> </b> <br>
 
 |        Chapter        |                Description                |        Redirect Link🔗        |
