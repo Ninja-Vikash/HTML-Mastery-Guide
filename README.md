@@ -10,6 +10,7 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 
 ## CHAPTERS :
 ### <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code</a>
+Step-by-step process of how to install VS code on PCs, What settings should be enabled
 
 |        Chapter        |                Description                |        Redirect Link🔗        |
 |    :----:             |                  :----                    |            :----:           |
