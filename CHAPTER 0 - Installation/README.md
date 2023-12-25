@@ -40,20 +40,22 @@ Create the first HTML document and name it **index.html**
 
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser.
-There are two ways to open you HTML document on browser's screen. <br>
+There are two ways to open your HTML document on the browser's screen. <br>
  1. Directly through the folder  **Just double click on index.html**
  2. By Extension like **Live Server**
 
 ### From where we can download extensions on VS Code?
-We can directly download extension on VS code from side bar as
+We can directly download the extension on the VS code from the bar as
 ![extension icon](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Extension%20Icon.png)
 
 ## Useful VS Code Extensions-
 
-### <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+### <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> 
 ![live server](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/live%20server.png)
-2. Prettier
-3. Auto rename tag
+### <a href="https://prettier.io/docs/en/editors.html">Prettier</a>
+![prettier](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/prettier.png)
+### <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto rename tag</a>
+![Auto rename tag](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/auto%20rename%20tag.png)
 
 
 <p>
