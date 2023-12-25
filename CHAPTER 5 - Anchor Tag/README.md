@@ -12,4 +12,4 @@ target="_blank"
 3. We can access many other documents through the anchor tag. <br>
 images, web images, webpages, other html, pdf, and so on.
 
-![image](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Anchor-tag.png)
+<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/image.png" height="30px" />
