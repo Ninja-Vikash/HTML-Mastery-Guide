@@ -4,7 +4,8 @@
 <hr>
 Lists are used to represent real-life data.
 <br>
-Types of HTML-List
+
+### Types of HTML List
 
 1. Ordered List
 <pre>
@@ -59,4 +60,4 @@ we can change the list style type by using CSS property. - Bullet, Circle, Disk,
 </pre>
 This is a rarely used list type and is used for informative lists. <br>
 
-**Note**: For the list Border style We need to check out CSS.
+**Note** : For the list Border style We need to check out CSS.
