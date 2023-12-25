@@ -80,7 +80,7 @@ Example: &ltbr&gt , &lthr&gt , &ltimg&gt and so on..</p>
 </ol>
 
 <p>
-  <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">
-  &nbsp;&nbsp; <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="40px"/>
+  &nbsp;&nbsp;<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">
+   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="40px"/>
   </a>
 </p>
