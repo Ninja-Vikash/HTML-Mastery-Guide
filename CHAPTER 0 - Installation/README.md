@@ -42,7 +42,7 @@ Create the first HTML document and name it **index.html**
 
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser. Such as 
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" height="12px" />
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" height="14px" />
 There are two ways to open your HTML document on the browser's screen. <br>
  1. Directly through the folder  **Just double click on index.html**
  2. By Extension like **Live Server**
