@@ -9,7 +9,7 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 <hr>
 
 ## CHAPTERS :
-### 0 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code</a>
+### 0 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code | Useful Extensions</a>
 ### 1 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial">What is HTML?</a>
 ### 2 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">What are the Elements in HTML?</a>
 ### 3 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">What is the use of Attributes in HTML?</a>
