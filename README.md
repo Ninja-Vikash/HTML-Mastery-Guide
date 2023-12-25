@@ -9,6 +9,7 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 <hr>
 
 **CHAPTERS** :
+•<b> <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code</a> </b> <br>
 
 |        Chapter        |                Description                |        Redirect Link🔗        |
 |    :----:             |                  :----                    |            :----:           |
