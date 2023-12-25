@@ -23,7 +23,7 @@
 <hr>
 
 # Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
-**Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<br>
+**Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on 
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/>
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/>
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/>
