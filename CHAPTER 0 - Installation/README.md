@@ -13,7 +13,7 @@
 ![Supported Languages](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Supported%20Languages.png)
 <hr>
 
-# Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/vs%20code.png" height="24px"/><br>
+# Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/vs%20code.png" height="26px"/><br>
 **Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
