@@ -24,5 +24,6 @@ Use of HTML attributes
 </ol>
 
 ### Notable
+
 &ltimg src="URL" /&gt is a self-closing tag used to display Images on a screen. <br>
 &ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
