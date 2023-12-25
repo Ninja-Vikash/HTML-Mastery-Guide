@@ -15,4 +15,4 @@ images, web images, webpages, other html, pdf, and so on.
 <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/image.png" height="40px" />
 <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/video.png" height="40px" />
 <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/pdf.png" height="40px" />
-<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmllogo.png" height="40px" />
+<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="40px" />
