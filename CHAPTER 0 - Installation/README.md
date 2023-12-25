@@ -24,6 +24,8 @@
 
 # Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
 **Step 1**: Open your browser | eg. Chrome, Safari, Brave, Firebox, Internet Explorer, and so on.<br>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/>
+<br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
 **Step 3**: Start Downloading of Visual Studio Code.
