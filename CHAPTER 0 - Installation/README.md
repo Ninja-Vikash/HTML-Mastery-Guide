@@ -39,5 +39,7 @@
 Create the first HTML document and name it **index.html**
 
 <p>
-  <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Introduction">Next➡</a>
+  <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Introduction">
+   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px"/>
+  </a>
 </p>
