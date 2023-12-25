@@ -2,7 +2,7 @@
 ## Forms in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-**To create forms we use &ltform&gt tag** <br>
+**To create forms we use <form> tag** <br>
 Forms are used to input data from users and send it to the server. <br>
 We will discuss some useful input types and tags related to forms.
 
