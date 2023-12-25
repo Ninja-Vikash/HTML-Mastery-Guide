@@ -50,7 +50,7 @@ We can directly download extension on VS code from side bar as
 
 ### Useful VS Code Extensions-
 1. Live Server
-![]()
+![live server](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/live%20server.png)
 2. Prettier
 3. Auto rename tag
 
