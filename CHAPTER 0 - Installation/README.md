@@ -38,6 +38,14 @@
 ![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
 Create the first HTML document and name it **index.html**
 
+### Where to run or execute HTML?
+We don't need to worry about it because HTML runs on every internet browser.
+There are many ways to show you HTML document on browser's screen.
+ 1 Direct through the HTML icon on folder
+
+### Useful VS Code Extensions
+
+
 <p>
   <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Introduction">
    <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px"/>
