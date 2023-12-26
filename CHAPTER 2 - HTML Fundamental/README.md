@@ -60,8 +60,8 @@ But there is a problem with HTML we can't use angular brackets directly because 
 
 **List of HTML Entities**
 <pre>
-● Non-breaking spaces - &ampnbsp&semi;
-● &lt; - Less than angular bracket - &amplt&semi;
+● Non-breaking spaces - &amp;nbsp&semi;
+● &lt; - Less than angular bracket - &amp;lt&semi;
 ● &gt; - Greater than angular bracket - &ampgt&semi;
 ● &copy; - Copyright - &ampcopy&semi;
 ● &amp; - Ampersand - &ampamp&semi;
