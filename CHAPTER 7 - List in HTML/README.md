@@ -1,11 +1,15 @@
 # CHAPTER 7
 ## Lists in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-<hr>
-Lists are used to represent real-life data.
-<br>
+
+### What are lists in HTML?
+A list in HTML is a collection of items that are displayed in a list format with bullet points. Lists are used to represent real-life data. There are three list types in HTML, each with a specific purpose and tag.
+1. **Ordered List** 2. **Unordered List** 3. **Description List**
 
 ### Types of HTML List
+An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
+<br>
+
 
 1. Ordered List
 <pre>
