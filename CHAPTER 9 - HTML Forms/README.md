@@ -84,3 +84,13 @@ Textarea tag used to display a multi-line text input, the size of columns and ro
 The &lt;fieldset&gt; tag is used to group related elements in a form. <br>
 The &lt;fieldset&gt; tag draws a box around the related elements.
 
+<pre>
+ <fieldset>
+          <legend>GENDER</legend>
+          <label for="male">MALE</label>
+          <input type="radio" name="gender" id="male" />
+
+          <label for="female">FEMALE</label>
+          <input type="radio" name="gender" id="female" />
+ </fieldset>
+</pre>
