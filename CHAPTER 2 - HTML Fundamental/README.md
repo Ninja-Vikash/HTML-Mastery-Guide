@@ -62,24 +62,24 @@ But there is a problem with HTML we can't use angular brackets directly because 
 <pre>
 ● Non-breaking spaces - &amp;nbsp&semi;
 ● &lt; - Less than angular bracket - &amp;lt&semi;
-● &gt; - Greater than angular bracket - &ampgt&semi;
-● &copy; - Copyright - &ampcopy&semi;
-● &amp; - Ampersand - &ampamp&semi;
-● &semi; - SemiColon - &ampsemi&semi;
-● &reg; - Registered - &ampreg&semi;
-● &trade; - Trademark - &amptrade&semi;
-● &commat; - At the rate - &ampcommat&semi;
-● &star; - Holo Star - &ampstar&semi;
-● &starf; - Filled Star - &ampstarf&semi;
-● &phone; - Phone - &ampphone&semi;
-● &male; - Male - &ampmale&semi;
-● &female; - Female - &ampfemale&semi;
-● &hearts; - Heart - &amphearts&semi;
-● &spades; - Spade - &ampspades&semi;
-● &clubs; - Club - &ampclubs&semi;
-● &diams; - Diamond - &ampdiams&semi;
-● &sung; - Tune - &ampsung&semi;
-● &check; - Check - &ampcheck&semi;
+● &gt; - Greater than angular bracket - &amp;gt&semi;
+● &copy; - Copyright - &amp;copy&semi;
+● &amp; - Ampersand - &amp;amp&semi;
+● &semi; - SemiColon - &amp;semi&semi;
+● &reg; - Registered - &amp;reg&semi;
+● &trade; - Trademark - &amp;trade&semi;
+● &commat; - At the rate - &amp;commat&semi;
+● &star; - Holo Star - &amp;star&semi;
+● &starf; - Filled Star - &amp;starf&semi;
+● &phone; - Phone - &amp;phone&semi;
+● &male; - Male - &amp;male&semi;
+● &female; - Female - &amp;female&semi;
+● &hearts; - Heart - &amp;hearts&semi;
+● &spades; - Spade - &amp;spades&semi;
+● &clubs; - Club - &amp;clubs&semi;
+● &diams; - Diamond - &amp;diams&semi;
+● &sung; - Tune - &amp;sung&semi;
+● &check; - Check - &amp;check&semi;
 </pre>
 
 <p>There are so many symbols in HTML we can use them to add # after &</p>
