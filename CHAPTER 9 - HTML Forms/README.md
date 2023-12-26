@@ -8,7 +8,7 @@ We will discuss some useful input types and tags related to forms.
 
 ### Structure of a 'Form' container
 <pre>
-        &lr;form&gt;
+        &lt;form&gt;
                 .
                 .
                 form elements
