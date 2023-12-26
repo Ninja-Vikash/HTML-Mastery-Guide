@@ -1,6 +1,6 @@
 # Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a>
-### Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="16px"/>?
-<hr>
+## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="16px"/>?
+
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
 2. There are so many options to write HTML code.<br>
 3. We can write our code in Notepad, For simple HTML code writing Notepad is great if you learn the basic structure of HTML.
