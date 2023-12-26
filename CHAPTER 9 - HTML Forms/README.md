@@ -33,25 +33,25 @@ As per the above example placeholder="enter first name" says to the user enter h
 
 ### Types of &lt;input&gt;
 <pre>
-&lt;input type="text"&gt; - Show a single line 'text' input field
+&lt;input type="text"&gt; - Shows a single line 'text' input field
 eg. Name, Father's Name, Mother's Name, etc.
         
-&lt;input type="number"&gt; - Show a single line 'number' input field
+&lt;input type="number"&gt; - Shows a single line 'number' input field
 eg. Phone Numbers
         
-&lt;input type="email"&gt; - Show a single line 'email' input field
+&lt;input type="email"&gt; - Shows a single line 'email' input field
 eg. email address
         
-&lt;input type="radio"&gt; - displays a radio button(to select one of many choices)
+&lt;input type="radio"&gt; - Displays a radio button(to select one of many choices)
 eg. gender, stream of study in college, etc.
         
-&lt;input type="checkbox"&gt; - displays a checkbox(to zero or more of many choices)
+&lt;input type="checkbox"&gt; - Displays a checkbox(to zero or more of many choices)
 eg. food you want to eat
         
-&lt;input type="submit"&gt; - shows a submit button(for submitting the form)
+&lt;input type="submit"&gt; - Shows a submit button(for submitting the form)
 </pre>
 
 <pre>
-&ltbutton&gtClick&lt/button&gt used to create buttons for user interaction.
+&lt;button&gt;Click me&lt;/button&gt; - Displays a clickable button
 </pre>
 
