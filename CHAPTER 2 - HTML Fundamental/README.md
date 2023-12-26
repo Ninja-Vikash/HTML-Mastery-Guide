@@ -2,7 +2,7 @@
 ## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-### HTML Tags information
+### Information of HTML tags
 
 1. **HTML is not case-sensitive**
 <pre>
@@ -52,6 +52,17 @@
 &ltsub&gtI am Subscript&lt/sub&gt
 </pre>
 </ol>
+
+### Notable 
+Sometimes we use some special characters on a web page like angular brackets, copyright symbols, trademark symbols, etc. <br>
+But there is a problem with HTML we can't use angular brackets directly because HTML takes them as a tag, if we use opening and closing angular brackets together it will affect our code. To solve this bug we will use **HTML Entity**
+<br> It should be closed with a semi-colon (;), <br>
+
+**HTML Entities**
+<pre>
+● &nbsp;
+   
+</pre>
 
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">
