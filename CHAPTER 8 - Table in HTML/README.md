@@ -3,7 +3,9 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 ### What is a Table in HTML?
-HTML tables are structured sets of data in rows and columns. They are created using the &lt;table&gt; tag and one or more &lt;tr&gt;, &lt;th&gt;, and &lt;td&gt; elements. Each table cell is defined by a &lt;td&gt; and a &lt;/td&gt; tag. The &lt;table&gt; tag includes global attributes that indicate how the table must be aligned inside the containing document. <br>
+HTML tables are structured sets of data in rows and columns.<br>
+They are created using the &lt;table&gt; tag and one or more &lt;tr&gt;, &lt;th&gt;, and &lt;td&gt; elements. <br>
+Each table cell is defined by a &lt;td&gt; and a &lt;/td&gt; tag. The &lt;table&gt; tag includes global attributes that indicate how the table must be aligned inside the containing document. <br>
 Tables are useful for presenting text information and numerical data, and for quickly and easily finding connections between different types of data. They are also used to create databases.
 
 <pre>
