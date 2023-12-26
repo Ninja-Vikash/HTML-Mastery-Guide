@@ -1,4 +1,4 @@
-# Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a>
+# Environment building for writing HTML
 ## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="22px"/>?
 
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
@@ -22,7 +22,7 @@
 
 <hr>
 
-# Installation of Visual Studio Code <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
+# Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a> <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/vs%20code.png" height="26px"/><br>
 **Step 1**: Open your browser like | eg. Chrome, Safari, Brave, Firebox, Internet Explorer <br><br>
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/> &nbsp;&nbsp;
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/> &nbsp;&nbsp;
