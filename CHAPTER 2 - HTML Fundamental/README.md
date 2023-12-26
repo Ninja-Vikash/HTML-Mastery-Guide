@@ -60,7 +60,7 @@ But there is a problem with HTML we can't use angular brackets directly because 
 
 **HTML Entities**
 <pre>
-● &nbsp;
+● &nbsp&semi;
    
 </pre>
 
