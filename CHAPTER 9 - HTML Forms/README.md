@@ -22,10 +22,10 @@ The &lt;form&gt; element is a container for different types of input elements, s
 ### The &lt;input&gt; element
 The HTML &lt;input&gt; element is the most used form element.
 <pre>
- &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
- &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
- &ltlabel for="lname"&gtLAST NAME :&lt/label&gt
- &ltinput type="text" name="lname" id="lname" placeholder="enter last name"&gt
+ &lt;label for="fname"&gt;FIRST NAME :&lt;/label&gt;
+ &lt;input type="text" name="fname" id="fname" placeholder="enter first name"/&gt;
+ &lt;label for="lname"&gt;LAST NAME :&lt;/label&gt;
+ &lt;input type="text" name="lname" id="lname" placeholder="enter last name"/&gt;
 </pre>
 
 Placeholder attribute used to show some translucent text which tells the user wants to input in this section.<br>
@@ -33,22 +33,22 @@ As per the above example placeholder="enter first name" says to the user enter h
 
 ### Types of &lt;input&gt;
 <pre>
-&lt;input type="text"&gt; - Shows a single line 'text' input field
+&lt;input type="text"/&gt; - Shows a single line 'text' input field
 eg. Name, Father's Name, Mother's Name, etc.
         
-&lt;input type="number"&gt; - Shows a single line 'number' input field
+&lt;input type="number"/&gt; - Shows a single line 'number' input field
 eg. Phone Numbers
         
-&lt;input type="email"&gt; - Shows a single line 'email' input field
+&lt;input type="email"/&gt; - Shows a single line 'email' input field
 eg. email address
         
-&lt;input type="radio"&gt; - Displays a radio button(to select one of many choices)
+&lt;input type="radio"/&gt; - Displays a radio button(to select one of many choices)
 eg. gender, stream of study in college, etc.
         
-&lt;input type="checkbox"&gt; - Displays a checkbox(to zero or more of many choices)
+&lt;input type="checkbox"/&gt; - Displays a checkbox(to zero or more of many choices)
 eg. food you want to eat
         
-&lt;input type="submit"&gt; - Shows a submit button(for submitting the form)
+&lt;input type="submit"/&gt; - Shows a submit button(for submitting the form)
 </pre>
 
 <pre>
@@ -62,9 +62,13 @@ The &lt;label&gt; element also helps users who have difficulty clicking on very 
 
 The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute of the &lt;input&gt; element to bind them together.
 <pre>
- &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
- &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
- &ltlabel for="lname"&gtLAST NAME :&lt/label&gt
- &ltinput type="text" name="lname" id="lname" placeholder="enter last name"&gt
+ &lt;label for="fname"&gt;FIRST NAME :&lt;/label&gt;
+ &lt;input type="text" name="fname" id="fname" placeholder="enter first name"/&gt;
+ &lt;label for="lname"&gt;LAST NAME :&lt;/label&gt;
+ &lt;input type="text" name="lname" id="lname" placeholder="enter last name"/&gt;
+&lt;input type="radio" id="male"/&gt;
+&lt;label for="male"&gt;Male&lt;/label&gt;
+&lt;input type="radio" id="female"/&gt;
+&lt;label for="female"&gt;Female&lt;/label&gt;
 </pre>
 
