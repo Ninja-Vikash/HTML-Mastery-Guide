@@ -30,7 +30,7 @@ and so on...
 &lt/body&gt
 </pre>
 
-The Main is divided into more semantic tags. As below-
+The &lt;main&gt; is divided into more semantic tags. As below-
 
 <pre>
 &ltmain&gt
