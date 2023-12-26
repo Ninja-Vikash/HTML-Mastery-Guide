@@ -60,9 +60,9 @@ But there is a problem with HTML we can't use angular brackets directly because 
 
 **List of HTML Entities**
 <pre>
-● &ampnbsp&semi; - Non-breaking spaces
-● &ampcopy&semi; - Copyright &copy;
-● &ampamp&semi; - Ampersand &amp;
+● Non-breaking spaces - &ampnbsp&semi;
+● &copy; - Copyright - &ampcopy&semi;
+● &amp; - Ampersand - &ampamp&semi;
 ● &ampsemi&semi; - SemiColon &semi;
 ● &ampreg&semi; - Registered &reg;
 ● &amptrade&semi; - Trademark &trade;
