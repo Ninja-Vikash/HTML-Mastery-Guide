@@ -49,6 +49,8 @@ eg. gender, stream of study in college, etc.
 eg. food you want to eat
         
 &lt;input type="submit"/&gt; - Shows a submit button(for submitting the form)
+        
+&lt;input type="file"/&gt; - Shows a option to add file(image/video/music)
 </pre>
 
 <pre>
