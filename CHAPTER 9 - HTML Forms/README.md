@@ -22,10 +22,10 @@ The &lt;form&gt; element is a container for different types of input elements, s
 ### The &lt;input&gt; element
 The HTML &lt;input&gt; element is the most used form element.
 <pre>
-        &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
-        &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
-        &ltlabel for="lname"&gtLAST NAME :&lt/label&gt
-        &ltinput type="text" name="lname" id="lname" placeholder="enter last name"&gt
+ &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
+ &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
+ &ltlabel for="lname"&gtLAST NAME :&lt/label&gt
+ &ltinput type="text" name="lname" id="lname" placeholder="enter last name"&gt
 </pre>
 
 Placeholder attribute used to show some translucent text which tells the user wants to input in this section.<br>
@@ -60,5 +60,11 @@ The &lt;label&gt; tag defines a label for many form elements. <br>
 The &lt;label&gt; element is useful for screen-reader users.<br>
 The &lt;label&gt; element also helps users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the &lt;label&gt; element, it toggles the radio button/checkbox. <br>
 
-The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute of the &lt;input&gt;         element to bind them together.
+The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute of the &lt;input&gt; element to bind them together.
+<pre>
+ &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
+ &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
+ &ltlabel for="lname"&gtLAST NAME :&lt/label&gt
+ &ltinput type="text" name="lname" id="lname" placeholder="enter last name"&gt
+</pre>
 
