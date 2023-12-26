@@ -80,7 +80,7 @@ Textarea tag used to display a multi-line text input, the size of columns and ro
  &lt;textarea name="" id="" cols="120" rows="8"&gt;&lt;/textarea&gt;
 </pre>
 
-### The &lt;fieldset&gt; element
+### The &lt;fieldset&gt; element and The &lt;legend&gt;
 The &lt;fieldset&gt; tag is used to group related elements in a form. <br>
 The &lt;fieldset&gt; tag draws a box around the related elements.
-
+The &lt;legend&gt; tag defines a caption for the &lt;fieldset&gt; element.
