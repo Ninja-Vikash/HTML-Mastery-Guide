@@ -1,4 +1,4 @@
-# Installation of Visual Studio Code
+# Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a>
 ### Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="16px"/>?
 <hr>
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
@@ -31,7 +31,7 @@
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/edge.png" width="30px"/>
 <br> <br>
 ![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
-**Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" target="_blank">Download</a> link.<br>
+**Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" >**Download**</a> link.<br>
 **Step 3**: Start Downloading of Visual Studio Code.
 ![start download](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Setup.png) <br>
 **Step 4**: Installation of Visual Studio Code.
