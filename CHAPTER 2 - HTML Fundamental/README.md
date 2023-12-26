@@ -1,5 +1,5 @@
 # CHAPTER 2
-## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
+## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> | HTML Entities
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 ### Information of HTML tags
@@ -58,10 +58,26 @@ Sometimes we use some special characters on a web page like angular brackets, co
 But there is a problem with HTML we can't use angular brackets directly because HTML takes them as a tag, if we use opening and closing angular brackets together it will affect our code. To solve this bug we will use **HTML Entity**
 <br> It should be closed with a semi-colon (;), <br>
 
-**HTML Entities**
+**List of HTML Entities**
 <pre>
-● &ampnbsp&semi;
-   
+● &ampnbsp&semi; - Non-breaking spaces
+● &ampcopy&semi; - Copyright
+● &ampamp&semi; - Ampersand
+● &ampsemi&semi; - SemiColon
+● &ampreg&semi; - Registered
+● &amptrade&semi; - Trademark
+● &ampcommat&semi; - At the rate
+● &ampstar&semi; - Holo Star
+● &ampstarf&semi; - Filled Star
+● &ampphone&semi; - Phone
+● &ampmale&semi; - Male
+● &ampfemale&semi; - Female
+● &amphearts&semi; - Heart
+● &ampspades&semi; - Spade
+● &ampclubs&semi; - Club
+● &ampdiams&semi; - Diamond
+● &ampsung&semi; - Tune
+● &ampcheck&semi; - Check
 </pre>
 
 
