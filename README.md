@@ -8,7 +8,7 @@
 This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are distributed into different chapters.<br>
 <hr>
 
-## Topics available :
+## Topics available
 ### ⌂ <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Installation process of VS Code | Useful Extensions</a>
 ### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial">What is HTML?</a>
 ### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">What are the Elements in HTML?</a>
