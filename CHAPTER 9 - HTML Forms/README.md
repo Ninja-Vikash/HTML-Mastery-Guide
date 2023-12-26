@@ -66,9 +66,9 @@ The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute
  &lt;input type="text" name="fname" id="fname" placeholder="enter first name"/&gt;
  &lt;label for="lname"&gt;LAST NAME :&lt;/label&gt;
  &lt;input type="text" name="lname" id="lname" placeholder="enter last name"/&gt;
-&lt;input type="radio" id="male"/&gt;
-&lt;label for="male"&gt;Male&lt;/label&gt;
-&lt;input type="radio" id="female"/&gt;
-&lt;label for="female"&gt;Female&lt;/label&gt;
+ &lt;input type="radio" id="male"/&gt;
+ &lt;label for="male"&gt;Male&lt;/label&gt;
+ &lt;input type="radio" id="female"/&gt;
+ &lt;label for="female"&gt;Female&lt;/label&gt;
 </pre>
 
