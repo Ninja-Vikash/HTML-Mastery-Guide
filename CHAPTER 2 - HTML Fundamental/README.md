@@ -63,21 +63,21 @@ But there is a problem with HTML we can't use angular brackets directly because 
 ● Non-breaking spaces - &ampnbsp&semi;
 ● &copy; - Copyright - &ampcopy&semi;
 ● &amp; - Ampersand - &ampamp&semi;
-● &ampsemi&semi; - SemiColon &semi;
-● &ampreg&semi; - Registered &reg;
-● &amptrade&semi; - Trademark &trade;
-● &ampcommat&semi; - At the rate &commat;
-● &ampstar&semi; - Holo Star &star;
-● &ampstarf&semi; - Filled Star &starf;
-● &ampphone&semi; - Phone &phone;
-● &ampmale&semi; - Male &male;
-● &ampfemale&semi; - Female &female;
-● &amphearts&semi; - Heart &hearts;
-● &ampspades&semi; - Spade &spades;
-● &ampclubs&semi; - Club &clubs;
-● &ampdiams&semi; - Diamond &diams;
-● &ampsung&semi; - Tune &sung;
-● &ampcheck&semi; - Check &check;
+● &semi; - SemiColon - &ampsemi&semi;
+● &reg; - Registered - &ampreg&semi;
+● &trade; - Trademark - &amptrade&semi;
+● &commat; - At the rate - &ampcommat&semi;
+● &star; - Holo Star - &ampstar&semi;
+● &starf; - Filled Star - &ampstarf&semi;
+● &phone; - Phone - &ampphone&semi;
+● &male; - Male - &ampmale&semi;
+● &female; - Female - &ampfemale&semi;
+● &hearts; - Heart - &amphearts&semi;
+● &spades; - Spade - &ampspades&semi;
+● &clubs; - Club - &ampclubs&semi;
+● &diams; - Diamond - &ampdiams&semi;
+● &sung; - Tune - &ampsung&semi;
+● &check; - Check - &ampcheck&semi;
 </pre>
 
 
