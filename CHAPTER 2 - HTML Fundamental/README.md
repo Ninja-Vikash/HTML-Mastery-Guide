@@ -13,7 +13,7 @@
 </pre>
 
 2. **What is an HTML element?**
-   <p>An HTML element is defined by a start tag, some content, and an end tag</p>
+   <p>An HTML element is defined by a &lt;start tag&gt;context&lt;end tag&gt;</p>
    
 3. **Basic Tags-**
 <p>For Simple content writing-</p>
