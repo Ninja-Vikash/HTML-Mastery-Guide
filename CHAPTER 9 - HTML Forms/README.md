@@ -19,7 +19,7 @@ We will discuss some useful input types and tags related to forms.
 The &lt;form&gt; element is a container for different types of input elements, such as text fields, checkboxes, radio buttons, submit buttons, etc.
 <hr>
 
-## The &lt;input&gt; elements
+### The &lt;input&gt; element
 The HTML &lt;input&gt; element is the most used form element.
 <pre>
         &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
@@ -55,3 +55,4 @@ eg. food you want to eat
 &lt;button&gt;Click me&lt;/button&gt; - Displays a clickable button
 </pre>
 
+### The &lt;label&gt; element
