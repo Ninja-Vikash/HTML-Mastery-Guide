@@ -56,3 +56,9 @@ eg. food you want to eat
 </pre>
 
 ### The &lt;label&gt; element
+The &lt;label&gt; tag defines a label for many form elements. <br>
+The &lt;label&gt; element is useful for screen-reader users.<br>
+The &lt;label&gt; element also helps users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the &lt;label&gt; element, it toggles the radio button/checkbox. <br>
+
+The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute of the &lt;input&gt;         element to bind them together.
+
