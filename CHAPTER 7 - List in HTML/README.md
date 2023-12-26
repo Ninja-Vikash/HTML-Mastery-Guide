@@ -40,7 +40,11 @@ An **unordered list**, also known as a bulleted list, has no specific order or s
 </pre>
 we can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
-3. Descripted List
+### Description List
+HTML also supports description lists.
+A description list is a list of terms, with a description of each term.
+The &lt;dl&gt; tag defines the description list, the &lt;dt&gt; tag defines the term (name), and the &lt;dd&gt; tag describes each term
+
 <pre>
 &lt;dl&gt;
       &lt;dt&gt;How to make : Tea&lt;/dt&gt;
