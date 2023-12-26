@@ -2,13 +2,25 @@
 ## Forms in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-<p>To create forms we use &ltform&gt tag</p>
-Forms are used to input data from users and send it to the server. <br>
+### What is form in HTML?
+An HTML form is used to collect user input. The user input is most often sent to a server for processing. <br>
 We will discuss some useful input types and tags related to forms.
 
+### Structure of a 'Form' container
+<pre>
+        &lr;form&gt;
+                .
+                .
+                form elements
+                .
+                .
+        &lt;/form&gt;
+</pre>
+The &lt;form&gt; element is a container for different types of input elements, such as text fields, checkboxes, radio buttons, submit buttons, etc.
 <hr>
 
-### User INPUTS
+### &lt;input&gt; elements
+The HTML <input> element is the most used form element.
 <pre>
         &ltlabel for="fname"&gtFIRST NAME :&lt/label&gt
         &ltinput type="text" name="fname" id="fname" placeholder="enter first name"&gt
