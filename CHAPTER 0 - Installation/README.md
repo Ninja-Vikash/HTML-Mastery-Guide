@@ -1,5 +1,5 @@
 # Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a>
-## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px"/>?
+## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="22px"/>?
 
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
 2. There are so many options to write HTML code.<br>
