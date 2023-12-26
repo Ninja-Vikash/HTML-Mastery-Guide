@@ -61,23 +61,23 @@ But there is a problem with HTML we can't use angular brackets directly because 
 **List of HTML Entities**
 <pre>
 ● &ampnbsp&semi; - Non-breaking spaces
-● &ampcopy&semi; - Copyright
-● &ampamp&semi; - Ampersand
-● &ampsemi&semi; - SemiColon
-● &ampreg&semi; - Registered
-● &amptrade&semi; - Trademark
-● &ampcommat&semi; - At the rate
-● &ampstar&semi; - Holo Star
-● &ampstarf&semi; - Filled Star
-● &ampphone&semi; - Phone
-● &ampmale&semi; - Male
-● &ampfemale&semi; - Female
-● &amphearts&semi; - Heart
-● &ampspades&semi; - Spade
-● &ampclubs&semi; - Club
-● &ampdiams&semi; - Diamond
-● &ampsung&semi; - Tune
-● &ampcheck&semi; - Check
+● &ampcopy&semi; - Copyright &copy;
+● &ampamp&semi; - Ampersand &amp;
+● &ampsemi&semi; - SemiColon &semi;
+● &ampreg&semi; - Registered &reg;
+● &amptrade&semi; - Trademark &trade;
+● &ampcommat&semi; - At the rate &commat;
+● &ampstar&semi; - Holo Star &star;
+● &ampstarf&semi; - Filled Star &starf;
+● &ampphone&semi; - Phone &phone;
+● &ampmale&semi; - Male &male;
+● &ampfemale&semi; - Female &female;
+● &amphearts&semi; - Heart &hearts;
+● &ampspades&semi; - Spade &spades;
+● &ampclubs&semi; - Club &clubs;
+● &ampdiams&semi; - Diamond &diams;
+● &ampsung&semi; - Tune &sung;
+● &ampcheck&semi; - Check &check;
 </pre>
 
 
