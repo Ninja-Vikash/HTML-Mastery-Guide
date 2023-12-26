@@ -25,9 +25,10 @@
 </ol>
 
 ### Notable
-<pre> 
-&ltimg src="URL" /&gt is a self-closing tag used to display Images on a screen.
-&ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
+
+<pre>
+    &ltimg src="URL" /&gt is a self-closing tag used to display Images on a screen.
+    &ltvideo src="URL"&gt&lt/video&gt has a closing tag used to display Videos on a screen.
 </pre>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">
