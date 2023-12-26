@@ -8,13 +8,13 @@ We will discuss some useful input types and tags related to forms.
 
 ### Structure of a 'Form' container
 <pre>
-        &lt;form&gt;
-                .
-                .
-                form elements
-                .
-                .
-        &lt;/form&gt;
+&lt;form&gt;
+        .
+        .
+        form elements
+        .
+        .
+&lt;/form&gt;
 </pre>
 The &lt;form&gt; element is a container for different types of input elements, such as text fields, checkboxes, radio buttons, submit buttons, etc.
 <hr>
