@@ -1,4 +1,4 @@
-# CHAPTER 0
+# Installation of Visual Studio Code
 ### Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="16px"/>?
 <hr>
 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
