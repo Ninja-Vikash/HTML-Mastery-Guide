@@ -3,7 +3,7 @@
 ## <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/student.png" height="20px" /> Learn HTML from "ZERO" ⇒ "HERO"
 <hr>
 
-### 🔴Getting started with HTML
+### 🔴 Getting started with HTML
 
 This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I have covered the basics of HTML. Explore all chapters to get all the useful knowledge of HTML. All the topics are distributed into different chapters.<br>
 <hr>
