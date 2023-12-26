@@ -7,17 +7,17 @@ A list in HTML is a collection of items that are displayed in a list format with
 1. **Ordered List** &nbsp; 2. **Unordered List** &nbsp; 3. **Description List**
 
 ### Ordered List
-An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
+An **Ordered list**, also known as a step-by-step list, has a specific order or sequence and is marked with numbers. It begins with the &lt;ol&gt; tag and closes with a &lt;/ol&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **Ordered list** is ideal for presenting a recipe, a to-do list, or any process.
 
 <pre>
-                                      Ordered List &ltol&gt
+                                      Ordered List &lt;ol&gt;
 
-                                &ltol&gt
-                                    &ltli&gtFirst Item&lt/li&gt
-                                    &ltli&gtSecond Item&lt/li&gt
-                                    &ltli&gtThird Item&lt/li&gt
-                                    &ltli&gtFourth Item&lt/li&gt
-                                &lt/ol&gt
+                                &lt;ol&gt;
+                                    &lt;li&gt;First Item&lt;/li&gt;
+                                    &lt;li&gt;Second Item&lt;/li&gt;
+                                    &lt;li&gt;Third Item&lt;/li&gt;
+                                    &lt;li&gt;Fourth Item&lt;/li&gt;
+                                &lt;/ol&gt;
 
 1. First Item                       a. First Item                      I. First Item
 2. Second Item                      b. Second Item                     II. Second Item
@@ -26,38 +26,39 @@ An **unordered list**, also known as a bulleted list, has no specific order or s
 </pre>
 we can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
 
-2. Unordered List
+### Unordered List
+An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
 <pre>
-                                       Unordered List &ltul&gt
+                                       Unordered List &lt;ul&gt;
                                 
-                                &ltul&gt
-                                    &ltli&gtFirst Item&lt/li&gt
-                                    &ltli&gtSecond Item&lt/li&gt
-                                    &ltli&gtThird Item&lt/li&gt
-                                    &ltli&gtFourth Item&lt/li&gt
-                                &lt/ul&gt
+                                &lt;ul&gt;
+                                    &lt;li&gt;First Item&lt;/li&gt;
+                                    &lt;li&gt;Second Item&lt;/li&gt;
+                                    &lt;li&gt;Third Item&lt;/li&gt;
+                                    &lt;li&gt;Fourth Item&lt;/li&gt;
+                                &lt;/ul&gt;
 </pre>
 we can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
 3. Descripted List
 <pre>
-&ltdl&gt
-      &ltdt&gtHow to make : Tea&lt/dt&gt
-      &ltdd&gtTake a small container that is used to make tea.&lt/dd&gt
-      &ltdd&gt
+&lt;dl&gt;
+      &lt;dt&gt;How to make : Tea&lt;/dt&gt;
+      &lt;dd&gt;Take a small container that is used to make tea.&lt;/dd&gt;
+      &lt;dd&gt;
         Consume a limited amount of water according to how many people want to
         take the tea. suppose 3 people
-      &lt/dd&gt
-      &ltdd&gtFor 3 people we need to use 1 litre of water.&lt/dd&gt
-      &ltdd&gtuse 2 full spoon tea leaf.&lt/dd&gt
-      &ltdd&gtuse 2+1/2 spoon sugar.&lt/dd&gt
-      &ltdd&gtBoil it at least 12 minutes.&lt/dd&gt
-      &ltdt&gtHow to make : maggie&lt/dt&gt
-      &ltdd&gtLorem ipsum dolor sit amet consectetur adipisicing.&lt/dd&gt
-      &ltdd&gtLorem ipsum dolor sit amet.&lt/dd&gt
-      &ltdd&gtLorem ipsum dolor sit amet consectetur.&lt/dd&gt
-      &ltdd&gtLorem ipsum dolor sit amet consectetur adipisicing.&lt/dd&gt
-    &lt/dl&gt
+      &lt;/dd&gt;
+      &lt;dd&gt;For 3 people we need to use 1 litre of water.&lt;/dd&gt;
+      &lt;dd&gt;use 2 full spoon tea leaf.&lt;/dd&gt;
+      &lt;ldd&gt;use 2+1/2 spoon sugar.&lt;/dd&gt;
+      &lt;dd&gt;Boil it at least 12 minutes.&lt;/dd&gt;
+      &lt;dt&gt;How to make : maggie&lt;/dt&gt;
+      &lt;dd&gt;Lorem ipsum dolor sit amet consectetur adipisicing.&lt;/dd&gt;
+      &lt;dd&gt;Lorem ipsum dolor sit amet.&lt;/dd&gt;
+      &lt;dd&gt;Lorem ipsum dolor sit amet consectetur.&lt;/dd&gt;
+      &lt;dd&gt;Lorem ipsum dolor sit amet consectetur adipisicing.&lt;/dd&gt;
+    &lt;/dl&gt;
 </pre>
 This is a rarely used list type and is used for informative lists. <br>
 
