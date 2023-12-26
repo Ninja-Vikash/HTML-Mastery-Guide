@@ -27,13 +27,13 @@ An inline element is the opposite of the block-level element. It does not start 
 
 **Inline tags**
 <pre>
-| &lta&gt               |    &ltbutton&gt          |    &ltinput&gt           |    &ltoutput&gt              |    &ltstrong&gt     |
-| &ltabbr&gt            |    &ltcite&gt            |    &ltkbd&gt             |    &ltq&gt                   |    &ltsub&gt        |
-| &ltacronym&gt         |    &ltcode&gt            |    &ltlabel&gt           |    &ltsamp&gt                |    &ltsup&gt        |
-| &ltb&gt               |    &ltdfn&gt             |    &ltmap&gt             |    &ltscript&gt              |    &lttextarea&gt   | 
-| &ltbdo&gt             |    &ltem&gt              |    &ltobject&gt          |    &ltselect&gt              |    &lttime&gt       |
-| &ltbig&gt             |    &lti&gt               |    &lttt&gt              |    &ltsmall&gt               |                     |
-| &ltbr&gt              |    &ltimg&gt             |    &ltvar&gt             |    &ltspan&gt                |                     |
+ &lta&gt                   &ltbutton&gt              &ltinput&gt               &ltoutput&gt                  &ltstrong&gt     
+ &ltabbr&gt                &ltcite&gt                &ltkbd&gt                 &ltq&gt                       &ltsub&gt        
+ &ltacronym&gt             &ltcode&gt                &ltlabel&gt               &ltsamp&gt                    &ltsup&gt        
+ &ltb&gt                   &ltdfn&gt                 &ltmap&gt                 &ltscript&gt                  &lttextarea&gt    
+ &ltbdo&gt                 &ltem&gt                  &ltobject&gt              &ltselect&gt                  &lttime&gt       
+ &ltbig&gt                 &lti&gt                   &lttt&gt                  &ltsmall&gt                                    
+ &ltbr&gt                  &ltimg&gt                 &ltvar&gt                 &ltspan&gt                                     
 </pre>
 
 **span element**: The &ltspan&gt tag is used as a container for text. It has no required attributes. Style, class, and id are the commonly used attributes.
