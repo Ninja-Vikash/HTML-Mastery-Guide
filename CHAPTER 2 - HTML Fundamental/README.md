@@ -56,7 +56,7 @@
 ### Notable 
 Sometimes we use some special characters on a web page like angular brackets, copyright symbols, trademark symbols, etc. <br>
 But there is a problem with HTML we can't use angular brackets directly because HTML takes them as a tag, if we use opening and closing angular brackets together it will affect our code. To solve this bug we will use **HTML Entity**
-<br> It should be closed with a semi-colon (;), <br>
+<br>It starts with Ampersand (&) and should be closed with a semi-colon (;), <br>
 
 **List of HTML Entities**
 <pre>
@@ -80,6 +80,7 @@ But there is a problem with HTML we can't use angular brackets directly because 
 ● &check; - Check - &ampcheck&semi;
 </pre>
 
+<p>There are so many symbols in HTML we can use them to add # after &</p>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">
    <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
