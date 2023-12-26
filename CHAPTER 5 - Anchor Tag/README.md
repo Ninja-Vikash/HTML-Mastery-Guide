@@ -8,9 +8,9 @@ An anchor tag is an HTML tag, That is used to render a **"Hypertext link"** usin
 
 ### Possibilities of "Anchor tag"
 1. We use the target attribute to open a link on another window. as **target="_blank"**
-<br>
+
 2. We can make images clickable. And it will redirect to another component.
-<br>
+
 3. We can access many other documents through the anchor tag. <br>
 
 <p>
