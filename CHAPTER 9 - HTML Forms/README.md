@@ -73,3 +73,6 @@ The 'for' attribute of the &lt;label&gt; tag should be equal to the id attribute
  &lt;input type="radio" id="female"/&gt;
  &lt;label for="female"&gt;Female&lt;/label&gt;
 </pre>
+
+### The &lt;textarea&gt; element
+Textarea tag used to display a multi-line text input, the size of columns and rows will be manipulate by CSS.
