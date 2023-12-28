@@ -73,7 +73,7 @@ The &lt;main&gt; is divided into more semantic tags. As below-
 </pre>
 <br>
 
-You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">*portfolio.html*</a>
+You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">`*portfolio.html*`</a>
 </ol>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag">
