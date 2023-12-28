@@ -29,7 +29,7 @@ The HTML &lt;input&gt; element is the most used form element.
 </pre>
 
 Placeholder attribute used to show some translucent text which tells the user wants to input in this section.<br>
-As per the above example placeholder="enter first name" says to the user enter here your first name.
+As per the above example `placeholder="enter first name"` says to the user enter here your first name.
 
 ### Types of &lt;input&gt;
 <pre>
