@@ -7,11 +7,11 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
 
 **NOTE** - An anchor tag is an inline element.
 
-&lt;a href="URL"&gt;Click Here&lt;/a&gt;
+`&lt;a href="URL"&gt;Click Here&lt;/a&gt;`
 <br>
 
 ### Possibilities of "Anchor tag"
-1. We use the target attribute to open a link on another window. as &lt;a href="URL" **target="_blank"**&gt;open new tab&lt;/a&gt;
+1. We use the target attribute to open a link on another window. as `&lt;a href="URL" **target="_blank"**&gt;open new tab&lt;/a&gt;`
 
 2. We can make images clickable. And it will redirect to another component.
 
