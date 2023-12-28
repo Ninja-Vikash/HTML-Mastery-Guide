@@ -6,7 +6,7 @@
 An HTML form is used to collect user input. The user input is most often sent to a server for processing. <br>
 We will discuss some useful input types and tags related to forms.
 
-### Structure of a 'Form' container
+### Structure of a `<Form>` container
 <pre>
 &lt;form&gt;
         .
