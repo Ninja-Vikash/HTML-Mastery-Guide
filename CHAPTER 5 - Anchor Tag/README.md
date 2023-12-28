@@ -1,5 +1,5 @@
 # CHAPTER 5
-## 🔴 More information about anchor tag
+## 🔴 Information of Anchor tag | Possibilities | Embedding online videos
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 ### What is an Anchor tag?
@@ -31,3 +31,22 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
   &lt;a href="#id"&gt;Click to Naviagte&lt;/a&gt;
 </pre>
 In the href part, we will give the ID of the section with a #.
+
+### How can we Embed online video on our webpage?
+We can Embed online videos through a corresponding &lt;iframe&gt; tag. <br>
+
+**&lt;iframe&gt; tag** : The &lt;iframe&gt; tag specifies an inline frame.
+<br>
+An inline frame is used to embed another document within the current HTML document.
+
+### Process of Embedding Youtube Video on Your webpage!
+Search for a video on **YOUTUBE**
+![preview 1](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-1.png)
+<br>
+Click on **Share**
+![preview 2](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-2.png)
+Select the Embed option from them
+<br>
+Just - paste it on your HTML file
+![preview 3](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-3.png)
+![preview 4](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-4.png)
