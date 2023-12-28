@@ -3,9 +3,9 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
 ### What is an Anchor tag?
-An anchor tag is an HTML tag, That is used to render a **"Hypertext link"** using the 'href' attribute. It can be used to link to **Web Pages**, **files**, **email addresses**, **locations** on the same page, or anything else a URL can address. <br>
+An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'href' attribute. It can link to **Web Pages**, **files**, **email addresses**, **locations** on the same page, or anything else a URL can address. <br>
 
-**NOTE** - Anchor tag is a inline element.
+**NOTE** - An anchor tag is an inline element.
 
 &lt;a href="URL"&gt;Click Here&lt;/a&gt;
 <br>
@@ -25,3 +25,9 @@ An anchor tag is an HTML tag, That is used to render a **"Hypertext link"** usin
 <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="40px" />
 
 </p>
+
+4. Anchor tag used as a navigator in a webpage's sections
+<pre>
+  &lt;a href="#id"&gt;Click to Naviagte&lt;/a&gt;
+</pre>
+In the href part, we will give the ID of the section with a #.
