@@ -7,7 +7,7 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
 
 **NOTE** - An anchor tag is an inline element.
 
-`&lt;a href="URL"&gt;Click Here&lt;/a&gt;`
+`<a href="URL">;Click Here</a>`
 <br>
 
 ### Possibilities of "Anchor tag"
