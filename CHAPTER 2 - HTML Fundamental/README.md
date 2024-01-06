@@ -17,8 +17,8 @@
    
 ### Basic Tags-
 
-`<p>-----This is a paragraph tag----</p>` used to write paragraphs or normal text. It creates a new line before and after the element, taking up the full width of its parent container.
-`<pre>---This is a pre tag---</pre>` the HTML &lt;pre&gt; tag is used for pre-formatted text, keeping the original spaces and line breaks exactly as they are in the code.
+`<p>--text--</p>` used to write paragraphs or normal text. It creates a new line before and after the element, taking up the full width of its parent container. <br>
+`<pre>--text--</pre>` the HTML &lt;pre&gt; tag is used for pre-formatted text, keeping the original spaces and line breaks exactly as they are in the code.
 
 4. **For Headings-**
 <pre>
