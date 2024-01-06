@@ -32,8 +32,9 @@
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/firefox.png" width="30px"/> &nbsp;&nbsp;
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/edge.png" width="30px"/>
 <br> <br>
-![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 https://github.com/Ninja-Vikash/HTML/assets/146564586/432dcdcd-0414-444d-8e55-117d4db57b89
+
+![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" >**Download**</a> link.<br>
 **Step 3**: Start Downloading of Visual Studio Code.
 ![start download](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Setup.png) <br>
