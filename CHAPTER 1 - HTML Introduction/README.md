@@ -39,7 +39,7 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
-<p>&lt!DOCTYPE html&gt tells the browser this document is an HTML document.</p>
+`<!DOCTYPE html>` tells the browser this document is an HTML document.
 
 <pre>
 &lthtml&gt
