@@ -31,7 +31,7 @@ The above code is called the **Boiler Plate** <br>
 Both methods manual and automated, are effective in deploying boilerplate <br>
 
 ### All the elements within angular brackets <> called as 'Tags'
-Most of the elements are closed with two tags like `<opening tag> context </closing tag>` <br>
+Most of the elements are closed with two tags like &lt;opening tag&gt; context &lt;/closing tag&gt; <br>
 Also, there are a few tags that are self-closed tag.<br>
 Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 
