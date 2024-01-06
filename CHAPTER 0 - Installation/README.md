@@ -71,3 +71,11 @@ We can directly download the extension on the VS code from the bar as
    <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px"/>
   </a>
 </p>
+
+
+https://github.com/Ninja-Vikash/HTML/assets/146564586/3563edff-22c1-4b77-ba3a-61ade7a2d14d
+
+
+
+https://github.com/Ninja-Vikash/HTML/assets/146564586/432dcdcd-0414-444d-8e55-117d4db57b89
+
