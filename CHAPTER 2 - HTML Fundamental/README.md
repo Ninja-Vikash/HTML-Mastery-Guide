@@ -2,9 +2,9 @@
 ## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> | HTML Entities
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-### Information of HTML tags
 
-1. **HTML is not case-sensitive**
+
+### HTML is not case-sensitive
 <pre>
 &lthtml&gt = &ltHTML&gt
 &ltp&gt = &ltP&gt
@@ -12,13 +12,13 @@
 &ltbody&gt = &ltBODY&gt
 </pre>
 
-2. **What is an HTML element?**
+### What is an HTML element?
    <p>An HTML element is defined by a &lt;start tag&gt;context&lt;end tag&gt;</p>
    
-3. **Basic Tags-**
-<p>For Simple content writing-</p>
-<pre>&ltp&gt-----This is a paragraph tag----&lt/p&gt</pre>
-<pre>&ltpre&gt---This is a pre tag---&lt/pre&gt</pre>
+### Basic Tags-
+
+`<p>-----This is a paragraph tag----</p>` used to write paragraphs or normal text. It creates a new line before and after the element, taking up the full width of its parent container.
+`<pre>---This is a pre tag---</pre>` the HTML &lt;pre&gt; tag is used for pre-formatted text, keeping the original spaces and line breaks exactly as they are in the code.
 
 4. **For Headings-**
 <pre>
