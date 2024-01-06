@@ -32,16 +32,16 @@
   
 ![Heading](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 
-<p>When writing headings, the size of the text will decrease from &lt;h1&gt; (The most important heading and largest size) to h6 (The least important heading and smallest size). h1 </p>
+<p>When writing headings, the size of the text will decrease from &lt;h1&gt; (The most important heading and largest size) to &lt;h6&gt; (The least important heading and smallest size). </p>
 
-5. **Text Formatting Tags-**
-<pre>
-&ltb&gtI am Bold&lt/b&gt                  
-&lti&gtI am Italic&lt/i&gt                
-&ltu&gtI am Underline&lt/u&gt 
-</pre>
-<p><b>I am Bold</b><br><i>I am Italic</i></p>
-<p>💡<b>Tip:</b> &ltstrong&gt tag is similar to the &ltb&gt tag and &ltem&gt tag is similar to the &lti&gt tag</p>
+### Text Formatting Tags-
+
+`<b>I am Bold</b>` ----> **I am Bold**    <br>     
+`<i>I am Italic</i>` ----> _I am Italic_  <br>
+`<u>I am Underline</u>`
+
+💡<b>Tip:</b> `<strong>` tag is similar to the `<b>` tag and `<em>` tag is similar to the `<i>` tag.
+
 <pre>
 &ltbig&gtI am Big&lt/big&gt
 &ltsmall&gtI am Small&lt/small&gt
