@@ -35,7 +35,7 @@ Most of the elements are closed with two tags like &lt;opening tag&gt; context &
 Also, there are a few tags that are self-closed tag.<br>
 Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 
-### Boilerplate explained below
+## Boilerplate explained below
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
@@ -59,23 +59,23 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
   -------Contains the main data and reflects on the browser's screen--------
 &lt/body&gt
 </pre>
+`<head>` and `<body>` are children tags of HTML tag.
 
-<p>&lthead&gt and &ltbody&gt are children tags of HTML tag.</p>
 <pre>
 &ltmeta  -------useful data------  &gt
 </pre>
-<p>&ltmeta&gt is a self-closed tag that stores useful data like characters used in documents, content width, and initial scale for different size screens.<br>
-&ltmeta&gt contains special information about the webpage. These are generally for browsers to use.</p>
+`<meta>` is a self-closed tag that stores useful data like characters used in documents, content width, and initial scale for different size screens.<br>
+`<meta>` contains special information about the webpage. These are generally for browsers to use.
 <pre>
 &lttitle&gt-----Name of the Webpage-----&lt/title&gt
 </pre>
-<p>&lttitle&gt is used to give the name to the Webpage When we search the Internet. It is shown on the browser's tab bar.</p>
+`<title>` is used to give the name to the Webpage When we search the Internet. It is shown on the browser's tab bar.
 <pre>
 &ltbody&gt
   --------The browser's screen displays all the data accurately.---------
 &lt/body&gt
 </pre>
-<p>&ltbody&gt Adding data to the container will reflect on the browser's main screen.</p>
+`<body>` Adding data to the container will reflect on the browser's main screen.
 
 ### Comments are written as below 
 <pre>
