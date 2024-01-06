@@ -20,7 +20,7 @@
 `<p>--text--</p>` used to write paragraphs or normal text. It creates a new line before and after the element, taking up the full width of its parent container. <br>
 `<pre>--text--</pre>` the HTML &lt;pre&gt; tag is used for pre-formatted text, keeping the original spaces and line breaks exactly as they are in the code.
 
-4. **For Headings-**
+### For Headings
 <pre>
 &lth1&gtHeading 1&lt/h1&gt
 &lth2&gtHeading 2&lt/h2&gt
@@ -32,7 +32,7 @@
   
 ![Heading](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 
-<p>When writing headings, the size of the text should decrease from h1 (the largest) to h6 (the smallest).</p>
+<p>When writing headings, the size of the text will decrease from &lt;h1&gt; (The most important heading and largest size) to h6 (The least important heading and smallest size). h1 </p>
 
 5. **Text Formatting Tags-**
 <pre>
