@@ -45,7 +45,7 @@
 ![Process5](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option4.png) <br>
 **Step 5**: Run Visual Studio Code and Start coding.
 ![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
-Create the first HTML document and name it **index.html**
+Create the first HTML document and name it **`index.html`**
 
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser.
