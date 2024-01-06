@@ -27,7 +27,7 @@ The most common syntax of any webpage below
 <br>
 
 The above code is called the **Boiler Plate** <br>
-:bulb:<b>Tip:</b>  We can write it with the help of emmet abbreviation- `! + enter` | `html5 + enter` <br>
+:bulb:<b>Tip:</b>  We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
 Both methods manual and automated, are effective in deploying boilerplate <br>
 
 ### All the elements within angular brackets <> called as 'Tags'
@@ -39,26 +39,27 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
-`<!DOCTYPE html>` tells the browser this document is an HTML document.
+`<!DOCTYPE html>` tells to the browser this document is an HTML document.
 
 <pre>
 &lthtml&gt
   -------Everything inside the html tag is the part of HTML--------
 &lt/html&gt  
 </pre>
-<p>&ltHTML&gt is the parent container.</p>
+`<HTML>` is the parent container.
+
 <pre>
 &lthead&gt
   -------Contains the metadata--------
   -------Contains title & link--------
   -------Contains useful tags which are not rendered on the browser's screen--------
 &lt/head&gt
-<br>
+
 &ltbody&gt
   -------Contains the main data and reflects on the browser's screen--------
 &lt/body&gt
-
 </pre>
+
 <p>&lthead&gt and &ltbody&gt are children tags of HTML tag.</p>
 <pre>
 &ltmeta  -------useful data------  &gt
