@@ -50,7 +50,7 @@ Create the first HTML document and name it **index.html**
 ### Where to run or execute HTML?
 We don't need to worry about it because HTML runs on every internet browser.
 There are two ways to open your HTML document on the browser's screen. <br>
- 1. Directly through the folder  '**Just double click on index.html**'
+ 1. Directly through the folder  '**Just double click on `index.html`**'
  2. By Extension like '**Live Server**'
 
 ### From where we can download extensions on VS Code?
