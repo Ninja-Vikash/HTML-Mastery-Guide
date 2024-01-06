@@ -37,7 +37,7 @@
 ### Text Formatting Tags-
 
 `<b>I am Bold</b>` ----> **I am Bold**    <br>     
-`<i>I am Italic</i>` ----> _I am Italic_  <br>
+`<i>I am Italic</i>` ----> _I am Italic_   <br>
 `<u>I am Underline</u>`
 
 💡<b>Tip:</b> `<strong>` tag is similar to the `<b>` tag and `<em>` tag is similar to the `<i>` tag.
