@@ -58,7 +58,7 @@ Sometimes we use some special characters on a web page like angular brackets, co
 But there is a problem with HTML we can't use angular brackets directly because HTML takes them as a tag, if we use opening and closing angular brackets together it will affect our code. To solve this bug we will use **HTML Entity**
 <br>It starts with Ampersand (&) and should be closed with a semi-colon (;), <br>
 
-**List of HTML Entities**
+## List of HTML Entities
 <pre>
 ● Non-breaking spaces - &amp;nbsp&semi;
 ● &lt; - Less than angular bracket - &amp;lt&semi;
