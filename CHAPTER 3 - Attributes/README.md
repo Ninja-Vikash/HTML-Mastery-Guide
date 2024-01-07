@@ -2,7 +2,7 @@
 ## <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> HTML attributes
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
-### Use of HTML attributes
+### Use of HTML attributes | URL types
   
 **Attributes are used to provide some additional details to the HTML tag**
 **Tags with including attributes-**
