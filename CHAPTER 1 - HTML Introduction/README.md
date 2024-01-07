@@ -24,7 +24,6 @@ The most common syntax of any webpage below
   &lt/body&gt
 &lt/html&gt
 </pre>
-<br>
 
 The above code is called the **Boiler Plate** <br>
 :bulb:<b>Tip:</b>  We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
