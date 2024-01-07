@@ -3,7 +3,6 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 ### Use of HTML attributes
-<ol>
   
 **Attributes are used to provide some additional details to the HTML tag**
 **Tags with including attributes-**
@@ -22,7 +21,6 @@
 💡<b>Tip:</b> We use only height or width on images to maintain their aspect ratio.<br>
   💡<b>Tip:</b> Attributes usually come in name/value pairs like `name="value"`<br>
 <span>We will learn about more attributes of tags in further chapters. like style attribute for inline styling, type attribute for input tags</span>
-</ol>
 
 ### Notable
 
