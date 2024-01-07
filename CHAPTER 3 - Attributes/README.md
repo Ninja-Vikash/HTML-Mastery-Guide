@@ -7,15 +7,15 @@
 **Attributes are used to provide some additional details to the HTML tag**
 **Tags with including attributes-**
 <pre> &lthtml lang="en"&gt </pre> 
-<span>lang is an attribute that tells the browser this code is written in English.</span>
+`lang="en"` is an attribute that tells the browser this code is written in English.
 <pre> &ltmeta charset="UTF-8"&gt </pre>
-<span>The charset is an attribute that tells the browser language has a UTF-8 version.</span>
+The `charset=UTF-8"` is an attribute that tells the browser language has a UTF-8 version.
 <pre> &lta href="url"&gtLink&lt/a&gt </pre>
-<span>href is hyperlink attribute</span>
+`href="url"` is hyperlink attribute.
 <pre> &ltlink rel="stylesheet" href="style.css"&gt </pre>
-<span>rel is relation attribute</span>
+`rel="stylesheet"` is relation attribute.
 <pre> &ltimg src="img.jpeg" alt="Book image"&gt </pre>
-<span>src is the source attribute, where we will paste the address of img.jpeg locally or the URL of the image from the web. Alt is an alternate attribute that is shown in the browser when somehow our image does not load on the web page.</span> <br>
+`src="relative | absolute url"` is the source attribute, where we will paste the address of img.jpeg locally or the URL of the image from the web. Alt is an alternate attribute that is shown in the browser when somehow our image does not load on the web page. <br>
 **Tags without attributes but we can add attributes to give them some additional details to the HTML tag**
 <pre> &ltimg src="img.jpeg" alt="Book image" height="200px"&gt </pre>
 💡<b>Tip:</b> We use only height or width on images to maintain their aspect ratio.<br>
