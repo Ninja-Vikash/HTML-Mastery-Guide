@@ -27,7 +27,7 @@ The most common syntax of any webpage below
 
 The above code is called the **Boiler Plate** <br>
 :bulb:<b>Tip:</b>  We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
-Both methods manual and automated, are effective in deploying boilerplate <br>
+&nbsp;&nbsp;Both methods manual and automated, are effective in deploying boilerplate <br>
 
 ### All the elements within angular brackets <> called as 'Tags'
 Most of the elements are closed with two tags like &lt;opening tag&gt; context &lt;/closing tag&gt; <br>
