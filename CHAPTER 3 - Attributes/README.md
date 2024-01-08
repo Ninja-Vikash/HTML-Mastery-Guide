@@ -16,7 +16,7 @@ The `charset=UTF-8"` is an attribute that tells the browser language has a UTF-8
 `rel="stylesheet"` is relation attribute.
 <pre> &ltimg src="img.jpeg" alt="Book image"&gt </pre>
 `src="relative | absolute url"` is the source attribute, where we will paste the address of img.jpeg locally or the URL of the image from the web. Alt is an alternate attribute that is shown in the browser when somehow our image does not load on the web page. <br>
-:bulb :**Tags without attributes but we can add attributes to give them some additional details to the HTML tag**
+💡:**Tags without attributes but we can add attributes to give them some additional details to the HTML tag**
 <pre> &ltimg src="img.jpeg" alt="Book image" height="200px"&gt </pre>
 💡<b>Tip:</b> We use only height or width on images to maintain their aspect ratio.<br>
   💡<b>Tip:</b> Attributes usually come in name/value pairs like `name="value"`<br>
