@@ -20,7 +20,7 @@ A block-level element always starts on a new line and stretches out to the left 
 &ltdt&gt                      &ltli&gt
 </pre>
 
-💡**div element**: The &lt;div&gt; element is used as a container for other HTML elements. It has no required attributes. Style, class, and id are the commonly used attributes.
+💡**div element**: The `<div>` element is used as a container for other HTML elements. It has no required attributes. Style, class, and id are the commonly used attributes.
 
 ### Inline Elements
 An inline element is the opposite of the block-level element. It does not start on a new line and takes up only the necessary width ie., it only occupies the space bounded by the tags defining the HTML element, instead of breaking the flow of the content. <br> 
@@ -36,7 +36,7 @@ An inline element is the opposite of the block-level element. It does not start 
  &ltbr&gt                  &ltimg&gt                 &ltvar&gt                 &ltspan&gt                                     
 </pre>
 
-💡**span element**: The &lt;span&gt; tag is used as a container for text. It has no required attributes. Style, class, and id are the commonly used attributes.
+💡**span element**: The `<span>` tag is used as a container for text. It has no required attributes. Style, class, and id are the commonly used attributes.
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%207%20-%20List%20in%20HTML" >
   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
