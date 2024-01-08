@@ -1,9 +1,9 @@
 # CHAPTER 4
-## Page layout techniques <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
+## 🔴 Page layout techniques <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-### 🔴 Arrangement of tags in an HTML document
+### Arrangement of tags in an HTML document
 
 **Tags are divided into two categories** <br>
 **Semantic tag**
