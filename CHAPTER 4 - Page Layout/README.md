@@ -3,7 +3,7 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-### Arrangement of tags in an HTML document
+### 🔴 Arrangement of tags in an HTML document
 
 **Tags are divided into two categories** <br>
 **Semantic tag**
