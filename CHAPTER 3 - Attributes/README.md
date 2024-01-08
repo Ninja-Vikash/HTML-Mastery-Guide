@@ -32,6 +32,12 @@ There are two types of URLs-
 ### Absolute URL
 This type of URL contains both the domain name and directory/page path. An absolute URL gives complete location information. It begins with a protocol like `https://` and continues, including every detail.
 
+### Relative URL
+This type of URL contains the path excluding the domain name. Relative means “in relation to”, and a relative URL tells a URL location in terms of the current location. A relative path is used for reference to a given link of a file that exists within the same domain.
+<br>
+Let us assume a web developer setting up a webpage and want to link an image called
+`<img src="img.jpeg">`
+
 
 ### Notable
 
