@@ -3,7 +3,7 @@
 
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
 
-### Layouting of tags
+### Arrangement of tags in an HTML document
 
 **Tags are divided into two categories** <br>
 **Semantic tag**
@@ -30,7 +30,7 @@ and so on...
 &lt/body&gt
 </pre>
 
-The &lt;main&gt; is divided into more semantic tags. As below-
+The `<main>` is divided into several semantic tags. As follow-
 
 <pre>
 &ltmain&gt
