@@ -1,13 +1,13 @@
 # Environment building to write HTML
 ## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="22px"/>?
 1. For writing any Code we must have a code editor/platform where we can write our code.
-2. There are so many options to write HTML code.<br>
+2. There are so many options to write HTML code.
 3. We can write our code in Notepad, For simple HTML code writing Notepad is great if you learn the basic structure of HTML.
 
 ![notepad](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/notepad-view.png) <br>
-&nbsp; But it has some limitations.. like no auto-complete, no syntax suggestions, no extensions to use, and no applicable themes.<br>
+> But it has some limitations.. like no auto-complete, no syntax suggestions, no extensions to use, and no applicable themes.<br>
 
-4. For advanced HTML code writing we used some code editors like **Notepad ++**, **Sublime Text**, **Froala**, and **Visual Studio Code**(VS &nbsp; Code)<br>
+4. For advanced HTML code writing we used some code editors like `Notepad ++` , `Sublime Text` , `Froala` , and `Visual Studio Code` (VS Code)
 
 5. We will go with Visual Studio Code text editor. This is a Free Code editor Application Provided by Microsoft. And supports many programming languages like-  HTML, CSS, JavaScript, Python, C, C++, C#, Sass(Advanced CSS), and so on.
 <p>
