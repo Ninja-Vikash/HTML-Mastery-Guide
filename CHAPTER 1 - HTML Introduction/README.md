@@ -78,9 +78,9 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 `<body>` Adding data to the container will reflect on the browser's main screen.
 
 ### Comments are written as below 
-<pre>
-&lt!-- Your comment is here --&gt
-</pre>
+```
+<!-- Your comment is here -->
+```
 
 <p>
   <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">
