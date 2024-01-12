@@ -26,6 +26,7 @@ The most common syntax of any webpage below
 ```
 
 > The above code is called the **Boiler Plate**
+
 > We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
 
 
