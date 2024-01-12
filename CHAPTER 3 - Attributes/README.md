@@ -10,13 +10,15 @@
 `lang="en"` is an attribute that tells the browser this code is written in English.
 <pre> &ltmeta charset="UTF-8"&gt </pre>
 The `charset=UTF-8"` is an attribute that tells the browser language has a UTF-8 version.
-<pre> &lta href="url"&gtLink&lt/a&gt </pre>
+```
+<a href="url">Link</a>
+```
 `href="url"` is a hyperlink attribute.
 <pre> &ltlink rel="stylesheet" href="style.css"&gt </pre>
 `rel="stylesheet"` is the relation attribute.
 <pre> &ltimg src="img.jpeg" alt="Book image"&gt </pre>
 `src="relative | absolute url"` is the source attribute, where we will paste the address of img.jpeg locally or the URL of the image from the web. Alt is an alternate attribute that is shown in the browser when somehow our image does not load on the web page. <br>
-> For Those Tags without attributes, we can add attributes to give them some additional details to the HTML tag**
+> For Those Tags without attributes, we can add attributes to give them some additional details to the HTML tag
 ```
 <img src="img.jpeg" alt="Book image" height="200px">
 ```
