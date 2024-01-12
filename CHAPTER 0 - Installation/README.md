@@ -1,9 +1,8 @@
 # Environment building to write HTML
 ## Where to write HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="22px"/>?
-
-> 1. For writing any Code we must have a code editor/platform where we can write our code.<br>
-> 2. There are so many options to write HTML code.<br>
-> 3. We can write our code in Notepad, For simple HTML code writing Notepad is great if you learn the basic structure of HTML.
+1. For writing any Code we must have a code editor/platform where we can write our code.
+2. There are so many options to write HTML code.<br>
+3. We can write our code in Notepad, For simple HTML code writing Notepad is great if you learn the basic structure of HTML.
 
 ![notepad](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/notepad-view.png) <br>
 &nbsp; But it has some limitations.. like no auto-complete, no syntax suggestions, no extensions to use, and no applicable themes.<br>
