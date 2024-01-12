@@ -24,7 +24,8 @@
 <hr>
 
 # Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a><br>
-**Step 1**: Open your browser like | eg. Chrome, Safari, Brave, Firebox, Internet Explorer <br><br>
+**Step 1**: Open your browser
+> eg. Chrome, Safari, Brave, Firebox, Internet Explorer <br><br>
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/> &nbsp;&nbsp;
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/> &nbsp;&nbsp;
 <img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/> &nbsp;&nbsp;
