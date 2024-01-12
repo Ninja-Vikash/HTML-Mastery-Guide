@@ -11,7 +11,7 @@ HTML is the code used to structure a web page and its content. And the component
  
 ### How to create an HTML document?
 The most common syntax of any webpage below
-<pre>
+```
 &lt!DOCTYPE html&gt
 &lthtml lang="en"&gt
   &lthead&gt
@@ -23,7 +23,7 @@ The most common syntax of any webpage below
       ------Your code will be here!------
   &lt/body&gt
 &lt/html&gt
-</pre>
+```
 
 The above code is called the **Boiler Plate** <br>
 :bulb:<b>Tip:</b>  We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
