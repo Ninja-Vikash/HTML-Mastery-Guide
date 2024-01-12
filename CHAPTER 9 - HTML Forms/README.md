@@ -95,4 +95,4 @@ The &lt;fieldset&gt; tag draws a box around the related elements.
  &lt;/fieldset&gt;
 </pre>
 
-The &lt;legend&gt; tag defines a caption for the &lt;fieldset&gt; element.
+> The &lt;legend&gt; tag defines a caption for the &lt;fieldset&gt; element.
