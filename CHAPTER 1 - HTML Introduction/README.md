@@ -12,17 +12,17 @@ HTML is the code used to structure a web page and its content. And the component
 ### How to create an HTML document?
 The most common syntax of any webpage below
 ```
-&lt!DOCTYPE html&gt
-&lthtml lang="en"&gt
-  &lthead&gt
-    &ltmeta charset="UTF-8" /&gt
-    &ltmeta name="viewport" content="width=device-width, initial-scale=1.0" /&gt
-    &lttitle&gtDocument&lt/title&gt
-  &lt/head&gt
-  &ltbody&gt
-      ------Your code will be here!------
-  &lt/body&gt
-&lt/html&gt
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+      <!-- All the code will be here -->
+  </body>
+</html>
 ```
 
 The above code is called the **Boiler Plate** <br>
