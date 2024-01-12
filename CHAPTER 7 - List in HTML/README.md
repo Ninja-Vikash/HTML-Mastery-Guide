@@ -24,7 +24,7 @@ An **Ordered list**, also known as a step-by-step list, has a specific order or 
 3. Third Item                       c. Third Item                      III. Third Item
 4. Fourth Item                      d. Fourth Item                     IV. Fourth Item
 </pre>
-we can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
+> we can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
 
 ### Unordered List
 An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
@@ -38,7 +38,7 @@ An **unordered list**, also known as a bulleted list, has no specific order or s
                                     &lt;li&gt;Fourth Item&lt;/li&gt;
                                 &lt;/ul&gt;
 </pre>
-we can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
+> we can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
 ### Description List
 HTML also supports description lists.
@@ -64,6 +64,6 @@ The &lt;dl&gt; tag defines the description list, the &lt;dt&gt; tag defines the 
       &lt;dd&gt;Lorem ipsum dolor sit amet consectetur adipisicing.&lt;/dd&gt;
     &lt;/dl&gt;
 </pre>
-This is a rarely used list type and is used for informative lists. <br>
+> This is a rarely used list type and is used for informative lists. <br>
 
 **Note** : For the list Border style We need to check out CSS.
