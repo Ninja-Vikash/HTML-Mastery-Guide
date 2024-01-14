@@ -15,11 +15,14 @@ Tables are useful for presenting text information and numerical data, and for qu
 </pre>
 
 ### Table can be divided into parts
-
-<pre>
-&ltthead&gt Used to deploy the header part of the table
-&lttbody&gt Usde to deploy information part of the table
-</pre>
+```
+<thead>
+       Used to deploy the header part of the table
+</thead>
+<tbody>
+      Used to deploy information part of the table
+</tbody>
+```
 
 ```
 <table>
