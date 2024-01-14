@@ -44,10 +44,10 @@ An **unordered list**, also known as a bulleted list, has no specific order or s
 </ul>
 ```
 List of fruits <br>
-• Mango
-• Apple
-• Banana
-• Orange
+&nbsp;• Mango <br>
+&nbsp;• Apple <br>
+&nbsp;• Banana <br>
+&nbsp;• Orange
 
 > We can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
