@@ -18,12 +18,12 @@ An **Ordered list**, also known as a step-by-step list, has a specific order or 
 </ol>
 ```
 
-1. First Item                       a. First Item                      I. First Item
-2. Second Item                      b. Second Item                     II. Second Item
-3. Third Item                       c. Third Item                      III. Third Item
-4. Fourth Item                      d. Fourth Item                     IV. Fourth Item
-</pre>
-> we can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
+1. First Item
+2. Second Item
+3. Third Item
+4. Fourth Item
+
+> We can change the list style type by using CSS property. - Numbers, Alphabets(small & caps), Roman(small & caps).
 
 ### Unordered List
 An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
