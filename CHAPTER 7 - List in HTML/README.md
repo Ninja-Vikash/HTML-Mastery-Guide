@@ -20,7 +20,6 @@ An **Ordered list**, also known as a step-by-step list, has a specific order or 
     <li>Wait for 3 minutes and Now you can serve it.</li>
 </ol>
 ```
-<br>
 How to make tea?
 
 1. Take a cup of water
