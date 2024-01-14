@@ -9,15 +9,14 @@ A list in HTML is a collection of items that are displayed in a list format with
 ### Ordered List
 An **Ordered list**, also known as a step-by-step list, has a specific order or sequence and is marked with numbers. It begins with the &lt;ol&gt; tag and closes with a &lt;/ol&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **Ordered list** is ideal for presenting a recipe, a to-do list, or any process.
 
-<pre>
-                                      Ordered List &lt;ol&gt;
-
-                                &lt;ol&gt;
-                                    &lt;li&gt;First Item&lt;/li&gt;
-                                    &lt;li&gt;Second Item&lt;/li&gt;
-                                    &lt;li&gt;Third Item&lt;/li&gt;
-                                    &lt;li&gt;Fourth Item&lt;/li&gt;
-                                &lt;/ol&gt;
+```
+<ol>
+    <li>First Item</li>
+    <li>Second Item</li>
+    <li>Third Item</li>
+    <li>Fourth Item</li>
+</ol>
+```
 
 1. First Item                       a. First Item                      I. First Item
 2. Second Item                      b. Second Item                     II. Second Item
