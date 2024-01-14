@@ -21,6 +21,35 @@ Tables are useful for presenting text information and numerical data, and for qu
 &lttbody&gt Usde to deploy information part of the table
 </pre>
 
+```
+<table>
+      <thead>
+        <tr>
+          <th>Student Name</th>
+          <th>Obtained Marks</th>
+          <th>Result Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Akash Sharma</td>
+          <td>322</td>
+          <td>1st Division</td>
+        </tr>
+        <tr>
+          <td>Vijay Thakur</td>
+          <td>298</td>
+          <td>2nd Division</td>
+        </tr>
+        <tr>
+          <td>Anand Kumar</td>
+          <td>301</td>
+          <td>1st Division</td>
+        </tr>
+      </tbody>
+</table>
+```
 After creating a table We want to show a heading to describe the component of the table.
 
 <pre>
