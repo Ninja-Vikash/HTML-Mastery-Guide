@@ -60,10 +60,33 @@ After creating a table We want to show a heading to describe the component of th
 </pre>
 
 For expanding cells or merging cells we use
+```
+<table>
+      <thead>
+        <!-- colspan used to merge columns -->
+        <tr>
+          <th>Student Name</th>
+          <th colspan="2">Result Status</th>
+        </tr>
+      </thead>
 
-<pre>
-&ltth rowspan="2"&gt for merging two cells in a row
-&ltth colspan="2"&gt for merging two cells in column
+      <tbody>
+        <tr>
+          <!-- rowspan used to merge rows -->
+          <td>Akash Sharma</td>
+          <td>322</td>
+          <td rowspan="2">1st Division</td>
+        </tr>
+        <tr>
+          <td>Anand Kumar</td>
+          <td>301</td>
+        </tr>
+      </tbody>
+</table>
+```
+
+`<th rowspan="2">` -- for merging two cells in a row
+`<th colspan="2">`-- for merging two cells in column
 </pre>
 
 **Note**: For better understanding, I used some simple CSS to make it clear in html file
