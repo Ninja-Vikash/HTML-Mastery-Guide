@@ -73,7 +73,7 @@ The &lt;dl&gt; tag defines the description list, the &lt;dt&gt; tag defines the 
       &lt;dd&gt;Lorem ipsum dolor sit amet.&lt;/dd&gt;
       &lt;dd&gt;Lorem ipsum dolor sit amet consectetur.&lt;/dd&gt;
       &lt;dd&gt;Lorem ipsum dolor sit amet consectetur adipisicing.&lt;/dd&gt;
-    &lt;/dl&gt;
+&lt;/dl&gt;
 </pre>
 > This is a rarely used list type and is used for informative lists. <br>
 
