@@ -85,8 +85,9 @@ For expanding cells or merging cells we use
 </table>
 ```
 
-`<th rowspan="2">` -- for merging two cells in a row
-`<th colspan="2">`-- for merging two cells in column
+> `<th rowspan="2">` -- for merging two cells in a row
+
+> `<th colspan="2">` -- for merging two cells in column
 </pre>
 
 **Note**: For better understanding, I used some simple CSS to make it clear in html file
