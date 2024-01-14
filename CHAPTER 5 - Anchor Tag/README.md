@@ -6,8 +6,9 @@
 An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'href' attribute. It can link to **Web Pages**, **files**, **email addresses**, **locations** on the same page, or anything else a URL can address. <br>
 
 **NOTE** - An anchor tag is an inline element.
-
-`<a href="URL">Click Here</a>`
+```
+<a href="URL">Click Here</a>
+```
 <br>
 
 ### Possibilities of "Anchor tag"
@@ -27,9 +28,9 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
 </p>
 
 4. Anchor tag used as a navigator in a webpage's sections
-<pre>
-  &lt;a href="#id"&gt;Click to Naviagte&lt;/a&gt;
-</pre>
+```
+  <a href="#id">Click to Naviagte</a>
+```
 In the href part, we will give the ID of the section with a #.
 
 ### How can we Embed online video on our webpage?
