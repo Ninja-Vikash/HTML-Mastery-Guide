@@ -29,7 +29,7 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
 
 4. Anchor tag used as a navigator in a webpage's sections
 ```
-  <a href="#id">Click to Naviagte</a>
+<a href="#id">Click to Naviagte</a>
 ```
 In the href part, we will give the ID of the section with a #.
 
