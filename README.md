@@ -1,6 +1,6 @@
-# <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="30px"/> HTML For Beginners
-![banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/html-banner.png)
-> <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/student.png" height="20px" /> Learn HTML from `Zero` ⇒ `Hero`
+# <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="30px"/> HTML For Beginners
+![banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
+> <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/student.png" height="20px" /> Learn HTML from `Zero` ⇒ `Hero`
 <hr>
 
 ### 🔴 Getting started with HTML
@@ -21,5 +21,5 @@ This is a wonderful repository for 👨‍🎓**HTML learners!** <br>Where I hav
 ### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms">Learn about various input types and HTML Forms components</a>
 
 <p><a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">
-  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" width="100px"/>
+  <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" width="100px"/>
 </a></p>
