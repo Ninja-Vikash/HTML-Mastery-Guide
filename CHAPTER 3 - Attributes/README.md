@@ -1,7 +1,7 @@
 # CHAPTER 3
-## <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> HTML attributes | URL types
+## <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" /> HTML attributes | URL types
 
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 ### Use of HTML attributes
   
 **Attributes are used to provide some additional details to the HTML tag**
@@ -53,5 +53,5 @@ Let us assume a web developer setting up a webpage and want to link an image cal
 </pre>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">
-  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
+  <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
 </a>

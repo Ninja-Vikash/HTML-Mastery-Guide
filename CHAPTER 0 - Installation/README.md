@@ -26,26 +26,26 @@
 # Installation of <a href="https://code.visualstudio.com/" >Visual Studio Code</a><br>
 **Step 1**: Open your browser
 
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/chrome.png" width="30px"/> &nbsp;&nbsp;
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/safari.png" width="30px"/> &nbsp;&nbsp;
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/brave.png" width="30px"/> &nbsp;&nbsp;
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/firefox.png" width="30px"/> &nbsp;&nbsp;
-<img alt="chrome" src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/edge.png" width="30px"/>
+<img alt="chrome" src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/chrome.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/safari.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/brave.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/firefox.png" width="30px"/> &nbsp;&nbsp;
+<img alt="chrome" src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/edge.png" width="30px"/>
 
-![browser window](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/browser%20window.png) <br>
+![browser window](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/browser%20window.png) <br>
 > eg. Chrome, Safari, Brave, Firebox, Internet Explorer
 
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" >**Download**</a> link.<br>
 **Step 3**: Start Downloading of Visual Studio Code.
 ![start download](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Setup.png) <br>
 **Step 4**: Installation of Visual Studio Code.
-![Process1](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option.png) <br>
-![Process2](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option1.png) <br>
-![Process3](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option2.png) <br>
-![Process4](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option3.png) <br>
-![Process5](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Installing-option4.png) <br>
+![Process1](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option.png) <br>
+![Process2](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option1.png) <br>
+![Process3](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option2.png) <br>
+![Process4](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option3.png) <br>
+![Process5](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option4.png) <br>
 **Step 5**: Run Visual Studio Code and Start coding.
-![first appearance](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/first%20apperance.png)
+![first appearance](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/first%20apperance.png)
 > Create the first HTML document and name it **`index.html`**
 
 ### Where to run or execute HTML?
@@ -56,21 +56,21 @@ There are two ways to open your HTML document on the browser's screen. <br>
 
 ### From where we can download extensions on VS Code?
 We can directly download the extension on the VS code from the bar as
-![extension icon](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Extension%20Icon.png)
+![extension icon](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Extension%20Icon.png)
 
 ## Useful VS Code Extensions-
 
 ### <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> 
-![live server](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/live%20server.png)
+![live server](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/live%20server.png)
 ### <a href="https://prettier.io/docs/en/editors.html">Prettier</a>
-![prettier](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/prettier.png)
+![prettier](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/prettier.png)
 ### <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto rename tag</a>
-![Auto rename tag](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/auto%20rename%20tag.png)
+![Auto rename tag](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/auto%20rename%20tag.png)
 
 
 <p>
   <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Introduction">
-   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px"/>
+   <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px"/>
   </a>
 </p>
 

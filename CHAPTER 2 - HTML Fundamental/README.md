@@ -1,7 +1,7 @@
 # CHAPTER 2
-## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" /> | HTML Entities
+## Fundamentals of HTML <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" /> | HTML Entities
 
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
 
 ### HTML is not case-sensitive
@@ -29,8 +29,6 @@
 &lth5&gtHeading 5&lt/h5&gt
 &lth6&gtHeading 6&lt/h6&gt
 </pre>
-  
-![Heading](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Headings.png)
 
 <p>When writing headings, the size of the text will decrease from &lt;h1&gt; (The most important heading and largest size) to &lt;h6&gt; (The least important heading and smallest size). </p>
 
@@ -85,5 +83,5 @@ But there is a problem with HTML we can't use angular brackets directly because 
 <p>There are so many symbols in HTML we can use them to add # after &</p>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">
-   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
+   <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
 </a>

@@ -1,6 +1,6 @@
 # CHAPTER 6
-## Inline & Block Elements <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+## Inline & Block Elements <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 ### What are Inline and Block elements in HTML?
 Every HTML document that renders the web content will depend on the element type i.e., block or inline which are default display values. <br>
 
@@ -39,5 +39,5 @@ An inline element is the opposite of the block-level element. It does not start 
 💡**span element**: The `<span>` tag is used as a container for text. It has no required attributes. Style, class, and id are the commonly used attributes.
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%207%20-%20List%20in%20HTML" >
-  <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
+  <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
 </a>

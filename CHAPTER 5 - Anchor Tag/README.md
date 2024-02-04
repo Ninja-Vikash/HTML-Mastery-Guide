@@ -1,6 +1,6 @@
 # CHAPTER 5
 ## 🔴 Information of Anchor tag | Possibilities | Embedding online videos
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
 ### What is an Anchor tag?
 An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'href' attribute. It can link to **Web Pages**, **files**, **email addresses**, **locations** on the same page, or anything else a URL can address. <br>
@@ -20,10 +20,10 @@ An anchor tag is an HTML tag used to render a **"Hypertext link"** using the 'hr
 
 <p>
   
-<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/image.png" height="40px" /> &nbsp;
-<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/video.png" height="40px" /> &nbsp;
-<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/pdf.png" height="40px" /> &nbsp;
-<img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="40px" />
+<img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/image.png" height="40px" /> &nbsp;
+<img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/video.png" height="40px" /> &nbsp;
+<img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/pdf.png" height="40px" /> &nbsp;
+<img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="40px" />
 
 </p>
 
@@ -44,12 +44,12 @@ An inline frame is used to embed another document within the current HTML docume
 
 ## Process of Embedding Youtube Video on Your webpage!
 Search for a video on **YOUTUBE**
-![preview 1](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-1.png)
+![preview 1](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-1.png)
 <br>
 Click on **Share**
-![preview 2](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-2.png)
+![preview 2](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-2.png)
 Select the Embed option from them
 <br>
 Just - paste it on your HTML file
-![preview 3](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-3.png)
-![preview 4](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/embed-4.png)
+![preview 3](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-3.png)
+![preview 4](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-4.png)

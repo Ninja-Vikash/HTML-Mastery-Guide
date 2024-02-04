@@ -1,9 +1,9 @@
 # CHAPTER 1
 
-## Introduction of HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
+## Introduction of HTML <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
 <p> <b>Did you know</b> that HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
 
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
 <p><b>HTML</b> : Hypertext Markup Language<br>
 HTML is the code used to structure a web page and its content. And the components used to design the structure of websites are called HTML tags. It is often assisted by technologies such as Cascading Style Sheets and Scripting languages such as Javascript.</p>
@@ -84,6 +84,6 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 
 <p>
   <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">
-   <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="40px"/>
+   <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="40px"/>
   </a>
 </p>

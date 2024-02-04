@@ -1,7 +1,7 @@
 # CHAPTER 4
-## 🔴 Page layout techniques <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
+## 🔴 Page layout techniques <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
 
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
 ### Arrangement of tags in an HTML document
 
@@ -77,5 +77,5 @@ You can see an example of semantic layout--> <a href="https://github.com/Ninja-V
 </ol>
 
 <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag">
-    <img src="https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/next-removebg-preview.png" height="30px" />
+    <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
 </a>

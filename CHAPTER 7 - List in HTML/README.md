@@ -1,6 +1,6 @@
 # CHAPTER 7
-## Lists in HTML <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/htmlLogo.png" height="20px" />
-![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/HTML.png)
+## Lists in HTML <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
+![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
 ### What are lists in HTML?
 A list in HTML is a collection of items that are displayed in a list format with bullet points. Lists are used to represent real-life data. There are three list types in HTML, each with a specific purpose and tag.
