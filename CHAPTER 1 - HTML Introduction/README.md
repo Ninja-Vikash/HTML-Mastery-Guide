@@ -11,7 +11,7 @@ HTML is the code used to structure a web page and its content. And the component
  
 ### How to create an HTML document?
 The most common syntax of any webpage below
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -78,7 +78,7 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 `<body>` Adding data to the container will reflect on the browser's main screen.
 
 ### Comments are written as below 
-```
+```html
 <!-- Your comment is here -->
 ```
 

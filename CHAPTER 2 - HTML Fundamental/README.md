@@ -21,14 +21,14 @@
 `<pre>--text--</pre>` the HTML &lt;pre&gt; tag is used for pre-formatted text, keeping the original spaces and line breaks exactly as they are in the code.
 
 ### For Headings
-<pre>
-&lth1&gtHeading 1&lt/h1&gt
-&lth2&gtHeading 2&lt/h2&gt
-&lth3&gtHeading 3&lt/h3&gt
-&lth4&gtHeading 4&lt/h4&gt
-&lth5&gtHeading 5&lt/h5&gt
-&lth6&gtHeading 6&lt/h6&gt
-</pre>
+```html
+<h1>Heading h1</h1>
+<h2>Heading h1</h2>
+<h3>Heading h1</h3>
+<h4>Heading h1</h4>
+<h5>Heading h1</h5>
+<h6>Heading h1</h6>
+```
 
 <p>When writing headings, the size of the text will decrease from &lt;h1&gt; (The most important heading and largest size) to &lt;h6&gt; (The least important heading and smallest size). </p>
 
@@ -40,15 +40,15 @@
 
 💡<b>Tip:</b> `<strong>` tag is similar to the `<b>` tag and `<em>` tag is similar to the `<i>` tag.
 
-<pre>
-&ltbig&gtI am Big&lt/big&gt
-&ltsmall&gtI am Small&lt/small&gt
-</pre>
+```html
+<big>I am big</big>
+<small>I am small</small>
+```
 
-<pre>
-&ltsup&gtI am Superscript&lt/sup&gt
-&ltsub&gtI am Subscript&lt/sub&gt
-</pre>
+```html
+<sup>I am Superscript</sup>
+<sub>I am Subscript</sub>
+``` 
 </ol>
 
 ### Notable 
@@ -57,28 +57,28 @@ But there is a problem with HTML we can't use angular brackets directly because 
 <br>It starts with Ampersand (&) and should be closed with a semi-colon (;), <br>
 
 ## List of HTML Entities
-<pre>
-● Non-breaking spaces - &amp;nbsp&semi;
-● &lt; - Less than angular bracket - &amp;lt&semi;
-● &gt; - Greater than angular bracket - &amp;gt&semi;
-● &copy; - Copyright - &amp;copy&semi;
-● &amp; - Ampersand - &amp;amp&semi;
-● &semi; - SemiColon - &amp;semi&semi;
-● &reg; - Registered - &amp;reg&semi;
-● &trade; - Trademark - &amp;trade&semi;
-● &commat; - At the rate - &amp;commat&semi;
-● &star; - Holo Star - &amp;star&semi;
-● &starf; - Filled Star - &amp;starf&semi;
-● &phone; - Phone - &amp;phone&semi;
-● &male; - Male - &amp;male&semi;
-● &female; - Female - &amp;female&semi;
-● &hearts; - Heart - &amp;hearts&semi;
-● &spades; - Spade - &amp;spades&semi;
-● &clubs; - Club - &amp;clubs&semi;
-● &diams; - Diamond - &amp;diams&semi;
-● &sung; - Tune - &amp;sung&semi;
-● &check; - Check - &amp;check&semi;
-</pre>
+```html
+● &nbsp; - Non-breaking space
+● &lt; - Less than angular bracket
+● &gt; - Greater than angular bracket
+● &copy; - Copyright 
+● &amp; - Ampersand 
+● &semi; - SemiColon 
+● &reg; - Registered 
+● &trade; - Trademark 
+● &commat; - At the rate 
+● &star; - Holo Star
+● &starf; - Filled Star
+● &phone; - Phone 
+● &male; - Male 
+● &female; - Female 
+● &hearts; - Heart 
+● &spades; - Spade
+● &clubs; - Club
+● &diams; - Diamond
+● &sung; - Tune 
+● &check; - Check
+```
 
 <p>There are so many symbols in HTML we can use them to add # after &</p>
 

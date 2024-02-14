@@ -22,55 +22,55 @@ and so on...
 </pre>
 
 **Arrangement of Semantic tags**
-<pre>
-&ltbody&gt
-    &ltheader>&lt!--Heading of the page--&gt&lt/header&gt
-    &ltmain>&lt!--Your content will be here--&gt&lt/main&gt
-    &ltfooter>&lt!--Footer--&gt&lt/footer&gt
-&lt/body&gt
-</pre>
+```html
+<body>
+    <header>--Heading of the page--</header>
+    <main>--Your content will be here--</main>
+    <footer>--Footer of the page--</footer>
+</body>
+```
 
 The `<main>` is divided into several semantic tags. As follow-
 
-<pre>
-&ltmain&gt
-      &ltsection&gt
-        &lth2&gtAbout&lt/h2&gt
-        &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
-        &lt/p&gt
-      &lt/section&gt
+```html
+<main>
+      <section>
+        <h2>About</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderitquia minima quoscommodiblanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+        </p>
+      </section>
 
-      &ltsection&gt
-        &lth2&gtRead More&lt/h2&gt
-        &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
-        &lt/p&gt
-      &lt/section&gt
+      <section>
+        <h2>Read More</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderitquia minima quoscommodiblanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+        </p>
+      </section>
 
-      &ltsection&gt
-        &lth2&gtContact&lt/h2&gt
-        &ltp&gt
+      <section>
+        <h2>Contact</h2>
+        <p>
           Phone : +1234567890
           Email : abc@gmail.com
-        &lt/p&gt
-      &lt/section&gt
+        </p>
+      </section>
 
-      &ltarticle&gt
-        &ltp&gt
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderit<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quia minima quoscommodi blanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eligendi 
-        &lt/p&gt
-      &lt/article&gt
+      <article>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam corrupti suscipit aperiam, saepe reprehenderitquia minima quoscommodiblanditiis illum est repudiandae possimus sit animi eum, delectus, asperiores dolorum eligendi 
+        </p>
+      </article>
 
-      &ltaside&gt
-        &ltp&gt
+      <aside>
+        <p>
             Product : cloth | Rs 499 <br>
             Product : shoes | Rs 799 <br>
             Product : Bags | Rs 399
-        &lt/p&gt
-      &lt/aside&gt
-&lt/main&gt
-</pre>
+        </p>
+      </aside>
+</main>
+```
 <br>
 
 You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">*demo.html*</a>

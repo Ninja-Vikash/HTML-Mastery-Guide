@@ -9,7 +9,7 @@ A list in HTML is a collection of items that are displayed in a list format with
 ### Ordered List
 An **Ordered list**, also known as a step-by-step list, has a specific order or sequence and is marked with numbers. It begins with the &lt;ol&gt; tag and closes with a &lt;/ol&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **Ordered list** is ideal for presenting a recipe, a to-do list, or any process.
 
-```
+```html
 <p>How to make tea?</p>
 <ol>
     <li>Take a cup of water</li>
@@ -34,7 +34,7 @@ How to make tea?
 ### Unordered List
 An **unordered list**, also known as a bulleted list, has no specific order or sequence and is marked with bullets. It begins with the &lt;ul&gt; tag and closes with a &lt;/ul&gt; tag, while the list items begin with the &lt;li&gt; tag and end with &lt;/li&gt; tag. An **unordered list** is ideal for presenting a glossary, list of terms, or other name/value list.
 
-```
+```html
 <p>List of fruits</p>                              
 <ul>
     <li>Mango</li>
@@ -44,11 +44,10 @@ An **unordered list**, also known as a bulleted list, has no specific order or s
 </ul>
 ```
 List of fruits <br>
-&nbsp;• Mango <br>
-&nbsp;• Apple <br>
-&nbsp;• Banana <br>
-&nbsp;• Orange
-
+- Mango
+- Apple
+- Banana
+- Orange
 > We can change the list style type by using CSS property. - Bullet, Circle, Disk, Square.
 
 ### Description List

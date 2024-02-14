@@ -15,7 +15,7 @@ Tables are useful for presenting text information and numerical data, and for qu
 </pre>
 
 ### Table can be divided into parts
-```
+```html
 <thead>
        Used to deploy the header part of the table
 </thead>
@@ -24,7 +24,7 @@ Tables are useful for presenting text information and numerical data, and for qu
 </tbody>
 ```
 
-```
+```html
 <table>
       <thead>
         <tr>
@@ -60,7 +60,7 @@ After creating a table We want to show a heading to describe the component of th
 </pre>
 
 For expanding cells or merging cells we use
-```
+```html
 <table>
       <thead>
         <!-- colspan used to merge columns -->
