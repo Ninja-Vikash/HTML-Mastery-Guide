@@ -5,30 +5,48 @@
 
 ### Arrangement of tags in an HTML document
 
-**Tags are divided into two categories** <br>
-**Semantic tag**
-<pre>
-&ltheader&gt
-&ltmain&gt
-&ltfooter&gt
-</pre>
-and so on...
-
-**Non-semantic tag**
-<pre>
-&ltspan&gt
-&ltdiv&gt
-&ltsection&gt
-</pre>
-
-**Arrangement of Semantic tags**
+Tags are divided into two categories <br>
+- **Semantic tag**
 ```html
 <body>
-    <header>--Heading of the page--</header>
-    <main>--Your content will be here--</main>
-    <footer>--Footer of the page--</footer>
+    <header>
+        <h1>Heading</h1>
+        <nav>...</nav>
+    </haeder>
+
+    <main>
+        <section>...</section>
+        <section>...</section>
+        <aside>...</aside>
+    </main>
+
+    <footer>
+        <p>All the copyright&copy; reserved</p>
+    </footer>
 </body>
 ```
+and so on...
+
+- **Non-semantic tag**
+```html
+<body>
+    <div class="header">
+        <h1>Heading</h1>
+        <nav>...</nav>
+    </div>
+
+    <div class="main">
+        <section>...</section>
+        <section>...</section>
+        <aside>...</aside>
+    </div>
+
+    <div class="footer">
+        <p>All the copyright&copy; reserved</p>
+    </div>
+</body>
+```
+
 
 The `<main>` is divided into several semantic tags. As follow-
 
