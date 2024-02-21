@@ -1,7 +1,9 @@
 # CHAPTER 1
 
 ## Introduction of HTML <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
-<p> <b>Did you know</b> that HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
+<p> <b>Did you know?</b> 
+ 
+ HTML is the backbone of every website you visit? It's the magic code that structures web pages and makes all the content come to life!</p>
 
 ![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
 
@@ -25,7 +27,7 @@ The most common syntax of any webpage below
 </html>
 ```
 
-> The above code is called the **Boiler Plate**
+> The above code is known as the **Boiler Plate**
 
 > We can write it with the help of the emmet abbreviation- `! + enter` | `html5 + enter` <br>
 
@@ -35,7 +37,7 @@ Most of the elements are closed with two tags like &lt;opening tag&gt; context &
 Also, there are a few tags that are self-closed tag.<br>
 Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 
-## Boilerplate explained below
+## Boilerplate overview
 <pre>
 &lt!DOCTYPE html&gt
 </pre>
@@ -52,7 +54,7 @@ Example: &lt;br&gt; , &lt;hr&gt; , &lt;img&gt; and so on..
 &lthead&gt
   -------Contains the metadata--------
   -------Contains title & link--------
-  -------Contains useful tags which are not rendered on the browser's screen--------
+  -------It contains useful tags that are not rendered on the browser's screen--------
 &lt/head&gt
 
 &ltbody&gt
