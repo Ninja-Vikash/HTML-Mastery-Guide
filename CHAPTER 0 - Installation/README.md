@@ -36,8 +36,7 @@
 > eg. Chrome, Safari, Brave, Firebox, Internet Explorer
 
 **Step 2**: Visit - Visual Studio Code Official Website or Click the <a href="https://code.visualstudio.com/" >**Download**</a> link.<br>
-**Step 3**: Start Downloading of Visual Studio Code.
-![start download](https://github.com/Ninja-Vikash/Assets/blob/main/HTML%20Assets/Setup.png) <br>
+**Step 3**: Start Downloading of Visual Studio Code.<br>
 **Step 4**: Installation of Visual Studio Code.
 ![Process1](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option.png) <br>
 ![Process2](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/Installing-option1.png) <br>
