@@ -1,6 +1,8 @@
-# <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="30px"/> HTML For Beginners
+<h1 align="center">HTML <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="30px"/></h1>
+
 ![banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
-> <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/student.png" height="20px" /> Learn HTML from `Zero` ⇒ `Hero`
+> [!NOTE]
+> In this repository you will learn most of the useful HTML
 <hr>
 
 ### 🔴 Getting started with HTML
