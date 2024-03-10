@@ -41,7 +41,7 @@
   HTML includes a variety of elements for structuring content, such as headings (`<h1>, <h2>, ...`), paragraphs (`<p>`), lists (`<ul>, <ol>, <li>`), links (`<a>`), images (`<img>`), and more.
 - **Version History**
   
-  HTML has evolved over the years, with various versions. HTML5 is the latest version (as of my knowledge cutoff in January 2022) and includes features for multimedia, form handling, and improved semantics.
+  HTML has evolved over the years, with various versions. HTML5 is the latest version and includes features for multimedia, form handling, and improved semantics.
 
 - **Web Browsers**
   
