@@ -8,9 +8,9 @@ Welcome to the HTML Mastery Guide repository! Whether you're a complete beginner
 
 ## Overview
 ### What's Inside?
-#### ⌂ <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%200%20-%20Installation">Visual Studio Code | Useful Extensions</a>
-#### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%201%20-%20HTML%20Tutorial">What is HTML?</a>
-#### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%202%20-%20HTML%20Fundamental">What are the Elements in HTML?</a>
+#### ⌂ [Visual Studio Code](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/00%20-%20Setup)
+#### ● [What is HTML?](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/01%20-%20Introduction)
+#### ● [Elements in HTML](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals)
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%203%20-%20Attributes">What is the use of Attributes in HTML?</a>
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">Learn page layout technique and familiar with 'Semantic' & 'Non-semantic' tags</a>
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag">Uses of Anchor tag and possibilities with anchor tag</a>
