@@ -4,10 +4,10 @@
 In HTML, the tags and attributes are not case-sensitive. This means that you can use uppercase or lowercase letters when writing HTML elements, and the browser will interpret them in the same way. For example, `<p>`, `<P>`, and `<P>` are all considered the same and will create a paragraph element.
 
 ## Content table
-- [Fundamental]()
-- [Element]()
-- [Most Used Tags]()
-- [HTML Entity]()
+- [Fundamental](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals#fundamental)
+- [Element](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals#what-is-an-html-element)
+- [Most Used Tags](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals#most-used-tags)
+- [HTML Entity](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals#list-of-html-entities)
 
 ## Fundamental
 ### HTML is not case sensitive
