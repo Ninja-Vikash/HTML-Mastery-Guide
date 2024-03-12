@@ -117,4 +117,5 @@ Almost every html tag enclosed with an open and a closing tag.
 ● &check; - Check
 ```
 <p>There are so many symbols in HTML we can use them to add # after &</p>
-### Happy Coding 🤝!
+
+#### Happy Coding 🤝!
