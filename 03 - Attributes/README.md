@@ -11,10 +11,10 @@
 
 ## Content Table
 - [**Role of Attributes**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#role-of-attributes)
-- **Attribute Table**  
+- [**Attribute Table**]()  
   * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
   * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
-
+  * [Imgage Tag Attributes]()
 
 
 ### Role of Attributes
@@ -68,6 +68,35 @@
 Attributes enhance the flexibility and functionality of HTML elements, making them more adaptable to different requirements in web development. Understanding how to use attributes effectively is essential for creating well-structured and dynamic web pages.
 
 ***
+
+### Attribute Table
+
+|<div style="width: 5vw">Tag</div>| <div style="width: 7vw">Attribute</div> | <div style="width: 15vw">Value</div> | <div>Role</div> |
+| --- | --- | -- | -- |
+| `<meta>` | [charset]() | UTF-8 | Specifies the character encoding for the HTML document. |
+| `<meta>` | [viewport]() | width=device-width | Sets the width of the viewport to the device width, ensuring that the content fits the screen. |
+| | | initial-scale=1.0 | Sets the initial zoom level when the page is loaded. A value of 1.0 means no zoom, and the content will be displayed at its actual size. |
+| | | minimum-scale=0.7 | |
+| | | maximum-scale=1.3 | |
+| | [description]() | HTML Mastery Guide | Provides a short description of the HTML document. Often used by search engines. |
+| | [keywords]() | HTML, CSS | Specifies a comma-separated list of keywords relevant to the page's content. |
+| | [author]() | Ninja-Vikash | Specifies the author of the HTML document.|
+| | [robots]() | index, follow | Directs search engine crawlers on how to index and follow links on a page. |
+| | [refresh]() | 5;url=https://example.com | Redirects the page to another URL after a specified time (in seconds). |
+| | [theme-color]() | #3498db | Sets the theme color for the browser's UI elements when the page is added to the home screen on mobile devices. |
+| `<a>` | [href]() | http://wwww.google.com/ | Specifies the URL (web address) of the linked resource.
+| | | sample.html | |
+| | [target]() | _blank | Opens the link in a new tab or window. |
+| | | _self | Opens the link in the same tab or window (default behavior). |
+| | | _parent |  Opens the link in the parent frame. |
+| | | _top | Opens the link in the full body of the window. |
+| | [download]() |  | Indicates that the linked resource should be downloaded rather than navigated to. |
+| |  [rel]() | | Specifies the relationship between the current document and the linked document. |
+| | [title]() | | Provides additional information about the linked resource, often displayed as a tooltip. |
+| | [aria-label]() | | Specifies an accessible label for screen readers, providing additional context. |
+
+
+
 
 ### Meta Tag Attributes
 **Character Encoding**
