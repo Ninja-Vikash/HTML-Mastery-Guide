@@ -99,49 +99,49 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 
 
 ### Meta Tag Attributes
-**Character Encoding**
+#### Character Encoding
 ```html
 <meta charset="UTF-8">
 ```
 > Specifies the character encoding for the HTML document.
 
-**Viewport Settings for Responsive Design**
+#### Viewport Settings for Responsive Design
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 > Defines the viewport settings, especially important for responsive web design.
 
-**Description Meta Tag**
+#### Description Meta Tag
 ```html
 <meta name="description" content="A brief description of the webpage">
 ```
 > Provides a short description of the HTML document. Often used by search engines.
 
-**Keywords Meta Tag**
+#### Keywords Meta Tag
 ```html
 <meta name="keywords" content="HTML, CSS, web development">
 ```
 > Specifies a comma-separated list of keywords relevant to the page's content.
 
-**Author Meta Tag**
+#### Author Meta Tag
 ```html
 <meta name="author" content="John Doe">
 ```
 > Specifies the author of the HTML document.
 
-**Robots Meta Tag**
+#### Robots Meta Tag
 ```html
 <meta name="robots" content="index, follow">
 ```
 > Directs search engine crawlers on how to index and follow links on a page.
 
-**Refresh Meta Tag (Redirect after 5 seconds)**
+#### Refresh Meta Tag (Redirect after 5 seconds)
 ```html
 <meta http-equiv="refresh" content="5;url=https://example.com">
 ```
 > Redirects the page to another URL after a specified time (in seconds).
 
-**Theme Color Meta Tag**
+#### Theme Color Meta Tag
 ```html
 <meta name="theme-color" content="#3498db">
 ```
@@ -149,13 +149,13 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 
 ***
 ### Anchor Tag Attributes
-**href**
+#### href
 ```html
 <a href="https://www.example.com">Visit Example.com</a>
 ```
 > Specifies the URL (web address) of the linked resource.
 
-**target**
+#### target
 ```html
 <a href="https://www.example.com" target="_blank">Visit Example.com</a>
 ```
@@ -168,13 +168,13 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 > `_parent` : Opens the link in the parent frame.\
 > `_top` :  Opens the link in the full body of the window.
 
-**download**
+#### download
 ```html
 <a href="document.pdf" download>Download PDF</a>
 ```
 > Indicates that the linked resource should be downloaded rather than navigated to.
 
-**rel**
+#### rel
 ```html
 <a href="https://www.example.com" rel="nofollow">Visit Example.com</a>
 ```
@@ -186,14 +186,14 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 > `noopener` : Prevents the new page from accessing the window.opener property.\
 > `noreferrer` : Requires the browser not to send a referrer header.
 
-**title**
+#### title
 ```html
 <a href="https://www.example.com" title="Visit Example.com">Link</a>
 ```
 
 > Provides additional information about the linked resource, often displayed as a tooltip.
 
-**aria-label**
+#### aria-labe
 ```html
 <a href="https://www.example.com" aria-label="Visit Example.com">Link</a>
 ```
