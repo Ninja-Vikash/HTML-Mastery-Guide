@@ -15,7 +15,12 @@
   * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
   * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
   * [Imgage Tag Attributes]()
-
+  * [Video Tag Attributes]()
+  * [Input Tag Attributes]()
+- [**Special Attributes**]()
+  * [Class]()
+  * [Id]()
+  * [Style]()
 
 ### Role of Attributes
 
@@ -96,9 +101,6 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | | noreferrer | Requires the browser not to send a referrer header. |
 | | [title](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#title) | | Provides additional information about the linked resource, often displayed as a tooltip. |
 | | [aria-label](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#aria-label) | | Specifies an accessible label for screen readers, providing additional context. |
-
-
-
 
 ### Meta Tag Attributes
 #### Character Encoding
@@ -201,7 +203,109 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 ```
 > Specifies an accessible label for screen readers, providing additional context.
 
+***
+### Image Tag Attributes
+In HTML (Hypertext Markup Language), the `<img>` tag is used to embed images in a web page. The img tag has several attributes that allow you to control various aspects of the image display. Here are some common image tag attributes
+#### src (required)
+```html
+<img src="image.jpg" alt="Description">
+```
+> [!IMPORTANT]\
+> Specifies the source URL of the image. This is a mandatory attribute.
 
+#### alt
+```html
+<img src="image.jpg" alt="Description of the image">
+```
+> Provides alternative text for the image, which is displayed if the image cannot be loaded or for accessibility purposes.
+
+#### width & height
+```html
+<img src="image.jpg" alt="Description" width="300" height="200">
+```
+> Specifies the width and height of the image in pixels. These attributes help control the layout of the page, and specifying them can prevent the page from reflowing as the image loads.
+
+#### title
+```html
+<img src="image.jpg" alt="Description" title="Additional information">
+```
+> Adds a title or tooltip that is displayed when the user hovers over the image.
+
+#### loading (HTML5)
+```html
+<img src="image.jpg" alt="Description" loading="lazy">
+```
+> [!NOTE]\
+> Determines how the browser should load the image. Possible values are "eager" (default), "lazy", or "auto".
+
+#### style
+```html
+<img src="image.jpg" alt="Description" style="border: 1px solid black;">
+```
+> Allows you to apply inline CSS styles to the image.
+
+> [!NOTE]\
+> We will study about styling in the CSS repository.
+
+### Video Tag Attribute
+The `<video>` tag in HTML is used to embed video content in a web page. It has various attributes that allow you to control the behavior and appearance of the video player. Here are some common attributes for the `<video>` tag:
+#### src (required)
+```html
+<video src="video.mp4" controls></video>
+```
+> [!IMPORTANT]\
+> Specifies the source URL of the video file. This is a mandatory attribute.
+
+#### controls
+```html
+<video src="video.mp4" controls></video>
+```
+> [!NOTE]\
+> Adds basic video controls such as play, pause, and volume.
+
+#### width and height
+```html
+<video src="video.mp4" width="640" height="360" controls></video>
+```
+> Sets the width and height of the video player in pixels.
+
+#### autoplay
+```html
+<video src="video.mp4" autoplay></video>
+```
+> Specifies that the video should start playing automatically when the page loads.
+
+#### loop
+```html
+<video src="video.mp4" loop></video>
+```
+> Causes the video to play in a loop, restarting when it reaches the end.
+
+#### muted
+```html
+<video src="video.mp4" muted></video>
+```
+> Mutes the audio of the video by default.
+
+#### poster
+```html
+<video src="video.mp4" poster="poster-image.jpg" controls></video>
+```
+> [!NOTE]\
+> Specifies an image to be displayed as the poster (or placeholder) for the video before it starts playing.\
+> As a thumbnail.
+
+#### preload
+```html
+<video src="video.mp4" preload="auto"></video>
+```
+> Indicates how the browser should preload the video. Possible values are "auto" (default), "metadata" (preload only metadata), and "none" (do not preload).
+
+#### playsinline
+```html
+<video src="video.mp4" playsinline></video>
+```
+> Enables the video to play inline on mobile devices instead of in a full-screen mode.
 
 # Above
 
