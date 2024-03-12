@@ -14,13 +14,14 @@
 - [**Attribute Table**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#attribute-table)  
   * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
   * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
-  * [Imgage Tag Attributes]()
-  * [Video Tag Attributes]()
+  * [Image Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#image-tag-attributes)
+  * [Video Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#video-tag-attribute)
   * [Input Tag Attributes]()
 - [**Special Attributes**]()
   * [Class]()
   * [Id]()
   * [Style]()
+- [**URLs**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#urluniform-resource-locator)
 
 ### Role of Attributes
 
@@ -101,27 +102,27 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | | noreferrer | Requires the browser not to send a referrer header. |
 | | [title](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#title) | | Provides additional information about the linked resource, often displayed as a tooltip. |
 | | [aria-label](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#aria-label) | | Specifies an accessible label for screen readers, providing additional context. |
-| `<img>` | [src]() | image.jpg | Specifies the source URL of the image. This is a mandatory attribute. |
-| | [alt]() | This is a sample image | Provides alternative text for the image, which is displayed if the image cannot be loaded or for accessibility purposes. |
-| | [width]() | 300px | Specifies the width of the image in pixels |
-| | [height]() | 200px | Specifies the height of the image in pixels |
-| | [title]() | | Adds a title or tooltip that is displayed when the user hovers over the image. |
-| | [loading]() | eager | Determines how the browser should load the image (eager is default value). |
+| `<img>` | [src](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#src-required) | image.jpg | Specifies the source URL of the image. This is a mandatory attribute. |
+| | [alt](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#alt) | This is a sample image | Provides alternative text for the image, which is displayed if the image cannot be loaded or for accessibility purposes. |
+| | [width](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#width--height) | 300px | Specifies the width of the image in pixels |
+| | [height](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#width--height) | 200px | Specifies the height of the image in pixels |
+| | [title](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#title-1) | | Adds a title or tooltip that is displayed when the user hovers over the image. |
+| | [loading](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#loading-html5) | eager | Determines how the browser should load the image (eager is default value). |
 | | | lazy | |
 | | | auto | |
-| | [style]() | | Allows you to apply inline CSS styles to the image. |
-| `<video>` | [src]() | video.mp4 | Specifies the source URL of the video file. This is a mandatory attribute. |
-| | [controls]() | | Adds basic video controls such as play, pause, and volume. |
-| | [width]() | 300px | Sets the width of the video player in pixels. |
-| | [height]() | 200px | Sets the height of the video player in pixels. |
-| | [autoplay]() | | Specifies that the video should start playing automatically when the page loads. |
-| | [loop]() | | Causes the video to play in a loop, restarting when it reaches the end. |
-| | [muted]() | | Mutes the audio of the video by default. |
-| | [poster]() | | Video thumbnail. |
-| | [preload]() | auto | Indicates how the browser should preload the video. "auto" (default), "metadata" (preload only metadata), and "none" (do not preload).. |
+| | [style](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#style) | | Allows you to apply inline CSS styles to the image. |
+| `<video>` | [src](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#src-required-1) | video.mp4 | Specifies the source URL of the video file. This is a mandatory attribute. |
+| | [controls](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#controls) | | Adds basic video controls such as play, pause, and volume. |
+| | [width](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#width-and-height) | 300px | Sets the width of the video player in pixels. |
+| | [height](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#width-and-height) | 200px | Sets the height of the video player in pixels. |
+| | [autoplay](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#autoplay) | | Specifies that the video should start playing automatically when the page loads. |
+| | [loop](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#loop) | | Causes the video to play in a loop, restarting when it reaches the end. |
+| | [muted](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#muted) | | Mutes the audio of the video by default. |
+| | [poster](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#poster) | | Video thumbnail. |
+| | [preload](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#preload) | auto | Indicates how the browser should preload the video. "auto" (default), "metadata" (preload only metadata), and "none" (do not preload).. |
 | |  | metadata | "metadata" (preload only metadata) |
 | |  | none | "none" (do not preload).. |
-| | [playsinline]() | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
+| | [playsinline](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#playsinline) | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
 
 
 ### Meta Tag Attributes
