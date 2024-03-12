@@ -11,7 +11,7 @@
 
 ## Content Table
 - [**Role of Attributes**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#role-of-attributes)
-- [**Attribute Table**]()  
+- [**Attribute Table**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#attribute-table)  
   * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
   * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
   * [Imgage Tag Attributes]()
@@ -73,27 +73,29 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 
 |<div style="width: 5vw">Tag</div>| <div style="width: 7vw">Attribute</div> | <div style="width: 15vw">Value</div> | <div>Role</div> |
 | --- | --- | -- | -- |
-| `<meta>` | [charset]() | UTF-8 | Specifies the character encoding for the HTML document. |
-| `<meta>` | [viewport]() | width=device-width | Sets the width of the viewport to the device width, ensuring that the content fits the screen. |
+| `<meta>` | [charset](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#character-encoding) | UTF-8 | Specifies the character encoding for the HTML document. |
+| `<meta>` | [viewport](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#viewport-settings-for-responsive-design) | width=device-width | Sets the width of the viewport to the device width, ensuring that the content fits the screen. |
 | | | initial-scale=1.0 | Sets the initial zoom level when the page is loaded. A value of 1.0 means no zoom, and the content will be displayed at its actual size. |
 | | | minimum-scale=0.7 | |
 | | | maximum-scale=1.3 | |
-| | [description]() | HTML Mastery Guide | Provides a short description of the HTML document. Often used by search engines. |
-| | [keywords]() | HTML, CSS | Specifies a comma-separated list of keywords relevant to the page's content. |
-| | [author]() | Ninja-Vikash | Specifies the author of the HTML document.|
-| | [robots]() | index, follow | Directs search engine crawlers on how to index and follow links on a page. |
-| | [refresh]() | 5;url=https://example.com | Redirects the page to another URL after a specified time (in seconds). |
-| | [theme-color]() | #3498db | Sets the theme color for the browser's UI elements when the page is added to the home screen on mobile devices. |
-| `<a>` | [href]() | http://wwww.google.com/ | Specifies the URL (web address) of the linked resource.
+| | [description](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#description-meta-tag) | HTML Mastery Guide | Provides a short description of the HTML document. Often used by search engines. |
+| | [keywords](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#keywords-meta-tag) | HTML, CSS | Specifies a comma-separated list of keywords relevant to the page's content. |
+| | [author](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#author-meta-tag) | Ninja-Vikash | Specifies the author of the HTML document.|
+| | [robots](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#robots-meta-tag) | index, follow | Directs search engine crawlers on how to index and follow links on a page. |
+| | [refresh](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#refresh-meta-tag-redirect-after-5-seconds) | 5;url=https://example.com | Redirects the page to another URL after a specified time (in seconds). |
+| | [theme-color](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#theme-color-meta-tag) | #3498db | Sets the theme color for the browser's UI elements when the page is added to the home screen on mobile devices. |
+| `<a>` | [href](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#href) | http://wwww.google.com/ | Specifies the URL (web address) of the linked resource.
 | | | sample.html | |
-| | [target]() | _blank | Opens the link in a new tab or window. |
+| | [target](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#target) | _blank | Opens the link in a new tab or window. |
 | | | _self | Opens the link in the same tab or window (default behavior). |
 | | | _parent |  Opens the link in the parent frame. |
 | | | _top | Opens the link in the full body of the window. |
-| | [download]() |  | Indicates that the linked resource should be downloaded rather than navigated to. |
-| |  [rel]() | | Specifies the relationship between the current document and the linked document. |
-| | [title]() | | Provides additional information about the linked resource, often displayed as a tooltip. |
-| | [aria-label]() | | Specifies an accessible label for screen readers, providing additional context. |
+| | [download](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#download) |  | Indicates that the linked resource should be downloaded rather than navigated to. |
+| |  [rel](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#rel) | nofollow | Instructs search engines not to follow the link. |
+| | | noopener | Prevents the new page from accessing the window.opener property. |
+| | | noreferrer | Requires the browser not to send a referrer header. |
+| | [title](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#title) | | Provides additional information about the linked resource, often displayed as a tooltip. |
+| | [aria-label](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#aria-label) | | Specifies an accessible label for screen readers, providing additional context. |
 
 
 
@@ -193,7 +195,7 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 
 > Provides additional information about the linked resource, often displayed as a tooltip.
 
-#### aria-labe
+#### aria-label
 ```html
 <a href="https://www.example.com" aria-label="Visit Example.com">Link</a>
 ```
