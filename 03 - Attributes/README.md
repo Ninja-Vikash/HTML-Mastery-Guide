@@ -10,10 +10,10 @@
 > Attributes are used to give some additional functionality to an HTML tag.
 
 ## Content Table
-- [**Role of Attributes**]()
+- [**Role of Attributes**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#role-of-attributes)
 - [**Attribute Table**]()  
-  * [Meta Tag Attributes]()
-  * [Anchor Tag Attributes]()
+  * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
+  * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
 
 
 
