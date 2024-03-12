@@ -101,6 +101,28 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | | noreferrer | Requires the browser not to send a referrer header. |
 | | [title](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#title) | | Provides additional information about the linked resource, often displayed as a tooltip. |
 | | [aria-label](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#aria-label) | | Specifies an accessible label for screen readers, providing additional context. |
+| `<img>` | [src]() | image.jpg | Specifies the source URL of the image. This is a mandatory attribute. |
+| | [alt]() | This is a sample image | Provides alternative text for the image, which is displayed if the image cannot be loaded or for accessibility purposes. |
+| | [width]() | 300px | Specifies the width of the image in pixels |
+| | [height]() | 200px | Specifies the height of the image in pixels |
+| | [title]() | | Adds a title or tooltip that is displayed when the user hovers over the image. |
+| | [loading]() | eager | Determines how the browser should load the image (eager is default value). |
+| | | lazy | |
+| | | auto | |
+| | [style]() | | Allows you to apply inline CSS styles to the image. |
+| `<video>` | [src]() | video.mp4 | Specifies the source URL of the video file. This is a mandatory attribute. |
+| | [controls]() | | Adds basic video controls such as play, pause, and volume. |
+| | [width]() | 300px | Sets the width of the video player in pixels. |
+| | [height]() | 200px | Sets the height of the video player in pixels. |
+| | [autoplay]() | | Specifies that the video should start playing automatically when the page loads. |
+| | [loop]() | | Causes the video to play in a loop, restarting when it reaches the end. |
+| | [muted]() | | Mutes the audio of the video by default. |
+| | [poster]() | | Video thumbnail. |
+| | [preload]() | auto | Indicates how the browser should preload the video. "auto" (default), "metadata" (preload only metadata), and "none" (do not preload).. |
+| |  | metadata | "metadata" (preload only metadata) |
+| |  | none | "none" (do not preload).. |
+| | [playsinline]() | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
+
 
 ### Meta Tag Attributes
 #### Character Encoding
