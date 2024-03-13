@@ -557,7 +557,7 @@ The `style` attribute in HTML is used to apply inline styles directly to a speci
 > Inline > Internal > External
 
 > [!NOTE]\
-> We we add `!important` at the end of any property of CSS, It will override even inline style.
+> If we add `!important` at the end of any property of CSS, It will override even inline style.
 ```html
 <style>
   h2 {
