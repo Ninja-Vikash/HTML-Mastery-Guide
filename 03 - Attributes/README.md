@@ -134,7 +134,14 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | | number | Takes only numbers  |
 | | [name]() | name | Provides a name for the input field. This name is used when submitting the form, and it should be unique within the form. |
 | | [value]() | | Sets the initial value of the input field. For checkboxes and radio buttons, it represents the value that gets sent to the server when the form is submitted. |
-
+| | [placeholder]() | | Specifies a short hint that describes the expected value of the input field. It is typically displayed before the user enters a value. |
+| | [disabled]() | | Disables the input field, making it non-editable and preventing user interaction. |
+| | [readonly]() | | Makes the input field read-only, preventing the user from modifying its value, but still allowing it to be submitted with the form. |
+| | [required]() | | Specifies that the input field must be filled out before submitting the form. |
+| | [maxlength]() | 20 | Sets the maximum number of characters allowed in the input field. |
+| | [min]() | | 18 | For number and date inputs, specifies the minimum allowed values. |
+| | [max]() | | 99 | For number and date inputs, specifies the maximum allowed values. |
+| | [pattern]() | [0-9]{5} | Specifies a regular expression pattern that the input value must match for the form to be submitted. |
 
 ### Meta Tag Attributes
 #### Character Encoding
