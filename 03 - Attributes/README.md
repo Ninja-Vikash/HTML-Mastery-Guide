@@ -16,11 +16,11 @@
   * [Anchor Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#anchor-tag-attributes)
   * [Image Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#image-tag-attributes)
   * [Video Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#video-tag-attribute)
-  * [Input Tag Attributes]()
-- [**Special Attributes**]()
-  * [Class]()
-  * [Id]()
-  * [Style]()
+  * [Input Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#input-tag-attribute)
+- [**Special Attributes**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#special-attribute)
+  * [Class](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#class)
+  * [Id](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#id)
+  * [Style](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#style-1)
 - [**URLs**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#urluniform-resource-locator)
 
 ### Role of Attributes
@@ -122,8 +122,8 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | [preload](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#preload) | auto | Indicates how the browser should preload the video. "auto" (default), "metadata" (preload only metadata), and "none" (do not preload).. |
 | |  | metadata | "metadata" (preload only metadata) |
 | |  | none | "none" (do not preload).. |
-| | [playsinline]() | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
-| `<input>` | [type]() | text | For taking text value |
+| | [playsinline](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#playsinline) | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
+| `<input>` | [type](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#type-required) | text | For taking text value |
 | | | password | Value will appear in the form of * |
 | | | checkbox | We can select more values |
 | | | radio | We can choose only one |
@@ -132,8 +132,8 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | | file | For inserting any file |
 | | | email | Takes only email |
 | | | number | Takes only numbers  |
-| | [name]() | name | Provides a name for the input field. This name is used when submitting the form, and it should be unique within the form. |
-| | [value]() | | Sets the initial value of the input field. For checkboxes and radio buttons, it represents the value that gets sent to the server when the form is submitted. |
+| | [name](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#name) | name | Provides a name for the input field. This name is used when submitting the form, and it should be unique within the form. |
+| | [value](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#value) | | Sets the initial value of the input field. For checkboxes and radio buttons, it represents the value that gets sent to the server when the form is submitted. |
 
 
 ### Meta Tag Attributes
