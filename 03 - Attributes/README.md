@@ -9,7 +9,7 @@
 > [!NOTE]\
 > Attributes are used to give some additional functionality to an HTML tag.
 
-## Content Table
+## What's Inside
 - [**Role of Attributes**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#role-of-attributes)
 - [**Attribute Table**](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/blob/main/03%20-%20Attributes/README.md#attribute-table)  
   * [Meta Tag Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#meta-tag-attributes)
@@ -122,6 +122,17 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | |  | metadata | "metadata" (preload only metadata) |
 | |  | none | "none" (do not preload).. |
 | | [playsinline]() | | Enables the video to play inline on mobile devices instead of in a full-screen mode. |
+| `<input>` | [type]() | text | For taking text value |
+| | | password | Value will appear in the form of * |
+| | | checkbox | We can select more values |
+| | | radio | We can choose only one |
+| | | submit | For submitting |
+| | | reset | For resetting |
+| | | file | For inserting any file |
+| | | email | Takes only email |
+| | | number | Takes only numbers  |
+| | [name]() | name | Provides a name for the input field. This name is used when submitting the form, and it should be unique within the form. |
+| | [value]() | | Sets the initial value of the input field. For checkboxes and radio buttons, it represents the value that gets sent to the server when the form is submitted. |
 
 
 ### Meta Tag Attributes
@@ -329,57 +340,244 @@ The `<video>` tag in HTML is used to embed video content in a web page. It has v
 ```
 > Enables the video to play inline on mobile devices instead of in a full-screen mode.
 
-# Above
+### Input Tag Attribute
+The `<input>` tag in HTML is a versatile element used to create various form controls. The behavior and appearance of these controls can be customized using different attributes. Here are some common attributes for the `<input>` tag
 
-
+#### type (required)
 ```html
-<link rel="stylesheet" href="style.css">
+<input type="text" name="username">
 ```
-`rel="stylesheet"` is the relation attribute.
+> [!IMPORTANT]\
+> Specifies the type of form control to be created. Common values include\
+> "text", "password", "checkbox", "radio", "submit", "reset", "file", "email", "number", and more.
 
+#### name
 ```html
-<img src="img.jpeg" alt="Book image">
+<input type="text" name="username">
 ```
-`src="relative | absolute url"` is the source attribute, where we will paste the address of img.jpeg locally or the URL of the image from the web. Alt is an alternate attribute that is shown in the browser when somehow our image does not load on the web page. <br>
-> For Those Tags without attributes, we can add attributes to give them some additional details to the HTML tag
+> [!NOTE]\
+> Provides a name for the input field. This name is used when submitting the form, and it should be unique within the form.
+
+#### value
 ```html
-<img src="img.jpeg" alt="Book image" height="200px">
+<input type="text" name="username" value="JohnDoe">
 ```
-> We use only height or width on images to maintain their aspect ratio.
+> Sets the initial value of the input field. For checkboxes and radio buttons, it represents the value that gets sent to the server when the form is submitted.
 
-> Attributes usually come in name/value pairs like `name="value"`
+#### placeholder
+```html
+<input type="text" name="username" placeholder="Enter your username">
+```
+> Specifies a short hint that describes the expected value of the input field. It is typically displayed before the user enters a value.
 
-We will learn about more attributes of tags in further chapters. like style attribute for inline styling, type attribute for input tags
+#### disabled
+```html
+<input type="text" name="username" disabled>
+```
+> Disables the input field, making it non-editable and preventing user interaction.
 
+#### readonly
+```html
+<input type="text" name="username" value="JohnDoe" readonly>
+```
+> Makes the input field read-only, preventing the user from modifying its value, but still allowing it to be submitted with the form.
+
+#### required
+```html
+<input type="text" name="username" required>
+```
+> [!NOTE]\
+> Specifies that the input field must be filled out before submitting the form.
+
+#### maxlength
+```html
+<input type="text" name="username" maxlength="20">
+```
+> Sets the maximum number of characters allowed in the input field.
+
+#### min and max
+```html
+<input type="number" name="age" min="18" max="99">
+```
+> For number and date inputs, specifies the minimum and maximum allowed values.
+
+#### pattern
+```html
+<input type="text" name="zipcode" pattern="[0-9]{5}">
+```
+> Specifies a regular expression pattern that the input value must match for the form to be submitted.
+
+These are just a few of the many attributes you can use with the `<input>` tag. The specific attributes you use depend on the type of form control you are creating and the desired behavior of your form.
+
+## Special Attribute
+The attributes mentioned are applicable to various HTML tags and are commonly implemented across different elements.
+### class
+The `class` attribute in HTML is used to assign one or more class names to an HTML element. The primary role of the class attribute is to provide a way to apply styles and behaviors to multiple elements on a web page. It allows you to create a reusable set of styles or scripts and apply them to different elements without having to duplicate the code.
+
+- **Styling with CSS**
+
+  By assigning a class to an HTML element, you can target that class in your CSS (Cascading Style Sheets) to apply specific styles. This promotes a separation of concerns between the structure (HTML), presentation (CSS), and behavior (JavaScript) of a web page.
+
+  ```html
+  <style>
+    .highlight {
+      background-color : yellow;
+    }
+  </style>
+  
+  <p class="highlight">This paragraph has a yellow background</p>
+  ```
+- **JavaScript and DOM Manipulation**
+
+  JavaScript can use the `class` attribute to select and manipulate elements in the Document Object Model (DOM). This is particularly useful when adding or removing classes dynamically based on user interactions or other events.
+
+  ```html
+  <script>
+    function toggleHighlight() {
+      var element = document.getElementById("myElement");
+      element.classList.toggle("highlight");
+    }
+  </script>
+
+  <button onclick="toggleHighlight()">Toggle Highlight</button>
+  <p id="myElement">This paragraph can be highlighted.</p>
+  ```
+
+- **Styling Frameworks and Libraries**
+
+  Many CSS frameworks and libraries, such as tailwindCSS, use the `class` attribute extensively to provide pre-defined styles. By applying specific classes, you can easily leverage the styling and layout features provided by these frameworks.
+
+  ```html
+  <h1 class="text-xl font-bold text-center">Hello World!</h1>
+  ```
+
+> [!IMPORTANT]\
+> Using the `class` attribute in HTML allows for a more modular and maintainable approach to styling and scripting, making it easier to update the appearance and behavior of multiple elements throughout a website.
+
+### id
+The `id` attribute in HTML is used to uniquely identify an individual HTML element on a web page. Unlike the `class` attribute, which is designed for grouping multiple elements together, the `id` attribute should be assigned to a single element. 
+
+The primary roles and purposes of the `id` attribute are as follows
+- **Uniqueness**
+
+  The primary role of the `id` attribute is to provide a unique identifier for a specific HTML element within a document. Each `id` value must be unique within the HTML document to ensure that it refers to only one specific element.
+
+  ```html
+  <div id="header">This is the header</div>
+  <p id="main-content">This is the main content</p>
+  ```
+
+- **Styling with CSS**
+
+  Similar to the `class` attribute, the `id` attribute is often used in conjunction with CSS to apply specific styles to an individual element. The `id` selector in CSS begins with a hash (`#`) followed by the `id` value.
+
+  ```html
+  <style>
+    #header {
+      font-size: 20px;
+      color: blue;
+    }
+  </style>
+
+  <div id="header">This is the styled header</div>
+  ```
+
+- **JavaScript and DOM Manipulation**
+  
+  The `id` attribute is frequently used in JavaScript for selecting and manipulating specific elements in the Document Object Model (DOM). This is valuable for dynamic web pages and interactivity, allowing developers to target and modify individual elements.
+
+  ```html
+  <script>
+    var headerElement = document.getElementById("header");
+    headerElement.innerHTML = "Updated header text";
+  </script>
+
+  <div id="header">This is the original header</div>
+  ```
+
+- **Anchors and Links**
+
+  The `id` attribute is often used in combination with fragment identifiers in URLs to create anchor links. This allows users to navigate directly to a specific section or element within a page.
+
+  ```html
+  <a href="#main-content">Jump to Main Content</a>
+  <p id="main-content">This is the main content</p>
+  ```
+
+> [!IMPORTANT]\
+> It's important to note that while the class attribute can be used for multiple elements, the id attribute should be unique within the document. Overusing id values or assigning the same id to multiple elements can lead to issues and is generally not recommended.
+
+### style
+The `style` attribute in HTML is used to apply inline styles directly to a specific HTML element. It allows you to define CSS (Cascading Style Sheets) properties for that particular element without the need for an external stylesheet. The `style` attribute takes a string value containing one or more CSS property-value pairs separated by semicolons.
+
+- **Element-Specific Styling**
+
+  The `style` attribute allows you to apply styling directly to a specific HTML element. This is useful when you want to define styles for a single element without affecting other elements on the page.
+
+- **Dynamic Styling**
+
+  Inline styles can be modified dynamically using JavaScript. This is particularly useful for interactive web pages where the appearance of an element may change based on user interactions or other events.
+
+  ```html
+  <button onclick="changeColor()">Change Color</button>
+  <p id="myParagraph" style="color: blue;">This paragraph has inline styles.</p>
+
+  <script>
+    function changeColor() {
+      var paragraph = document.getElementById("myParagraph");
+      paragraph.style.color = "green";
+    }
+  </script>
+  ```
+
+- **Quick Styling for Prototyping**
+  
+  The `style` attribute is convenient for quickly adding styles during the development and prototyping phase when you may not have a fully developed CSS file.
+
+  ```html
+  <div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0;">Styled div</div>
+  ```
+
+- **Specificity**
+
+  Inline styles have a high level of specificity in the CSS cascade. If conflicting styles are applied to an element, the inline styles will usually take precedence over styles defined in an external stylesheet or a style block.
+
+> [!IMPORTANT]\
+> Specificity order for styling elements\
+> Type Selector < Class Selector < ID Selector < Inline Style\
+> Specificity order of styles where it written\
+> Inline > Internal > External
+
+> [!NOTE]\
+> We we add `!important` at the end of any property of CSS, It will override even inline style.
+```html
+<style>
+  h2 {
+      text-align: center !important;
+  }
+</style>
+```
+
+Despite its convenience, it's generally recommended to use external stylesheets or style blocks in the `<head>` section of the HTML document for larger projects. This promotes a cleaner separation of HTML structure and CSS styles, making the code more maintainable and easier to manage.
+
+
+----------------------------------------------------------------------------------------------------------
 ## URL(Uniform Resource Locator)
+### What is URL?
 URL stands for Uniform Resource Locator. Any internet location available on the server is called a web URL, web address, or website. URL gives the address of files created for webpages or other documents like an image, pdf for a doc file, etc.
-<br>
-There are two types of URLs-
-1. Absolute
-2. Relative
+
+**There are two types of URLs**
+1. [Absolute URL](https://www.geeksforgeeks.org/types-of-url/#absolute-url)
+2. [Relative URL](https://www.geeksforgeeks.org/types-of-url/#relative-url)
 
 ### Absolute URL
 This type of URL contains both the domain name and directory/page path. An absolute URL gives complete location information. It begins with a protocol like `https://` and continues, including every detail.
 
 ### Relative URL
 This type of URL contains the path excluding the domain name. Relative means “in relation to”, and a relative URL tells a URL location in terms of the current location. A relative path is used for reference to a given link of a file that exists within the same domain.
-<br>
+
 Let us assume a web developer setting up a webpage and want to link an image called
 `<img src="img.jpeg">`
 
-
-### Notable
-
-```html
-<img src="URL" />
-```
- is a self-closing tag used to display Images on a screen.
-```html
-<video src="URL"></video>
-```
-has a closing tag used to display Videos on a screen.
-
-
-<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">
-  <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
-</a>
+#### Contributions are welcome ❤️
+### Happy Coding 🤝!

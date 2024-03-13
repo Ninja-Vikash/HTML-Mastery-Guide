@@ -81,5 +81,5 @@ We can directly download the extension on the VS code from the bar as
 ### <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto rename tag</a>
 ![Auto rename tag](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/auto%20rename%20tag.png)
 
-#### Thank You!
+#### Thank You ❤️
 ### Happy Coding 🤝!
