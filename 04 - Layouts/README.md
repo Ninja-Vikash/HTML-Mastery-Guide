@@ -1,12 +1,15 @@
-# CHAPTER 4
-## 🔴 Page layout techniques <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/icon%20%26%20png/htmlLogo.png" height="20px" />
+##### HTML Mastery Guide 🏅
 
-![Banner](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/HTML.png)
+# Layout of any HTML Document
 
-### Arrangement of tags in an HTML document
+### Why layout plays a vital role in a HTML document?
+Layoutting HTML document is a good practice. Also it makes HTML document more readable during development. 
 
-Tags are divided into two categories <br>
-- **Semantic tag**
+And browser easily identify, What kind of data is stored inside any section.
+
+There are two major techniques for layoutting any HTML document. By using:
+1. **Semantic tags**
+
 ```html
 <body>
     <header>
@@ -27,7 +30,7 @@ Tags are divided into two categories <br>
 ```
 and so on...
 
-- **Non-semantic tag**
+2. **Non-semantic tags**
 ```html
 <body>
     <div class="header">
@@ -46,9 +49,13 @@ and so on...
     </div>
 </body>
 ```
+> [!NOTE]\
+> In `non-semantic` tag arrangement we use classes or ids for easy identification.\
+> While `semantic` tags are automatically identified by their names.
 
-
-The `<main>` is divided into several semantic tags. As follow-
+***
+### Distribution of tags
+`main` tag is further distributed in multiple tags as:
 
 ```html
 <main>
@@ -89,11 +96,10 @@ The `<main>` is divided into several semantic tags. As follow-
       </aside>
 </main>
 ```
-<br>
 
-You can see an example of semantic layout--> <a href="https://github.com/Ninja-Vikash/HTML/blob/main/CHAPTER%204%20-%20Page%20Layout/portfolio.html">*demo.html*</a>
-</ol>
+**Look**
 
-<a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag">
-    <img src="https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/next-removebg-preview.png" height="30px" />
-</a>
+Here is a [demo.html](demo.html)
+
+#### Happy coding! 🤝
+

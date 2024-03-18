@@ -1,4 +1,4 @@
-##### HTML Mastery Guide
+##### HTML Mastery Guide 🏅
 
 # Attributes in HTML
 
