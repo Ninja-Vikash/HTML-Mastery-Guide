@@ -20,7 +20,7 @@ Welcome to the HTML Mastery Guide repository! Whether you're a complete beginner
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%209%20-%20HTML%20Forms">Learn about various input types and HTML Forms components</a>
 
 ### Contributions
-This repository is a collaborative effort, and your contributions are welcome! If you spot an error, have a suggestion, or want to add new content, feel free to submit a pull request. Let's make this guide a vibrant and up-to-date resource for the entire community.
+This repository is open tp collaborate, and your contributions are welcome! If you spot an error, have a suggestion, or want to add new content, feel free to submit a pull request. Let's make this guide a vibrant and up-to-date resource for the entire community.
 
 ### Feedback
 Your feedback is valuable. If you have questions, suggestions, or just want to share your success stories, feel free to open an issue or reach out through the discussion forum. Let's grow together as a community of HTML enthusiasts.
