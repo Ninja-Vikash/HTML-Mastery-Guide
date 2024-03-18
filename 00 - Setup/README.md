@@ -1,4 +1,4 @@
-##### HTML Mastery Guide
+##### HTML Mastery Guide 🏅
 # The Crucial Role of IDEs in Coding
 ## Overview
 In the world of coding, having the right tools is paramount to success. An Integrated Development Environment (IDE), providing a comprehensive platform where code creation, execution, and debugging seamlessly come together. Regardless of your coding language or project type, an IDE is a must-have companion that transforms the coding experience.

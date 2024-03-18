@@ -1,4 +1,4 @@
-##### HTML Mastery Guide
+##### HTML Mastery Guide 🏅
 
 # Layout of any HTML Document
 
