@@ -75,13 +75,16 @@ We can Embed online videos through a corresponding `<iframe>`; tag.
 ---
 
 ### Process of Embedding Youtube Video on Your webpage!
-Search for a video on **YOUTUBE**
+Search for a video on `YOUTUBE`
+
 ![preview 1](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-1.png)
-<br>
-Click on **Share**
+
+> Click on `Share`
+
 ![preview 2](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-2.png)
-Select the Embed option from them
-<br>
-Just - paste it on your HTML file
+> Select the Embed option from them
+
+> Just - paste it on your HTML file
+
 ![preview 3](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-3.png)
 ![preview 4](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/embed-4.png)
