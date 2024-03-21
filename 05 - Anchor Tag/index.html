@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anchor tag</title>
+    <style>
+      #bottom {
+        margin-top : 1000px;
+      }
+      * {
+            font-family: sans-serif;
+        }
+        button a {
+            text-decoration: none;
+            color: black;
+            font-weight: 600;
+            font-family: sans-serif;
+        }
+    </style>
+  </head>
+  <body>
+    <!-- BASIC USE OF ANCHOR TAG -->
+    <section class="basic" id="top">
+      <h2>Basic usage of anchor tag</h2>
+      <!-- Anchor tag used to switch between html pages -->
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a> <br> <br>
+      <a href="https://www.google.com">Google</a> <br><!--page will load google.com official webpage--> <br>
+      
+      <button>
+        <a href="image.jpeg" target="_blank">Open Image</a> <!--redirects to an image-->
+      </button>
+      <!-- We can make images clickable, and it will navigate to a URL/FILE/ANOTHER HTML -->
+      <a href="https://www.google.com" target="_blank" style="float: left;"><img src="google.jpg" alt="" height="500px"></a> <br>
+
+      <button style="clear: left; display: block;">
+        <a href="#bottom">Move to bottom</a>
+      </button>
+    </section>
+
+    <!-- WE CAN USE ANCHOR TAG TO NAVIGATE IN OUR WEBPAGE'S ANY SECTION -->
+    <section id="bottom">
+      <button>
+        <a href="#top">Top</a>
+      </button>
+      <h2>This is a subheading of Advanced use of 'Anchor tag'</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex assumenda consequuntur doloremque eveniet similique laborum fugiat vero nam quod optio molestias officia dolores, quasi atque facere labore. Repellendus porro hic architecto iure modi possimus harum! Perferendis ducimus voluptatibus ab, hic mollitia corporis porro accusamus corrupti nobis commodi cupiditate aliquid suscipit odit, nemo accusantium. Voluptas, quia iure.</p>
+    </section>
+
+    <iframe width="420" height="240" src="https://www.youtube-nocookie.com/embed/ec6riISgwtc?si=34rKrn6crfI1SdqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </body>
+</html>
