@@ -31,7 +31,7 @@ In the world of coding, having the right tools is paramount to success. An Integ
 - **Save the file**: Save the file with a ".html" extension. When saving, choose "All Files" as the file type to ensure that Notepad doesn't append a ".txt" extension. For example, you could save it as "index.html".
 - **Open in a web browser**: Double-click the saved HTML file to open it in your default web browser and see how it looks.
 
-![notepad](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/notepad-view.png) 
+![notepad](https://github.com/Ninja-Vikash/asset-cloud/blob/main/assets%20-%20HTML/notepad.png) 
 
 > [!NOTE]\
 > While using a more feature-rich code editor is often recommended for web development, especially for larger projects, Notepad can be a quick and simple option for small HTML tasks or learning purposes. If you're working on more extensive web development projects, consider using specialized code editors like Visual Studio Code, Sublime Text, Atom, or others. These editors provide features like syntax highlighting, auto-completion, and better organization of your code.
