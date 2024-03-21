@@ -12,8 +12,8 @@ Welcome to the HTML Mastery Guide repository! Whether you're a complete beginner
 #### ● [What is HTML?](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/01%20-%20Introduction)
 #### ● [Elements in HTML](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/02%20-%20Fundamentals)
 #### ● [Role of Attributes](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes)
-#### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%204%20-%20Page%20Layout">Learn page layout technique and familiar with 'Semantic' & 'Non-semantic' tags</a>
-#### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%205%20-%20Anchor%20Tag">Uses of Anchor tag and possibilities with anchor tag</a>
+#### ● [Layouts in HTML](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/04%20-%20Layouts)
+#### ● [Anchor tag](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/05%20-%20Anchor%20Tag)
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%206%20-%20Inline-block%20tags">Learn about Inline & Block elements</a>
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%207%20-%20List%20in%20HTML">How to make Lists in HTML and its types?</a>
 #### ● <a href="https://github.com/Ninja-Vikash/HTML/tree/main/CHAPTER%208%20-%20Table%20in%20HTML">What is a Table in HTML, What is its role in HTML?</a>
