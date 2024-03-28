@@ -142,6 +142,7 @@ Attributes enhance the flexibility and functionality of HTML elements, making th
 | | [min](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#min-and-max) | 18 | For number and date inputs, specifies the minimum allowed values. |
 | | [max](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#min-and-max) | 99 | For number and date inputs, specifies the maximum allowed values. |
 | | [pattern](https://github.com/Ninja-Vikash/HTML-Mastery-Guide/tree/main/03%20-%20Attributes#pattern) | [0-9]{5} | Specifies a regular expression pattern that the input value must match for the form to be submitted. |
+| | [accept]() | .jpg, .png, .webp, etc | For describing input file types (extensions like .jpg, .png, .webp, etc) are allowed. |
 
 ### Meta Tag Attributes
 #### Character Encoding
@@ -414,6 +415,13 @@ The `<input>` tag in HTML is a versatile element used to create various form con
 <input type="text" name="zipcode" pattern="[0-9]{5}">
 ```
 > Specifies a regular expression pattern that the input value must match for the form to be submitted.
+
+#### accept
+```html
+<input type="file" accept=" .jpg">
+```
+> ![NOTE]\
+> For describing input file types (extensions like .jpg, .png, .webp, etc) are allowed.
 
 These are just a few of the many attributes you can use with the `<input>` tag. The specific attributes you use depend on the type of form control you are creating and the desired behavior of your form.
 
